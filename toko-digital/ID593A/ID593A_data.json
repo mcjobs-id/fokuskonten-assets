@@ -1,0 +1,21 @@
+{
+  "sku": "ID593A",
+  "cover": "/covers/ID593A/ID593A_cover.webp",
+  "cover_jpg": "/covers/ID593A/ID593A_cover.jpg",
+  "slides": [
+    "/covers/ID593A/ID593A_slide_01.webp",
+    "/covers/ID593A/ID593A_slide_02.webp",
+    "/covers/ID593A/ID593A_slide_03.webp",
+    "/covers/ID593A/ID593A_slide_04.webp",
+    "/covers/ID593A/ID593A_slide_05.webp"
+  ],
+  "gallery": [
+    "/covers/ID593A/ID593A_cover.webp",
+    "/covers/ID593A/ID593A_slide_01.webp",
+    "/covers/ID593A/ID593A_slide_02.webp",
+    "/covers/ID593A/ID593A_slide_03.webp",
+    "/covers/ID593A/ID593A_slide_04.webp",
+    "/covers/ID593A/ID593A_slide_05.webp"
+  ],
+  "updated_at": "2026-09-07T13:35:24.673Z"
+}
