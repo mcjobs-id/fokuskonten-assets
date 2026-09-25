@@ -1,13 +1,13 @@
 {
   "metadata": {
     "title": "FokusKonten Asset CDN — Toko Digital Product Covers & Slides Index",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "total_skus": 989,
-    "total_visual_files": 3600,
+    "total_visual_files": 3598,
     "total_covers": 989,
-    "total_slides": 2611,
-    "total_all_files": 8259,
-    "generated_at": "2026-09-25T11:27:16.232Z",
+    "total_slides": 2610,
+    "total_all_files": 8439,
+    "generated_at": "2026-09-25T11:41:00.239Z",
     "cdn_base_urls": {
       "tier1_jsdelivr": "https://cdn.jsdelivr.net/gh/mcjobs-id/fokuskonten-assets@main/toko-digital",
       "tier2_raw_github": "https://raw.githubusercontent.com/mcjobs-id/fokuskonten-assets/main/toko-digital",
@@ -17,11 +17,9 @@
   "by_sku": {
     "ID-TEK-MEGA": {
       "sku": "ID-TEK-MEGA",
-      "cover": "ID-TEK-MEGA_cover.webp",
+      "cover": "ID-TEK-MEGA_cover.jpg",
       "slides": [],
-      "files": [
-        "ID-TEK-MEGA_cover.webp"
-      ],
+      "files": [],
       "auxiliary_files": [
         "ID-TEK-MEGA_cover.jpg",
         "ID-TEK-MEGA_slide_spec.jpg"
@@ -97,7 +95,9 @@
       "files": [
         "ID01A0_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID01A0_cover.jpg"
+      ]
     },
     "ID0225": {
       "sku": "ID0225",
@@ -155,7 +155,9 @@
       "files": [
         "ID029A_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID029A_cover.jpg"
+      ]
     },
     "ID0323": {
       "sku": "ID0323",
@@ -218,7 +220,9 @@
       "files": [
         "ID041E_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID041E_cover.jpg"
+      ]
     },
     "ID04D4": {
       "sku": "ID04D4",
@@ -250,7 +254,9 @@
       "files": [
         "ID04F9_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID04F9_cover.jpg"
+      ]
     },
     "ID0526": {
       "sku": "ID0526",
@@ -539,7 +545,9 @@
       "files": [
         "ID0A00_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID0A00_cover.jpg"
+      ]
     },
     "ID0A03": {
       "sku": "ID0A03",
@@ -548,7 +556,9 @@
       "files": [
         "ID0A03_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID0A03_cover.jpg"
+      ]
     },
     "ID0AC2": {
       "sku": "ID0AC2",
@@ -791,7 +801,9 @@
       "files": [
         "ID0CF5_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID0CF5_cover.jpg"
+      ]
     },
     "ID0D14": {
       "sku": "ID0D14",
@@ -826,7 +838,9 @@
       "files": [
         "ID0D2B_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID0D2B_cover.jpg"
+      ]
     },
     "ID0D76": {
       "sku": "ID0D76",
@@ -847,7 +861,6 @@
       "auxiliary_files": [
         "ID0D76_cover.jpg",
         "ID0D76_cover.png",
-        "ID0D76_data.json",
         "ID0D76_slide_01.jpg",
         "ID0D76_slide_02.jpg",
         "ID0D76_slide_03.jpg",
@@ -862,7 +875,9 @@
       "files": [
         "ID0DD5_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID0DD5_cover.jpg"
+      ]
     },
     "ID0E01": {
       "sku": "ID0E01",
@@ -3145,7 +3160,9 @@
       "files": [
         "ID0EBF_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID0EBF_cover.jpg"
+      ]
     },
     "ID0EF8": {
       "sku": "ID0EF8",
@@ -3556,7 +3573,6 @@
       "auxiliary_files": [
         "ID1301_cover.jpg",
         "ID1301_cover.png",
-        "ID1301_data.json",
         "ID1301_slide_01.jpg",
         "ID1301_slide_02.jpg",
         "ID1301_slide_03.jpg",
@@ -3839,7 +3855,9 @@
       "files": [
         "ID194F_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID194F_cover.jpg"
+      ]
     },
     "ID19EB": {
       "sku": "ID19EB",
@@ -3848,7 +3866,9 @@
       "files": [
         "ID19EB_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID19EB_cover.jpg"
+      ]
     },
     "ID19F7": {
       "sku": "ID19F7",
@@ -3891,7 +3911,6 @@
       "auxiliary_files": [
         "ID19F7_cover.jpg",
         "ID19F7_cover.png",
-        "ID19F7_data.json",
         "ID19F7_slide_01.jpg",
         "ID19F7_slide_02.jpg",
         "ID19F7_slide_03.jpg",
@@ -3959,7 +3978,6 @@
       "auxiliary_files": [
         "ID1A65_cover.jpg",
         "ID1A65_cover.png",
-        "ID1A65_data.json",
         "ID1A65_slide_01.jpg",
         "ID1A65_slide_02.jpg",
         "ID1A65_slide_03.jpg",
@@ -3979,7 +3997,9 @@
       "files": [
         "ID1A81_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID1A81_cover.jpg"
+      ]
     },
     "ID1A98": {
       "sku": "ID1A98",
@@ -4108,7 +4128,9 @@
       "files": [
         "ID1DAB_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID1DAB_cover.jpg"
+      ]
     },
     "ID1DB6": {
       "sku": "ID1DB6",
@@ -4252,7 +4274,9 @@
       "files": [
         "ID1EBD_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID1EBD_cover.jpg"
+      ]
     },
     "ID1F68": {
       "sku": "ID1F68",
@@ -4277,7 +4301,6 @@
       "auxiliary_files": [
         "ID1F68_cover.jpg",
         "ID1F68_cover.png",
-        "ID1F68_data.json",
         "ID1F68_slide_01.jpg",
         "ID1F68_slide_02.jpg",
         "ID1F68_slide_03.jpg",
@@ -4499,7 +4522,9 @@
       "files": [
         "ID23CE_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID23CE_cover.jpg"
+      ]
     },
     "ID23DF": {
       "sku": "ID23DF",
@@ -4508,7 +4533,9 @@
       "files": [
         "ID23DF_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID23DF_cover.jpg"
+      ]
     },
     "ID23F9": {
       "sku": "ID23F9",
@@ -4610,7 +4637,9 @@
       "files": [
         "ID249F_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID249F_cover.jpg"
+      ]
     },
     "ID2508": {
       "sku": "ID2508",
@@ -4652,7 +4681,9 @@
       "files": [
         "ID2633_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID2633_cover.jpg"
+      ]
     },
     "ID263B": {
       "sku": "ID263B",
@@ -4703,7 +4734,6 @@
       "auxiliary_files": [
         "ID2642_cover.jpg",
         "ID2642_cover.png",
-        "ID2642_data.json",
         "ID2642_slide_01.jpg",
         "ID2642_slide_02.jpg",
         "ID2642_slide_03.jpg",
@@ -4752,7 +4782,9 @@
       "files": [
         "ID2749_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID2749_cover.jpg"
+      ]
     },
     "ID276D": {
       "sku": "ID276D",
@@ -4924,7 +4956,6 @@
       "auxiliary_files": [
         "ID27F6_cover.jpg",
         "ID27F6_cover.png",
-        "ID27F6_data.json",
         "ID27F6_slide_01.jpg",
         "ID27F6_slide_02.jpg",
         "ID27F6_slide_03.jpg",
@@ -5010,7 +5041,9 @@
       "files": [
         "ID28D0_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID28D0_cover.jpg"
+      ]
     },
     "ID296A": {
       "sku": "ID296A",
@@ -5225,7 +5258,6 @@
       "auxiliary_files": [
         "ID2B2A_cover.jpg",
         "ID2B2A_cover.png",
-        "ID2B2A_data.json",
         "ID2B2A_slide_01.jpg",
         "ID2B2A_slide_02.jpg",
         "ID2B2A_slide_03.jpg",
@@ -5242,7 +5274,9 @@
       "files": [
         "ID2B41_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID2B41_cover.jpg"
+      ]
     },
     "ID2B50": {
       "sku": "ID2B50",
@@ -5349,7 +5383,6 @@
       "auxiliary_files": [
         "ID2D35_cover.jpg",
         "ID2D35_cover.png",
-        "ID2D35_data.json",
         "ID2D35_slide_01.jpg",
         "ID2D35_slide_02.jpg",
         "ID2D35_slide_03.jpg",
@@ -5380,7 +5413,9 @@
       "files": [
         "ID2D5D_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID2D5D_cover.jpg"
+      ]
     },
     "ID2D7C": {
       "sku": "ID2D7C",
@@ -5402,7 +5437,9 @@
       "files": [
         "ID2DB2_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID2DB2_cover.jpg"
+      ]
     },
     "ID2DF7": {
       "sku": "ID2DF7",
@@ -5533,7 +5570,9 @@
       "files": [
         "ID2FFC_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID2FFC_cover.jpg"
+      ]
     },
     "ID3121": {
       "sku": "ID3121",
@@ -5750,7 +5789,9 @@
       "files": [
         "ID32BB_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID32BB_cover.jpg"
+      ]
     },
     "ID32CB": {
       "sku": "ID32CB",
@@ -5759,7 +5800,9 @@
       "files": [
         "ID32CB_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID32CB_cover.jpg"
+      ]
     },
     "ID32DF": {
       "sku": "ID32DF",
@@ -5795,7 +5838,6 @@
       "auxiliary_files": [
         "ID32F0_cover.jpg",
         "ID32F0_cover.png",
-        "ID32F0_data.json",
         "ID32F0_slide_01.jpg",
         "ID32F0_slide_02.jpg",
         "ID32F0_slide_03.jpg",
@@ -5824,7 +5866,9 @@
       "files": [
         "ID337C_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID337C_cover.jpg"
+      ]
     },
     "ID33E1": {
       "sku": "ID33E1",
@@ -5833,7 +5877,9 @@
       "files": [
         "ID33E1_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID33E1_cover.jpg"
+      ]
     },
     "ID33EC": {
       "sku": "ID33EC",
@@ -5874,7 +5920,9 @@
       "files": [
         "ID340E_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID340E_cover.jpg"
+      ]
     },
     "ID3466": {
       "sku": "ID3466",
@@ -5883,7 +5931,9 @@
       "files": [
         "ID3466_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID3466_cover.jpg"
+      ]
     },
     "ID3497": {
       "sku": "ID3497",
@@ -5942,7 +5992,6 @@
       "auxiliary_files": [
         "ID35EF_cover.jpg",
         "ID35EF_cover.png",
-        "ID35EF_data.json",
         "ID35EF_slide_01.jpg",
         "ID35EF_slide_02.jpg",
         "ID35EF_slide_03.jpg",
@@ -6202,7 +6251,9 @@
       "files": [
         "ID37CD_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID37CD_cover.jpg"
+      ]
     },
     "ID37DC": {
       "sku": "ID37DC",
@@ -6282,7 +6333,9 @@
       "files": [
         "ID385F_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID385F_cover.jpg"
+      ]
     },
     "ID3861": {
       "sku": "ID3861",
@@ -6291,7 +6344,9 @@
       "files": [
         "ID3861_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID3861_cover.jpg"
+      ]
     },
     "ID3917": {
       "sku": "ID3917",
@@ -6367,7 +6422,9 @@
       "files": [
         "ID3A7D_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID3A7D_cover.jpg"
+      ]
     },
     "ID3ADA": {
       "sku": "ID3ADA",
@@ -6402,7 +6459,9 @@
       "files": [
         "ID3B0A_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID3B0A_cover.jpg"
+      ]
     },
     "ID3B35": {
       "sku": "ID3B35",
@@ -6437,7 +6496,9 @@
       "files": [
         "ID3B77_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID3B77_cover.jpg"
+      ]
     },
     "ID3B7C": {
       "sku": "ID3B7C",
@@ -6746,7 +6807,9 @@
       "files": [
         "ID3F65_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID3F65_cover.jpg"
+      ]
     },
     "ID3F6C": {
       "sku": "ID3F6C",
@@ -6788,7 +6851,9 @@
       "files": [
         "ID3FB6_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID3FB6_cover.jpg"
+      ]
     },
     "ID4066": {
       "sku": "ID4066",
@@ -6797,7 +6862,9 @@
       "files": [
         "ID4066_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID4066_cover.jpg"
+      ]
     },
     "ID4072": {
       "sku": "ID4072",
@@ -6860,7 +6927,9 @@
       "files": [
         "ID40BF_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID40BF_cover.jpg"
+      ]
     },
     "ID4196": {
       "sku": "ID4196",
@@ -6881,7 +6950,9 @@
       "files": [
         "ID4226_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID4226_cover.jpg"
+      ]
     },
     "ID423A": {
       "sku": "ID423A",
@@ -6999,7 +7070,6 @@
       "auxiliary_files": [
         "ID42ED_cover.jpg",
         "ID42ED_cover.png",
-        "ID42ED_data.json",
         "ID42ED_slide_01.jpg",
         "ID42ED_slide_02.jpg",
         "ID42ED_slide_03.jpg",
@@ -7031,7 +7101,9 @@
       "files": [
         "ID43B3_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID43B3_cover.jpg"
+      ]
     },
     "ID44A4": {
       "sku": "ID44A4",
@@ -7163,7 +7235,9 @@
       "files": [
         "ID4657_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID4657_cover.jpg"
+      ]
     },
     "ID471D": {
       "sku": "ID471D",
@@ -7172,7 +7246,9 @@
       "files": [
         "ID471D_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID471D_cover.jpg"
+      ]
     },
     "ID476D": {
       "sku": "ID476D",
@@ -7198,7 +7274,9 @@
       "files": [
         "ID47D2_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID47D2_cover.jpg"
+      ]
     },
     "ID4834": {
       "sku": "ID4834",
@@ -7281,7 +7359,9 @@
       "files": [
         "ID49CC_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID49CC_cover.jpg"
+      ]
     },
     "ID49E3": {
       "sku": "ID49E3",
@@ -7290,7 +7370,9 @@
       "files": [
         "ID49E3_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID49E3_cover.jpg"
+      ]
     },
     "ID49E4": {
       "sku": "ID49E4",
@@ -7312,7 +7394,9 @@
       "files": [
         "ID4A1A_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID4A1A_cover.jpg"
+      ]
     },
     "ID4A47": {
       "sku": "ID4A47",
@@ -7341,7 +7425,9 @@
       "files": [
         "ID4AD8_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID4AD8_cover.jpg"
+      ]
     },
     "ID4B0A": {
       "sku": "ID4B0A",
@@ -7701,7 +7787,9 @@
       "files": [
         "ID5068_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID5068_cover.jpg"
+      ]
     },
     "ID5074": {
       "sku": "ID5074",
@@ -7857,7 +7945,6 @@
       "auxiliary_files": [
         "ID520B_cover.jpg",
         "ID520B_cover.png",
-        "ID520B_data.json",
         "ID520B_slide_01.jpg",
         "ID520B_slide_02.jpg",
         "ID520B_slide_03.jpg",
@@ -7891,7 +7978,9 @@
       "files": [
         "ID5269_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID5269_cover.jpg"
+      ]
     },
     "ID52F9": {
       "sku": "ID52F9",
@@ -7932,7 +8021,9 @@
       "files": [
         "ID536B_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID536B_cover.jpg"
+      ]
     },
     "ID5383": {
       "sku": "ID5383",
@@ -7995,7 +8086,9 @@
       "files": [
         "ID5451_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID5451_cover.jpg"
+      ]
     },
     "ID545F": {
       "sku": "ID545F",
@@ -8043,7 +8136,9 @@
       "files": [
         "ID5527_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID5527_cover.jpg"
+      ]
     },
     "ID5535": {
       "sku": "ID5535",
@@ -8108,7 +8203,9 @@
       "files": [
         "ID5657_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID5657_cover.jpg"
+      ]
     },
     "ID5658": {
       "sku": "ID5658",
@@ -8117,7 +8214,9 @@
       "files": [
         "ID5658_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID5658_cover.jpg"
+      ]
     },
     "ID565A": {
       "sku": "ID565A",
@@ -8187,7 +8286,9 @@
       "files": [
         "ID58AA_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID58AA_cover.jpg"
+      ]
     },
     "ID58C3": {
       "sku": "ID58C3",
@@ -8238,7 +8339,6 @@
       "auxiliary_files": [
         "ID593A_cover.jpg",
         "ID593A_cover.png",
-        "ID593A_data.json",
         "ID593A_slide_01.jpg",
         "ID593A_slide_02.jpg",
         "ID593A_slide_03.jpg",
@@ -8287,7 +8387,9 @@
       "files": [
         "ID5978_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID5978_cover.jpg"
+      ]
     },
     "ID599B": {
       "sku": "ID599B",
@@ -8419,7 +8521,6 @@
       "auxiliary_files": [
         "ID5A48_cover.jpg",
         "ID5A48_cover.png",
-        "ID5A48_data.json",
         "ID5A48_slide_02.jpg",
         "ID5A48_slide_03.jpg",
         "ID5A48_slide_04.jpg",
@@ -8542,7 +8643,9 @@
       "files": [
         "ID5CAB_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID5CAB_cover.jpg"
+      ]
     },
     "ID5CCE": {
       "sku": "ID5CCE",
@@ -8573,7 +8676,6 @@
       "auxiliary_files": [
         "ID5CCE_cover.jpg",
         "ID5CCE_cover.png",
-        "ID5CCE_data.json",
         "ID5CCE_slide_01.jpg",
         "ID5CCE_slide_02.jpg",
         "ID5CCE_slide_03.jpg",
@@ -8646,7 +8748,9 @@
       "files": [
         "ID5E4B_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID5E4B_cover.jpg"
+      ]
     },
     "ID5E69": {
       "sku": "ID5E69",
@@ -8655,7 +8759,9 @@
       "files": [
         "ID5E69_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID5E69_cover.jpg"
+      ]
     },
     "ID5E9E": {
       "sku": "ID5E9E",
@@ -8687,7 +8793,9 @@
       "files": [
         "ID5E9F_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID5E9F_cover.jpg"
+      ]
     },
     "ID5EA0": {
       "sku": "ID5EA0",
@@ -8722,7 +8830,9 @@
       "files": [
         "ID5F5D_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID5F5D_cover.jpg"
+      ]
     },
     "ID5F7A": {
       "sku": "ID5F7A",
@@ -8820,7 +8930,9 @@
       "files": [
         "ID62A5_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID62A5_cover.jpg"
+      ]
     },
     "ID62DB": {
       "sku": "ID62DB",
@@ -8952,7 +9064,6 @@
       "auxiliary_files": [
         "ID6406_cover.jpg",
         "ID6406_cover.png",
-        "ID6406_data.json",
         "ID6406_slide_01.jpg",
         "ID6406_slide_02.jpg",
         "ID6406_slide_03.jpg",
@@ -8996,7 +9107,9 @@
       "files": [
         "ID64A5_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID64A5_cover.jpg"
+      ]
     },
     "ID64BE": {
       "sku": "ID64BE",
@@ -9073,7 +9186,9 @@
       "files": [
         "ID6680_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID6680_cover.jpg"
+      ]
     },
     "ID66FA": {
       "sku": "ID66FA",
@@ -9099,7 +9214,9 @@
       "files": [
         "ID6703_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID6703_cover.jpg"
+      ]
     },
     "ID670A": {
       "sku": "ID670A",
@@ -9493,7 +9610,9 @@
       "files": [
         "ID6C2D_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID6C2D_cover.jpg"
+      ]
     },
     "ID6CCE": {
       "sku": "ID6CCE",
@@ -9502,7 +9621,9 @@
       "files": [
         "ID6CCE_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID6CCE_cover.jpg"
+      ]
     },
     "ID6D10": {
       "sku": "ID6D10",
@@ -9523,7 +9644,9 @@
       "files": [
         "ID6D47_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID6D47_cover.jpg"
+      ]
     },
     "ID6D71": {
       "sku": "ID6D71",
@@ -9717,7 +9840,9 @@
       "files": [
         "ID7207_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID7207_cover.jpg"
+      ]
     },
     "ID7222": {
       "sku": "ID7222",
@@ -9726,7 +9851,9 @@
       "files": [
         "ID7222_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID7222_cover.jpg"
+      ]
     },
     "ID7243": {
       "sku": "ID7243",
@@ -9760,7 +9887,9 @@
       "files": [
         "ID72BE_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID72BE_cover.jpg"
+      ]
     },
     "ID72E4": {
       "sku": "ID72E4",
@@ -9769,7 +9898,9 @@
       "files": [
         "ID72E4_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID72E4_cover.jpg"
+      ]
     },
     "ID730C": {
       "sku": "ID730C",
@@ -9791,7 +9922,9 @@
       "files": [
         "ID73B7_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID73B7_cover.jpg"
+      ]
     },
     "ID73CC": {
       "sku": "ID73CC",
@@ -9800,7 +9933,9 @@
       "files": [
         "ID73CC_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID73CC_cover.jpg"
+      ]
     },
     "ID743E": {
       "sku": "ID743E",
@@ -9938,7 +10073,9 @@
       "files": [
         "ID7625_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID7625_cover.jpg"
+      ]
     },
     "ID762D": {
       "sku": "ID762D",
@@ -9997,7 +10134,9 @@
       "files": [
         "ID7702_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID7702_cover.jpg"
+      ]
     },
     "ID7761": {
       "sku": "ID7761",
@@ -10134,7 +10273,9 @@
       "files": [
         "ID787C_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID787C_cover.jpg"
+      ]
     },
     "ID78A4": {
       "sku": "ID78A4",
@@ -10178,7 +10319,9 @@
       "files": [
         "ID793D_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID793D_cover.jpg"
+      ]
     },
     "ID7968": {
       "sku": "ID7968",
@@ -10338,7 +10481,9 @@
       "files": [
         "ID7BAB_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID7BAB_cover.jpg"
+      ]
     },
     "ID7BBA": {
       "sku": "ID7BBA",
@@ -10373,7 +10518,9 @@
       "files": [
         "ID7BCA_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID7BCA_cover.jpg"
+      ]
     },
     "ID7BCD": {
       "sku": "ID7BCD",
@@ -10406,7 +10553,6 @@
       "auxiliary_files": [
         "ID7BCD_cover.jpg",
         "ID7BCD_cover.png",
-        "ID7BCD_data.json",
         "ID7BCD_slide_01.jpg",
         "ID7BCD_slide_02.jpg",
         "ID7BCD_slide_03.jpg",
@@ -10453,7 +10599,9 @@
       "files": [
         "ID7C4D_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID7C4D_cover.jpg"
+      ]
     },
     "ID7C67": {
       "sku": "ID7C67",
@@ -10556,7 +10704,9 @@
       "files": [
         "ID7D20_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID7D20_cover.jpg"
+      ]
     },
     "ID7D67": {
       "sku": "ID7D67",
@@ -10646,7 +10796,9 @@
       "files": [
         "ID7ED0_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID7ED0_cover.jpg"
+      ]
     },
     "ID7F75": {
       "sku": "ID7F75",
@@ -10681,7 +10833,9 @@
       "files": [
         "ID7F7D_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID7F7D_cover.jpg"
+      ]
     },
     "ID801C": {
       "sku": "ID801C",
@@ -10813,7 +10967,9 @@
       "files": [
         "ID81C0_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID81C0_cover.jpg"
+      ]
     },
     "ID823B": {
       "sku": "ID823B",
@@ -10878,7 +11034,9 @@
       "files": [
         "ID8303_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID8303_cover.jpg"
+      ]
     },
     "ID8358": {
       "sku": "ID8358",
@@ -10912,7 +11070,9 @@
       "files": [
         "ID8379_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID8379_cover.jpg"
+      ]
     },
     "ID8395": {
       "sku": "ID8395",
@@ -10999,7 +11159,9 @@
       "files": [
         "ID84C8_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID84C8_cover.jpg"
+      ]
     },
     "ID84EF": {
       "sku": "ID84EF",
@@ -11064,7 +11226,6 @@
       "auxiliary_files": [
         "ID850C_cover.jpg",
         "ID850C_cover.png",
-        "ID850C_data.json",
         "ID850C_slide_01.jpg",
         "ID850C_slide_02.jpg",
         "ID850C_slide_03.jpg",
@@ -11193,7 +11354,9 @@
       "files": [
         "ID862A_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID862A_cover.jpg"
+      ]
     },
     "ID8688": {
       "sku": "ID8688",
@@ -11287,7 +11450,6 @@
       "auxiliary_files": [
         "ID8727_cover.jpg",
         "ID8727_cover.png",
-        "ID8727_data.json",
         "ID8727_slide_01.jpg",
         "ID8727_slide_02.jpg",
         "ID8727_slide_03.jpg",
@@ -11847,7 +12009,9 @@
       "files": [
         "ID8DF2_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID8DF2_cover.jpg"
+      ]
     },
     "ID8E26": {
       "sku": "ID8E26",
@@ -11916,7 +12080,9 @@
       "files": [
         "ID8ED4_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID8ED4_cover.jpg"
+      ]
     },
     "ID8ED8": {
       "sku": "ID8ED8",
@@ -12002,7 +12168,9 @@
       "files": [
         "ID9084_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID9084_cover.jpg"
+      ]
     },
     "ID916C": {
       "sku": "ID916C",
@@ -12111,7 +12279,9 @@
       "files": [
         "ID91AF_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID91AF_cover.jpg"
+      ]
     },
     "ID91E9": {
       "sku": "ID91E9",
@@ -12148,7 +12318,6 @@
       "auxiliary_files": [
         "ID91E9_cover.jpg",
         "ID91E9_cover.png",
-        "ID91E9_data.json",
         "ID91E9_slide_01.jpg",
         "ID91E9_slide_02.jpg",
         "ID91E9_slide_03.jpg",
@@ -12194,7 +12363,9 @@
       "files": [
         "ID9288_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID9288_cover.jpg"
+      ]
     },
     "ID92BE": {
       "sku": "ID92BE",
@@ -12278,7 +12449,9 @@
       "files": [
         "ID93AF_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID93AF_cover.jpg"
+      ]
     },
     "ID93BE": {
       "sku": "ID93BE",
@@ -12385,7 +12558,6 @@
       "auxiliary_files": [
         "ID9476_cover.jpg",
         "ID9476_cover.png",
-        "ID9476_data.json",
         "ID9476_slide_01.jpg",
         "ID9476_slide_02.jpg",
         "ID9476_slide_03.jpg",
@@ -12416,7 +12588,9 @@
       "files": [
         "ID9560_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID9560_cover.jpg"
+      ]
     },
     "ID95A6": {
       "sku": "ID95A6",
@@ -12463,7 +12637,9 @@
       "files": [
         "ID9601_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID9601_cover.jpg"
+      ]
     },
     "ID963A": {
       "sku": "ID963A",
@@ -12853,7 +13029,9 @@
       "files": [
         "ID9A1A_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID9A1A_cover.jpg"
+      ]
     },
     "ID9AFD": {
       "sku": "ID9AFD",
@@ -12862,7 +13040,9 @@
       "files": [
         "ID9AFD_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID9AFD_cover.jpg"
+      ]
     },
     "ID9B34": {
       "sku": "ID9B34",
@@ -13039,7 +13219,9 @@
       "files": [
         "ID9E00_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID9E00_cover.jpg"
+      ]
     },
     "ID9E76": {
       "sku": "ID9E76",
@@ -13077,7 +13259,9 @@
       "files": [
         "ID9EAB_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID9EAB_cover.jpg"
+      ]
     },
     "ID9EDC": {
       "sku": "ID9EDC",
@@ -13099,7 +13283,9 @@
       "files": [
         "ID9F93_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID9F93_cover.jpg"
+      ]
     },
     "ID9FC2": {
       "sku": "ID9FC2",
@@ -13137,7 +13323,9 @@
       "files": [
         "ID9FC3_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID9FC3_cover.jpg"
+      ]
     },
     "ID9FE2": {
       "sku": "ID9FE2",
@@ -13146,7 +13334,9 @@
       "files": [
         "ID9FE2_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "ID9FE2_cover.jpg"
+      ]
     },
     "IDA002": {
       "sku": "IDA002",
@@ -13167,7 +13357,9 @@
       "files": [
         "IDA123_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDA123_cover.jpg"
+      ]
     },
     "IDA136": {
       "sku": "IDA136",
@@ -13176,7 +13368,9 @@
       "files": [
         "IDA136_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDA136_cover.jpg"
+      ]
     },
     "IDA182": {
       "sku": "IDA182",
@@ -13197,7 +13391,9 @@
       "files": [
         "IDA199_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDA199_cover.jpg"
+      ]
     },
     "IDA1F2": {
       "sku": "IDA1F2",
@@ -13391,7 +13587,9 @@
       "files": [
         "IDA4FD_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDA4FD_cover.jpg"
+      ]
     },
     "IDA4FF": {
       "sku": "IDA4FF",
@@ -13456,7 +13654,9 @@
       "files": [
         "IDA68B_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDA68B_cover.jpg"
+      ]
     },
     "IDA6BD": {
       "sku": "IDA6BD",
@@ -13504,7 +13704,9 @@
       "files": [
         "IDA76A_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDA76A_cover.jpg"
+      ]
     },
     "IDA792": {
       "sku": "IDA792",
@@ -13624,7 +13826,9 @@
       "files": [
         "IDA84C_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDA84C_cover.jpg"
+      ]
     },
     "IDA910": {
       "sku": "IDA910",
@@ -13657,7 +13861,9 @@
       "files": [
         "IDA9A6_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDA9A6_cover.jpg"
+      ]
     },
     "IDA9D5": {
       "sku": "IDA9D5",
@@ -13666,7 +13872,9 @@
       "files": [
         "IDA9D5_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDA9D5_cover.jpg"
+      ]
     },
     "IDAA0E": {
       "sku": "IDAA0E",
@@ -13685,7 +13893,6 @@
       "auxiliary_files": [
         "IDAA0E_cover.jpg",
         "IDAA0E_cover.png",
-        "IDAA0E_data.json",
         "IDAA0E_slide_01.jpg",
         "IDAA0E_slide_02.jpg",
         "IDAA0E_slide_03.jpg",
@@ -13711,7 +13918,9 @@
       "files": [
         "IDAA7C_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDAA7C_cover.jpg"
+      ]
     },
     "IDAA8D": {
       "sku": "IDAA8D",
@@ -13743,7 +13952,9 @@
       "files": [
         "IDAAF9_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDAAF9_cover.jpg"
+      ]
     },
     "IDAB21": {
       "sku": "IDAB21",
@@ -13852,7 +14063,9 @@
       "files": [
         "IDAC67_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDAC67_cover.jpg"
+      ]
     },
     "IDACB2": {
       "sku": "IDACB2",
@@ -13861,7 +14074,9 @@
       "files": [
         "IDACB2_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDACB2_cover.jpg"
+      ]
     },
     "IDAD3E": {
       "sku": "IDAD3E",
@@ -13870,7 +14085,9 @@
       "files": [
         "IDAD3E_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDAD3E_cover.jpg"
+      ]
     },
     "IDAD70": {
       "sku": "IDAD70",
@@ -14099,7 +14316,9 @@
       "files": [
         "IDB084_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDB084_cover.jpg"
+      ]
     },
     "IDB087": {
       "sku": "IDB087",
@@ -14169,7 +14388,9 @@
       "files": [
         "IDB203_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDB203_cover.jpg"
+      ]
     },
     "IDB21E": {
       "sku": "IDB21E",
@@ -14243,7 +14464,9 @@
       "files": [
         "IDB2AB_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDB2AB_cover.jpg"
+      ]
     },
     "IDB2FD": {
       "sku": "IDB2FD",
@@ -14287,7 +14510,9 @@
       "files": [
         "IDB398_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDB398_cover.jpg"
+      ]
     },
     "IDB3B4": {
       "sku": "IDB3B4",
@@ -14316,7 +14541,6 @@
       "auxiliary_files": [
         "IDB3B4_cover.jpg",
         "IDB3B4_cover.png",
-        "IDB3B4_data.json",
         "IDB3B4_slide_01.jpg",
         "IDB3B4_slide_02.jpg",
         "IDB3B4_slide_03.jpg",
@@ -14435,7 +14659,9 @@
       "files": [
         "IDB70A_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDB70A_cover.jpg"
+      ]
     },
     "IDB741": {
       "sku": "IDB741",
@@ -14589,7 +14815,6 @@
       "auxiliary_files": [
         "IDB963_cover.jpg",
         "IDB963_cover.png",
-        "IDB963_data.json",
         "IDB963_slide_01.jpg",
         "IDB963_slide_02.jpg",
         "IDB963_slide_03.jpg",
@@ -14621,7 +14846,9 @@
       "files": [
         "IDB9E4_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDB9E4_cover.jpg"
+      ]
     },
     "IDBABD": {
       "sku": "IDBABD",
@@ -14698,7 +14925,9 @@
       "files": [
         "IDBB5F_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDBB5F_cover.jpg"
+      ]
     },
     "IDBBB1": {
       "sku": "IDBBB1",
@@ -14787,7 +15016,9 @@
       "files": [
         "IDBBF6_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDBBF6_cover.jpg"
+      ]
     },
     "IDBBFC": {
       "sku": "IDBBFC",
@@ -14857,7 +15088,9 @@
       "files": [
         "IDBC62_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDBC62_cover.jpg"
+      ]
     },
     "IDBC75": {
       "sku": "IDBC75",
@@ -14972,7 +15205,9 @@
       "files": [
         "IDBD3F_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDBD3F_cover.jpg"
+      ]
     },
     "IDBD41": {
       "sku": "IDBD41",
@@ -15033,7 +15268,9 @@
       "files": [
         "IDBD58_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDBD58_cover.jpg"
+      ]
     },
     "IDBD76": {
       "sku": "IDBD76",
@@ -15277,7 +15514,9 @@
       "files": [
         "IDBFC7_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDBFC7_cover.jpg"
+      ]
     },
     "IDC019": {
       "sku": "IDC019",
@@ -15309,7 +15548,9 @@
       "files": [
         "IDC026_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDC026_cover.jpg"
+      ]
     },
     "IDC060": {
       "sku": "IDC060",
@@ -15677,7 +15918,6 @@
       "auxiliary_files": [
         "IDC53E_cover.jpg",
         "IDC53E_cover.png",
-        "IDC53E_data.json",
         "IDC53E_slide_01.jpg",
         "IDC53E_slide_02.jpg",
         "IDC53E_slide_03.jpg",
@@ -15692,7 +15932,9 @@
       "files": [
         "IDC55B_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDC55B_cover.jpg"
+      ]
     },
     "IDC58C": {
       "sku": "IDC58C",
@@ -15721,7 +15963,9 @@
       "files": [
         "IDC613_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDC613_cover.jpg"
+      ]
     },
     "IDC665": {
       "sku": "IDC665",
@@ -15803,7 +16047,9 @@
       "files": [
         "IDC79A_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDC79A_cover.jpg"
+      ]
     },
     "IDC7C4": {
       "sku": "IDC7C4",
@@ -15826,7 +16072,6 @@
       "auxiliary_files": [
         "IDC7C4_cover.jpg",
         "IDC7C4_cover.png",
-        "IDC7C4_data.json",
         "IDC7C4_slide_01.jpg",
         "IDC7C4_slide_02.jpg",
         "IDC7C4_slide_03.jpg",
@@ -15866,7 +16111,9 @@
       "files": [
         "IDC893_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDC893_cover.jpg"
+      ]
     },
     "IDC8D3": {
       "sku": "IDC8D3",
@@ -15996,7 +16243,9 @@
       "files": [
         "IDCA4D_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDCA4D_cover.jpg"
+      ]
     },
     "IDCA6E": {
       "sku": "IDCA6E",
@@ -16067,7 +16316,9 @@
       "files": [
         "IDCAD2_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDCAD2_cover.jpg"
+      ]
     },
     "IDCB24": {
       "sku": "IDCB24",
@@ -16178,7 +16429,6 @@
       "auxiliary_files": [
         "IDCC7D_cover.jpg",
         "IDCC7D_cover.png",
-        "IDCC7D_data.json",
         "IDCC7D_slide_01.jpg",
         "IDCC7D_slide_02.jpg",
         "IDCC7D_slide_03.jpg",
@@ -16478,7 +16728,6 @@
       "auxiliary_files": [
         "IDCEFB_cover.jpg",
         "IDCEFB_cover.png",
-        "IDCEFB_data.json",
         "IDCEFB_slide_01.jpg",
         "IDCEFB_slide_02.jpg",
         "IDCEFB_slide_03.jpg",
@@ -16496,7 +16745,9 @@
       "files": [
         "IDCF3A_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDCF3A_cover.jpg"
+      ]
     },
     "IDCFFD": {
       "sku": "IDCFFD",
@@ -16541,7 +16792,9 @@
       "files": [
         "IDD109_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDD109_cover.jpg"
+      ]
     },
     "IDD142": {
       "sku": "IDD142",
@@ -16625,7 +16878,9 @@
       "files": [
         "IDD3C2_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDD3C2_cover.jpg"
+      ]
     },
     "IDD479": {
       "sku": "IDD479",
@@ -16747,7 +17002,9 @@
       "files": [
         "IDD654_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDD654_cover.jpg"
+      ]
     },
     "IDD657": {
       "sku": "IDD657",
@@ -16990,7 +17247,9 @@
       "files": [
         "IDD8E8_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDD8E8_cover.jpg"
+      ]
     },
     "IDD915": {
       "sku": "IDD915",
@@ -17191,7 +17450,9 @@
       "files": [
         "IDDB1E_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDDB1E_cover.jpg"
+      ]
     },
     "IDDB40": {
       "sku": "IDDB40",
@@ -17285,7 +17546,9 @@
       "files": [
         "IDDCA4_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDDCA4_cover.jpg"
+      ]
     },
     "IDDCC8": {
       "sku": "IDDCC8",
@@ -17329,7 +17592,9 @@
       "files": [
         "IDDD20_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDDD20_cover.jpg"
+      ]
     },
     "IDDD2B": {
       "sku": "IDDD2B",
@@ -17561,7 +17826,9 @@
       "files": [
         "IDDEEE_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDDEEE_cover.jpg"
+      ]
     },
     "IDDEFF": {
       "sku": "IDDEFF",
@@ -17621,7 +17888,9 @@
       "files": [
         "IDDF16_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDDF16_cover.jpg"
+      ]
     },
     "IDDF2E": {
       "sku": "IDDF2E",
@@ -17630,7 +17899,9 @@
       "files": [
         "IDDF2E_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDDF2E_cover.jpg"
+      ]
     },
     "IDDF44": {
       "sku": "IDDF44",
@@ -17861,7 +18132,6 @@
       "auxiliary_files": [
         "IDE22D_cover.jpg",
         "IDE22D_cover.png",
-        "IDE22D_data.json",
         "IDE22D_slide_01.jpg",
         "IDE22D_slide_02.jpg",
         "IDE22D_slide_03.jpg",
@@ -17891,7 +18161,9 @@
       "files": [
         "IDE2D5_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDE2D5_cover.jpg"
+      ]
     },
     "IDE319": {
       "sku": "IDE319",
@@ -17946,7 +18218,9 @@
       "files": [
         "IDE356_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDE356_cover.jpg"
+      ]
     },
     "IDE379": {
       "sku": "IDE379",
@@ -18026,7 +18300,9 @@
       "files": [
         "IDE460_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDE460_cover.jpg"
+      ]
     },
     "IDE47E": {
       "sku": "IDE47E",
@@ -18053,7 +18329,6 @@
       "auxiliary_files": [
         "IDE47E_cover.jpg",
         "IDE47E_cover.png",
-        "IDE47E_data.json",
         "IDE47E_slide_01.jpg",
         "IDE47E_slide_02.jpg",
         "IDE47E_slide_03.jpg",
@@ -18084,7 +18359,9 @@
       "files": [
         "IDE523_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDE523_cover.jpg"
+      ]
     },
     "IDE527": {
       "sku": "IDE527",
@@ -18174,7 +18451,9 @@
       "files": [
         "IDE62B_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDE62B_cover.jpg"
+      ]
     },
     "IDE65B": {
       "sku": "IDE65B",
@@ -18209,7 +18488,9 @@
       "files": [
         "IDE714_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDE714_cover.jpg"
+      ]
     },
     "IDE71F": {
       "sku": "IDE71F",
@@ -18337,7 +18618,9 @@
       "files": [
         "IDE783_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDE783_cover.jpg"
+      ]
     },
     "IDE830": {
       "sku": "IDE830",
@@ -18492,7 +18775,9 @@
       "files": [
         "IDE93B_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDE93B_cover.jpg"
+      ]
     },
     "IDE96D": {
       "sku": "IDE96D",
@@ -18623,7 +18908,9 @@
       "files": [
         "IDEA01_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDEA01_cover.jpg"
+      ]
     },
     "IDEA5A": {
       "sku": "IDEA5A",
@@ -18726,12 +19013,9 @@
     "IDEB00": {
       "sku": "IDEB00",
       "cover": "IDEB00_cover.webp",
-      "slides": [
-        "IDEB00_slide1.webp"
-      ],
+      "slides": [],
       "files": [
-        "IDEB00_cover.webp",
-        "IDEB00_slide1.webp"
+        "IDEB00_cover.webp"
       ],
       "auxiliary_files": [
         "IDEB00_cover.jpg"
@@ -18757,7 +19041,9 @@
       "files": [
         "IDEB3D_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDEB3D_cover.jpg"
+      ]
     },
     "IDEB71": {
       "sku": "IDEB71",
@@ -18766,7 +19052,9 @@
       "files": [
         "IDEB71_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDEB71_cover.jpg"
+      ]
     },
     "IDEBCB": {
       "sku": "IDEBCB",
@@ -18801,7 +19089,9 @@
       "files": [
         "IDEC01_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDEC01_cover.jpg"
+      ]
     },
     "IDEC0A": {
       "sku": "IDEC0A",
@@ -18810,7 +19100,9 @@
       "files": [
         "IDEC0A_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDEC0A_cover.jpg"
+      ]
     },
     "IDEC22": {
       "sku": "IDEC22",
@@ -18933,7 +19225,9 @@
       "files": [
         "IDED8A_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDED8A_cover.jpg"
+      ]
     },
     "IDEE25": {
       "sku": "IDEE25",
@@ -18942,7 +19236,9 @@
       "files": [
         "IDEE25_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDEE25_cover.jpg"
+      ]
     },
     "IDEE2D": {
       "sku": "IDEE2D",
@@ -18964,7 +19260,9 @@
       "files": [
         "IDEEAD_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDEEAD_cover.jpg"
+      ]
     },
     "IDEF05": {
       "sku": "IDEF05",
@@ -18990,7 +19288,9 @@
       "files": [
         "IDEF2E_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDEF2E_cover.jpg"
+      ]
     },
     "IDEF34": {
       "sku": "IDEF34",
@@ -19064,7 +19364,9 @@
       "files": [
         "IDEF92_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDEF92_cover.jpg"
+      ]
     },
     "IDF06C": {
       "sku": "IDF06C",
@@ -19073,7 +19375,9 @@
       "files": [
         "IDF06C_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDF06C_cover.jpg"
+      ]
     },
     "IDF0BA": {
       "sku": "IDF0BA",
@@ -19246,7 +19550,6 @@
       "auxiliary_files": [
         "IDF31A_cover.jpg",
         "IDF31A_cover.png",
-        "IDF31A_data.json",
         "IDF31A_slide_01.jpg",
         "IDF31A_slide_02.jpg",
         "IDF31A_slide_03.jpg",
@@ -19284,7 +19587,6 @@
       "auxiliary_files": [
         "IDF333_cover.jpg",
         "IDF333_cover.png",
-        "IDF333_data.json",
         "IDF333_slide_01.jpg",
         "IDF333_slide_02.jpg",
         "IDF333_slide_03.jpg",
@@ -19319,7 +19621,6 @@
       "auxiliary_files": [
         "IDF352_cover.jpg",
         "IDF352_cover.png",
-        "IDF352_data.json",
         "IDF352_slide_01.jpg",
         "IDF352_slide_02.jpg",
         "IDF352_slide_03.jpg",
@@ -19382,7 +19683,9 @@
       "files": [
         "IDF3F3_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDF3F3_cover.jpg"
+      ]
     },
     "IDF3FC": {
       "sku": "IDF3FC",
@@ -19426,7 +19729,9 @@
       "files": [
         "IDF405_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDF405_cover.jpg"
+      ]
     },
     "IDF525": {
       "sku": "IDF525",
@@ -19465,7 +19770,6 @@
       "auxiliary_files": [
         "IDF525_cover.jpg",
         "IDF525_cover.png",
-        "IDF525_data.json",
         "IDF525_slide_01.jpg",
         "IDF525_slide_02.jpg",
         "IDF525_slide_03.jpg",
@@ -19501,7 +19805,9 @@
       "files": [
         "IDF542_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDF542_cover.jpg"
+      ]
     },
     "IDF557": {
       "sku": "IDF557",
@@ -19522,7 +19828,9 @@
       "files": [
         "IDF5CF_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDF5CF_cover.jpg"
+      ]
     },
     "IDF605": {
       "sku": "IDF605",
@@ -19551,7 +19859,9 @@
       "files": [
         "IDF627_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDF627_cover.jpg"
+      ]
     },
     "IDF62F": {
       "sku": "IDF62F",
@@ -19682,7 +19992,9 @@
       "files": [
         "IDF715_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDF715_cover.jpg"
+      ]
     },
     "IDF784": {
       "sku": "IDF784",
@@ -19815,7 +20127,9 @@
       "files": [
         "IDF91B_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDF91B_cover.jpg"
+      ]
     },
     "IDF923": {
       "sku": "IDF923",
@@ -19844,7 +20158,9 @@
       "files": [
         "IDF9EC_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDF9EC_cover.jpg"
+      ]
     },
     "IDFA21": {
       "sku": "IDFA21",
@@ -19928,7 +20244,9 @@
       "files": [
         "IDFC4A_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDFC4A_cover.jpg"
+      ]
     },
     "IDFCA5": {
       "sku": "IDFCA5",
@@ -19937,7 +20255,9 @@
       "files": [
         "IDFCA5_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDFCA5_cover.jpg"
+      ]
     },
     "IDFCAD": {
       "sku": "IDFCAD",
@@ -20049,7 +20369,9 @@
       "files": [
         "IDFEB2_cover.webp"
       ],
-      "auxiliary_files": []
+      "auxiliary_files": [
+        "IDFEB2_cover.jpg"
+      ]
     },
     "IDFEC3": {
       "sku": "IDFEC3",
