@@ -6,8 +6,8 @@
     "total_visual_files": 3598,
     "total_covers": 989,
     "total_slides": 2610,
-    "total_all_files": 8439,
-    "generated_at": "2026-09-25T11:41:00.239Z",
+    "total_all_files": 8620,
+    "generated_at": "2026-09-25T12:03:41.662Z",
     "cdn_base_urls": {
       "tier1_jsdelivr": "https://cdn.jsdelivr.net/gh/mcjobs-id/fokuskonten-assets@main/toko-digital",
       "tier2_raw_github": "https://raw.githubusercontent.com/mcjobs-id/fokuskonten-assets/main/toko-digital",
@@ -96,7 +96,8 @@
         "ID01A0_cover.webp"
       ],
       "auxiliary_files": [
-        "ID01A0_cover.jpg"
+        "ID01A0_cover.jpg",
+        "ID01A0_slide_spec.jpg"
       ]
     },
     "ID0225": {
@@ -156,7 +157,8 @@
         "ID029A_cover.webp"
       ],
       "auxiliary_files": [
-        "ID029A_cover.jpg"
+        "ID029A_cover.jpg",
+        "ID029A_slide_spec.jpg"
       ]
     },
     "ID0323": {
@@ -221,7 +223,8 @@
         "ID041E_cover.webp"
       ],
       "auxiliary_files": [
-        "ID041E_cover.jpg"
+        "ID041E_cover.jpg",
+        "ID041E_slide_spec.jpg"
       ]
     },
     "ID04D4": {
@@ -255,7 +258,8 @@
         "ID04F9_cover.webp"
       ],
       "auxiliary_files": [
-        "ID04F9_cover.jpg"
+        "ID04F9_cover.jpg",
+        "ID04F9_slide_spec.jpg"
       ]
     },
     "ID0526": {
@@ -546,7 +550,8 @@
         "ID0A00_cover.webp"
       ],
       "auxiliary_files": [
-        "ID0A00_cover.jpg"
+        "ID0A00_cover.jpg",
+        "ID0A00_slide_spec.jpg"
       ]
     },
     "ID0A03": {
@@ -557,7 +562,8 @@
         "ID0A03_cover.webp"
       ],
       "auxiliary_files": [
-        "ID0A03_cover.jpg"
+        "ID0A03_cover.jpg",
+        "ID0A03_slide_spec.jpg"
       ]
     },
     "ID0AC2": {
@@ -802,7 +808,8 @@
         "ID0CF5_cover.webp"
       ],
       "auxiliary_files": [
-        "ID0CF5_cover.jpg"
+        "ID0CF5_cover.jpg",
+        "ID0CF5_slide_spec.jpg"
       ]
     },
     "ID0D14": {
@@ -839,7 +846,8 @@
         "ID0D2B_cover.webp"
       ],
       "auxiliary_files": [
-        "ID0D2B_cover.jpg"
+        "ID0D2B_cover.jpg",
+        "ID0D2B_slide_spec.jpg"
       ]
     },
     "ID0D76": {
@@ -876,7 +884,8 @@
         "ID0DD5_cover.webp"
       ],
       "auxiliary_files": [
-        "ID0DD5_cover.jpg"
+        "ID0DD5_cover.jpg",
+        "ID0DD5_slide_spec.jpg"
       ]
     },
     "ID0E01": {
@@ -3161,7 +3170,8 @@
         "ID0EBF_cover.webp"
       ],
       "auxiliary_files": [
-        "ID0EBF_cover.jpg"
+        "ID0EBF_cover.jpg",
+        "ID0EBF_slide_spec.jpg"
       ]
     },
     "ID0EF8": {
@@ -3856,7 +3866,8 @@
         "ID194F_cover.webp"
       ],
       "auxiliary_files": [
-        "ID194F_cover.jpg"
+        "ID194F_cover.jpg",
+        "ID194F_slide_spec.jpg"
       ]
     },
     "ID19EB": {
@@ -3867,7 +3878,8 @@
         "ID19EB_cover.webp"
       ],
       "auxiliary_files": [
-        "ID19EB_cover.jpg"
+        "ID19EB_cover.jpg",
+        "ID19EB_slide_spec.jpg"
       ]
     },
     "ID19F7": {
@@ -3998,7 +4010,8 @@
         "ID1A81_cover.webp"
       ],
       "auxiliary_files": [
-        "ID1A81_cover.jpg"
+        "ID1A81_cover.jpg",
+        "ID1A81_slide_spec.jpg"
       ]
     },
     "ID1A98": {
@@ -4129,7 +4142,8 @@
         "ID1DAB_cover.webp"
       ],
       "auxiliary_files": [
-        "ID1DAB_cover.jpg"
+        "ID1DAB_cover.jpg",
+        "ID1DAB_slide_spec.jpg"
       ]
     },
     "ID1DB6": {
@@ -4275,7 +4289,8 @@
         "ID1EBD_cover.webp"
       ],
       "auxiliary_files": [
-        "ID1EBD_cover.jpg"
+        "ID1EBD_cover.jpg",
+        "ID1EBD_slide_spec.jpg"
       ]
     },
     "ID1F68": {
@@ -4523,7 +4538,8 @@
         "ID23CE_cover.webp"
       ],
       "auxiliary_files": [
-        "ID23CE_cover.jpg"
+        "ID23CE_cover.jpg",
+        "ID23CE_slide_spec.jpg"
       ]
     },
     "ID23DF": {
@@ -4534,7 +4550,8 @@
         "ID23DF_cover.webp"
       ],
       "auxiliary_files": [
-        "ID23DF_cover.jpg"
+        "ID23DF_cover.jpg",
+        "ID23DF_slide_spec.jpg"
       ]
     },
     "ID23F9": {
@@ -4638,7 +4655,8 @@
         "ID249F_cover.webp"
       ],
       "auxiliary_files": [
-        "ID249F_cover.jpg"
+        "ID249F_cover.jpg",
+        "ID249F_slide_spec.jpg"
       ]
     },
     "ID2508": {
@@ -4682,7 +4700,8 @@
         "ID2633_cover.webp"
       ],
       "auxiliary_files": [
-        "ID2633_cover.jpg"
+        "ID2633_cover.jpg",
+        "ID2633_slide_spec.jpg"
       ]
     },
     "ID263B": {
@@ -4783,7 +4802,8 @@
         "ID2749_cover.webp"
       ],
       "auxiliary_files": [
-        "ID2749_cover.jpg"
+        "ID2749_cover.jpg",
+        "ID2749_slide_spec.jpg"
       ]
     },
     "ID276D": {
@@ -5042,7 +5062,8 @@
         "ID28D0_cover.webp"
       ],
       "auxiliary_files": [
-        "ID28D0_cover.jpg"
+        "ID28D0_cover.jpg",
+        "ID28D0_slide_spec.jpg"
       ]
     },
     "ID296A": {
@@ -5275,7 +5296,8 @@
         "ID2B41_cover.webp"
       ],
       "auxiliary_files": [
-        "ID2B41_cover.jpg"
+        "ID2B41_cover.jpg",
+        "ID2B41_slide_spec.jpg"
       ]
     },
     "ID2B50": {
@@ -5414,7 +5436,8 @@
         "ID2D5D_cover.webp"
       ],
       "auxiliary_files": [
-        "ID2D5D_cover.jpg"
+        "ID2D5D_cover.jpg",
+        "ID2D5D_slide_spec.jpg"
       ]
     },
     "ID2D7C": {
@@ -5438,7 +5461,8 @@
         "ID2DB2_cover.webp"
       ],
       "auxiliary_files": [
-        "ID2DB2_cover.jpg"
+        "ID2DB2_cover.jpg",
+        "ID2DB2_slide_spec.jpg"
       ]
     },
     "ID2DF7": {
@@ -5571,7 +5595,8 @@
         "ID2FFC_cover.webp"
       ],
       "auxiliary_files": [
-        "ID2FFC_cover.jpg"
+        "ID2FFC_cover.jpg",
+        "ID2FFC_slide_spec.jpg"
       ]
     },
     "ID3121": {
@@ -5790,7 +5815,8 @@
         "ID32BB_cover.webp"
       ],
       "auxiliary_files": [
-        "ID32BB_cover.jpg"
+        "ID32BB_cover.jpg",
+        "ID32BB_slide_spec.jpg"
       ]
     },
     "ID32CB": {
@@ -5801,7 +5827,8 @@
         "ID32CB_cover.webp"
       ],
       "auxiliary_files": [
-        "ID32CB_cover.jpg"
+        "ID32CB_cover.jpg",
+        "ID32CB_slide_spec.jpg"
       ]
     },
     "ID32DF": {
@@ -5867,7 +5894,8 @@
         "ID337C_cover.webp"
       ],
       "auxiliary_files": [
-        "ID337C_cover.jpg"
+        "ID337C_cover.jpg",
+        "ID337C_slide_spec.jpg"
       ]
     },
     "ID33E1": {
@@ -5878,7 +5906,8 @@
         "ID33E1_cover.webp"
       ],
       "auxiliary_files": [
-        "ID33E1_cover.jpg"
+        "ID33E1_cover.jpg",
+        "ID33E1_slide_spec.jpg"
       ]
     },
     "ID33EC": {
@@ -5921,7 +5950,8 @@
         "ID340E_cover.webp"
       ],
       "auxiliary_files": [
-        "ID340E_cover.jpg"
+        "ID340E_cover.jpg",
+        "ID340E_slide_spec.jpg"
       ]
     },
     "ID3466": {
@@ -5932,7 +5962,8 @@
         "ID3466_cover.webp"
       ],
       "auxiliary_files": [
-        "ID3466_cover.jpg"
+        "ID3466_cover.jpg",
+        "ID3466_slide_spec.jpg"
       ]
     },
     "ID3497": {
@@ -6252,7 +6283,8 @@
         "ID37CD_cover.webp"
       ],
       "auxiliary_files": [
-        "ID37CD_cover.jpg"
+        "ID37CD_cover.jpg",
+        "ID37CD_slide_spec.jpg"
       ]
     },
     "ID37DC": {
@@ -6334,7 +6366,8 @@
         "ID385F_cover.webp"
       ],
       "auxiliary_files": [
-        "ID385F_cover.jpg"
+        "ID385F_cover.jpg",
+        "ID385F_slide_spec.jpg"
       ]
     },
     "ID3861": {
@@ -6345,7 +6378,8 @@
         "ID3861_cover.webp"
       ],
       "auxiliary_files": [
-        "ID3861_cover.jpg"
+        "ID3861_cover.jpg",
+        "ID3861_slide_spec.jpg"
       ]
     },
     "ID3917": {
@@ -6423,7 +6457,8 @@
         "ID3A7D_cover.webp"
       ],
       "auxiliary_files": [
-        "ID3A7D_cover.jpg"
+        "ID3A7D_cover.jpg",
+        "ID3A7D_slide_spec.jpg"
       ]
     },
     "ID3ADA": {
@@ -6460,7 +6495,8 @@
         "ID3B0A_cover.webp"
       ],
       "auxiliary_files": [
-        "ID3B0A_cover.jpg"
+        "ID3B0A_cover.jpg",
+        "ID3B0A_slide_spec.jpg"
       ]
     },
     "ID3B35": {
@@ -6497,7 +6533,8 @@
         "ID3B77_cover.webp"
       ],
       "auxiliary_files": [
-        "ID3B77_cover.jpg"
+        "ID3B77_cover.jpg",
+        "ID3B77_slide_spec.jpg"
       ]
     },
     "ID3B7C": {
@@ -6808,7 +6845,8 @@
         "ID3F65_cover.webp"
       ],
       "auxiliary_files": [
-        "ID3F65_cover.jpg"
+        "ID3F65_cover.jpg",
+        "ID3F65_slide_spec.jpg"
       ]
     },
     "ID3F6C": {
@@ -6852,7 +6890,8 @@
         "ID3FB6_cover.webp"
       ],
       "auxiliary_files": [
-        "ID3FB6_cover.jpg"
+        "ID3FB6_cover.jpg",
+        "ID3FB6_slide_spec.jpg"
       ]
     },
     "ID4066": {
@@ -6863,7 +6902,8 @@
         "ID4066_cover.webp"
       ],
       "auxiliary_files": [
-        "ID4066_cover.jpg"
+        "ID4066_cover.jpg",
+        "ID4066_slide_spec.jpg"
       ]
     },
     "ID4072": {
@@ -6928,7 +6968,8 @@
         "ID40BF_cover.webp"
       ],
       "auxiliary_files": [
-        "ID40BF_cover.jpg"
+        "ID40BF_cover.jpg",
+        "ID40BF_slide_spec.jpg"
       ]
     },
     "ID4196": {
@@ -6951,7 +6992,8 @@
         "ID4226_cover.webp"
       ],
       "auxiliary_files": [
-        "ID4226_cover.jpg"
+        "ID4226_cover.jpg",
+        "ID4226_slide_spec.jpg"
       ]
     },
     "ID423A": {
@@ -7102,7 +7144,8 @@
         "ID43B3_cover.webp"
       ],
       "auxiliary_files": [
-        "ID43B3_cover.jpg"
+        "ID43B3_cover.jpg",
+        "ID43B3_slide_spec.jpg"
       ]
     },
     "ID44A4": {
@@ -7236,7 +7279,8 @@
         "ID4657_cover.webp"
       ],
       "auxiliary_files": [
-        "ID4657_cover.jpg"
+        "ID4657_cover.jpg",
+        "ID4657_slide_spec.jpg"
       ]
     },
     "ID471D": {
@@ -7247,7 +7291,8 @@
         "ID471D_cover.webp"
       ],
       "auxiliary_files": [
-        "ID471D_cover.jpg"
+        "ID471D_cover.jpg",
+        "ID471D_slide_spec.jpg"
       ]
     },
     "ID476D": {
@@ -7275,7 +7320,8 @@
         "ID47D2_cover.webp"
       ],
       "auxiliary_files": [
-        "ID47D2_cover.jpg"
+        "ID47D2_cover.jpg",
+        "ID47D2_slide_spec.jpg"
       ]
     },
     "ID4834": {
@@ -7360,7 +7406,8 @@
         "ID49CC_cover.webp"
       ],
       "auxiliary_files": [
-        "ID49CC_cover.jpg"
+        "ID49CC_cover.jpg",
+        "ID49CC_slide_spec.jpg"
       ]
     },
     "ID49E3": {
@@ -7371,7 +7418,8 @@
         "ID49E3_cover.webp"
       ],
       "auxiliary_files": [
-        "ID49E3_cover.jpg"
+        "ID49E3_cover.jpg",
+        "ID49E3_slide_spec.jpg"
       ]
     },
     "ID49E4": {
@@ -7395,7 +7443,8 @@
         "ID4A1A_cover.webp"
       ],
       "auxiliary_files": [
-        "ID4A1A_cover.jpg"
+        "ID4A1A_cover.jpg",
+        "ID4A1A_slide_spec.jpg"
       ]
     },
     "ID4A47": {
@@ -7426,7 +7475,8 @@
         "ID4AD8_cover.webp"
       ],
       "auxiliary_files": [
-        "ID4AD8_cover.jpg"
+        "ID4AD8_cover.jpg",
+        "ID4AD8_slide_spec.jpg"
       ]
     },
     "ID4B0A": {
@@ -7788,7 +7838,8 @@
         "ID5068_cover.webp"
       ],
       "auxiliary_files": [
-        "ID5068_cover.jpg"
+        "ID5068_cover.jpg",
+        "ID5068_slide_spec.jpg"
       ]
     },
     "ID5074": {
@@ -7979,7 +8030,8 @@
         "ID5269_cover.webp"
       ],
       "auxiliary_files": [
-        "ID5269_cover.jpg"
+        "ID5269_cover.jpg",
+        "ID5269_slide_spec.jpg"
       ]
     },
     "ID52F9": {
@@ -8022,7 +8074,8 @@
         "ID536B_cover.webp"
       ],
       "auxiliary_files": [
-        "ID536B_cover.jpg"
+        "ID536B_cover.jpg",
+        "ID536B_slide_spec.jpg"
       ]
     },
     "ID5383": {
@@ -8087,7 +8140,8 @@
         "ID5451_cover.webp"
       ],
       "auxiliary_files": [
-        "ID5451_cover.jpg"
+        "ID5451_cover.jpg",
+        "ID5451_slide_spec.jpg"
       ]
     },
     "ID545F": {
@@ -8137,7 +8191,8 @@
         "ID5527_cover.webp"
       ],
       "auxiliary_files": [
-        "ID5527_cover.jpg"
+        "ID5527_cover.jpg",
+        "ID5527_slide_spec.jpg"
       ]
     },
     "ID5535": {
@@ -8204,7 +8259,8 @@
         "ID5657_cover.webp"
       ],
       "auxiliary_files": [
-        "ID5657_cover.jpg"
+        "ID5657_cover.jpg",
+        "ID5657_slide_spec.jpg"
       ]
     },
     "ID5658": {
@@ -8215,7 +8271,8 @@
         "ID5658_cover.webp"
       ],
       "auxiliary_files": [
-        "ID5658_cover.jpg"
+        "ID5658_cover.jpg",
+        "ID5658_slide_spec.jpg"
       ]
     },
     "ID565A": {
@@ -8287,7 +8344,8 @@
         "ID58AA_cover.webp"
       ],
       "auxiliary_files": [
-        "ID58AA_cover.jpg"
+        "ID58AA_cover.jpg",
+        "ID58AA_slide_spec.jpg"
       ]
     },
     "ID58C3": {
@@ -8388,7 +8446,8 @@
         "ID5978_cover.webp"
       ],
       "auxiliary_files": [
-        "ID5978_cover.jpg"
+        "ID5978_cover.jpg",
+        "ID5978_slide_spec.jpg"
       ]
     },
     "ID599B": {
@@ -8644,7 +8703,8 @@
         "ID5CAB_cover.webp"
       ],
       "auxiliary_files": [
-        "ID5CAB_cover.jpg"
+        "ID5CAB_cover.jpg",
+        "ID5CAB_slide_spec.jpg"
       ]
     },
     "ID5CCE": {
@@ -8749,7 +8809,8 @@
         "ID5E4B_cover.webp"
       ],
       "auxiliary_files": [
-        "ID5E4B_cover.jpg"
+        "ID5E4B_cover.jpg",
+        "ID5E4B_slide_spec.jpg"
       ]
     },
     "ID5E69": {
@@ -8760,7 +8821,8 @@
         "ID5E69_cover.webp"
       ],
       "auxiliary_files": [
-        "ID5E69_cover.jpg"
+        "ID5E69_cover.jpg",
+        "ID5E69_slide_spec.jpg"
       ]
     },
     "ID5E9E": {
@@ -8794,7 +8856,8 @@
         "ID5E9F_cover.webp"
       ],
       "auxiliary_files": [
-        "ID5E9F_cover.jpg"
+        "ID5E9F_cover.jpg",
+        "ID5E9F_slide_spec.jpg"
       ]
     },
     "ID5EA0": {
@@ -8831,7 +8894,8 @@
         "ID5F5D_cover.webp"
       ],
       "auxiliary_files": [
-        "ID5F5D_cover.jpg"
+        "ID5F5D_cover.jpg",
+        "ID5F5D_slide_spec.jpg"
       ]
     },
     "ID5F7A": {
@@ -8931,7 +8995,8 @@
         "ID62A5_cover.webp"
       ],
       "auxiliary_files": [
-        "ID62A5_cover.jpg"
+        "ID62A5_cover.jpg",
+        "ID62A5_slide_spec.jpg"
       ]
     },
     "ID62DB": {
@@ -9108,7 +9173,8 @@
         "ID64A5_cover.webp"
       ],
       "auxiliary_files": [
-        "ID64A5_cover.jpg"
+        "ID64A5_cover.jpg",
+        "ID64A5_slide_spec.jpg"
       ]
     },
     "ID64BE": {
@@ -9187,7 +9253,8 @@
         "ID6680_cover.webp"
       ],
       "auxiliary_files": [
-        "ID6680_cover.jpg"
+        "ID6680_cover.jpg",
+        "ID6680_slide_spec.jpg"
       ]
     },
     "ID66FA": {
@@ -9215,7 +9282,8 @@
         "ID6703_cover.webp"
       ],
       "auxiliary_files": [
-        "ID6703_cover.jpg"
+        "ID6703_cover.jpg",
+        "ID6703_slide_spec.jpg"
       ]
     },
     "ID670A": {
@@ -9611,7 +9679,8 @@
         "ID6C2D_cover.webp"
       ],
       "auxiliary_files": [
-        "ID6C2D_cover.jpg"
+        "ID6C2D_cover.jpg",
+        "ID6C2D_slide_spec.jpg"
       ]
     },
     "ID6CCE": {
@@ -9622,7 +9691,8 @@
         "ID6CCE_cover.webp"
       ],
       "auxiliary_files": [
-        "ID6CCE_cover.jpg"
+        "ID6CCE_cover.jpg",
+        "ID6CCE_slide_spec.jpg"
       ]
     },
     "ID6D10": {
@@ -9645,7 +9715,8 @@
         "ID6D47_cover.webp"
       ],
       "auxiliary_files": [
-        "ID6D47_cover.jpg"
+        "ID6D47_cover.jpg",
+        "ID6D47_slide_spec.jpg"
       ]
     },
     "ID6D71": {
@@ -9841,7 +9912,8 @@
         "ID7207_cover.webp"
       ],
       "auxiliary_files": [
-        "ID7207_cover.jpg"
+        "ID7207_cover.jpg",
+        "ID7207_slide_spec.jpg"
       ]
     },
     "ID7222": {
@@ -9852,7 +9924,8 @@
         "ID7222_cover.webp"
       ],
       "auxiliary_files": [
-        "ID7222_cover.jpg"
+        "ID7222_cover.jpg",
+        "ID7222_slide_spec.jpg"
       ]
     },
     "ID7243": {
@@ -9888,7 +9961,8 @@
         "ID72BE_cover.webp"
       ],
       "auxiliary_files": [
-        "ID72BE_cover.jpg"
+        "ID72BE_cover.jpg",
+        "ID72BE_slide_spec.jpg"
       ]
     },
     "ID72E4": {
@@ -9899,7 +9973,8 @@
         "ID72E4_cover.webp"
       ],
       "auxiliary_files": [
-        "ID72E4_cover.jpg"
+        "ID72E4_cover.jpg",
+        "ID72E4_slide_spec.jpg"
       ]
     },
     "ID730C": {
@@ -9923,7 +9998,8 @@
         "ID73B7_cover.webp"
       ],
       "auxiliary_files": [
-        "ID73B7_cover.jpg"
+        "ID73B7_cover.jpg",
+        "ID73B7_slide_spec.jpg"
       ]
     },
     "ID73CC": {
@@ -9934,7 +10010,8 @@
         "ID73CC_cover.webp"
       ],
       "auxiliary_files": [
-        "ID73CC_cover.jpg"
+        "ID73CC_cover.jpg",
+        "ID73CC_slide_spec.jpg"
       ]
     },
     "ID743E": {
@@ -10074,7 +10151,8 @@
         "ID7625_cover.webp"
       ],
       "auxiliary_files": [
-        "ID7625_cover.jpg"
+        "ID7625_cover.jpg",
+        "ID7625_slide_spec.jpg"
       ]
     },
     "ID762D": {
@@ -10135,7 +10213,8 @@
         "ID7702_cover.webp"
       ],
       "auxiliary_files": [
-        "ID7702_cover.jpg"
+        "ID7702_cover.jpg",
+        "ID7702_slide_spec.jpg"
       ]
     },
     "ID7761": {
@@ -10274,7 +10353,8 @@
         "ID787C_cover.webp"
       ],
       "auxiliary_files": [
-        "ID787C_cover.jpg"
+        "ID787C_cover.jpg",
+        "ID787C_slide_spec.jpg"
       ]
     },
     "ID78A4": {
@@ -10320,7 +10400,8 @@
         "ID793D_cover.webp"
       ],
       "auxiliary_files": [
-        "ID793D_cover.jpg"
+        "ID793D_cover.jpg",
+        "ID793D_slide_spec.jpg"
       ]
     },
     "ID7968": {
@@ -10482,7 +10563,8 @@
         "ID7BAB_cover.webp"
       ],
       "auxiliary_files": [
-        "ID7BAB_cover.jpg"
+        "ID7BAB_cover.jpg",
+        "ID7BAB_slide_spec.jpg"
       ]
     },
     "ID7BBA": {
@@ -10519,7 +10601,8 @@
         "ID7BCA_cover.webp"
       ],
       "auxiliary_files": [
-        "ID7BCA_cover.jpg"
+        "ID7BCA_cover.jpg",
+        "ID7BCA_slide_spec.jpg"
       ]
     },
     "ID7BCD": {
@@ -10600,7 +10683,8 @@
         "ID7C4D_cover.webp"
       ],
       "auxiliary_files": [
-        "ID7C4D_cover.jpg"
+        "ID7C4D_cover.jpg",
+        "ID7C4D_slide_spec.jpg"
       ]
     },
     "ID7C67": {
@@ -10705,7 +10789,8 @@
         "ID7D20_cover.webp"
       ],
       "auxiliary_files": [
-        "ID7D20_cover.jpg"
+        "ID7D20_cover.jpg",
+        "ID7D20_slide_spec.jpg"
       ]
     },
     "ID7D67": {
@@ -10797,7 +10882,8 @@
         "ID7ED0_cover.webp"
       ],
       "auxiliary_files": [
-        "ID7ED0_cover.jpg"
+        "ID7ED0_cover.jpg",
+        "ID7ED0_slide_spec.jpg"
       ]
     },
     "ID7F75": {
@@ -10834,7 +10920,8 @@
         "ID7F7D_cover.webp"
       ],
       "auxiliary_files": [
-        "ID7F7D_cover.jpg"
+        "ID7F7D_cover.jpg",
+        "ID7F7D_slide_spec.jpg"
       ]
     },
     "ID801C": {
@@ -10968,7 +11055,8 @@
         "ID81C0_cover.webp"
       ],
       "auxiliary_files": [
-        "ID81C0_cover.jpg"
+        "ID81C0_cover.jpg",
+        "ID81C0_slide_spec.jpg"
       ]
     },
     "ID823B": {
@@ -11035,7 +11123,8 @@
         "ID8303_cover.webp"
       ],
       "auxiliary_files": [
-        "ID8303_cover.jpg"
+        "ID8303_cover.jpg",
+        "ID8303_slide_spec.jpg"
       ]
     },
     "ID8358": {
@@ -11071,7 +11160,8 @@
         "ID8379_cover.webp"
       ],
       "auxiliary_files": [
-        "ID8379_cover.jpg"
+        "ID8379_cover.jpg",
+        "ID8379_slide_spec.jpg"
       ]
     },
     "ID8395": {
@@ -11160,7 +11250,8 @@
         "ID84C8_cover.webp"
       ],
       "auxiliary_files": [
-        "ID84C8_cover.jpg"
+        "ID84C8_cover.jpg",
+        "ID84C8_slide_spec.jpg"
       ]
     },
     "ID84EF": {
@@ -11355,7 +11446,8 @@
         "ID862A_cover.webp"
       ],
       "auxiliary_files": [
-        "ID862A_cover.jpg"
+        "ID862A_cover.jpg",
+        "ID862A_slide_spec.jpg"
       ]
     },
     "ID8688": {
@@ -12010,7 +12102,8 @@
         "ID8DF2_cover.webp"
       ],
       "auxiliary_files": [
-        "ID8DF2_cover.jpg"
+        "ID8DF2_cover.jpg",
+        "ID8DF2_slide_spec.jpg"
       ]
     },
     "ID8E26": {
@@ -12081,7 +12174,8 @@
         "ID8ED4_cover.webp"
       ],
       "auxiliary_files": [
-        "ID8ED4_cover.jpg"
+        "ID8ED4_cover.jpg",
+        "ID8ED4_slide_spec.jpg"
       ]
     },
     "ID8ED8": {
@@ -12169,7 +12263,8 @@
         "ID9084_cover.webp"
       ],
       "auxiliary_files": [
-        "ID9084_cover.jpg"
+        "ID9084_cover.jpg",
+        "ID9084_slide_spec.jpg"
       ]
     },
     "ID916C": {
@@ -12280,7 +12375,8 @@
         "ID91AF_cover.webp"
       ],
       "auxiliary_files": [
-        "ID91AF_cover.jpg"
+        "ID91AF_cover.jpg",
+        "ID91AF_slide_spec.jpg"
       ]
     },
     "ID91E9": {
@@ -12364,7 +12460,8 @@
         "ID9288_cover.webp"
       ],
       "auxiliary_files": [
-        "ID9288_cover.jpg"
+        "ID9288_cover.jpg",
+        "ID9288_slide_spec.jpg"
       ]
     },
     "ID92BE": {
@@ -12450,7 +12547,8 @@
         "ID93AF_cover.webp"
       ],
       "auxiliary_files": [
-        "ID93AF_cover.jpg"
+        "ID93AF_cover.jpg",
+        "ID93AF_slide_spec.jpg"
       ]
     },
     "ID93BE": {
@@ -12589,7 +12687,8 @@
         "ID9560_cover.webp"
       ],
       "auxiliary_files": [
-        "ID9560_cover.jpg"
+        "ID9560_cover.jpg",
+        "ID9560_slide_spec.jpg"
       ]
     },
     "ID95A6": {
@@ -12638,7 +12737,8 @@
         "ID9601_cover.webp"
       ],
       "auxiliary_files": [
-        "ID9601_cover.jpg"
+        "ID9601_cover.jpg",
+        "ID9601_slide_spec.jpg"
       ]
     },
     "ID963A": {
@@ -13030,7 +13130,8 @@
         "ID9A1A_cover.webp"
       ],
       "auxiliary_files": [
-        "ID9A1A_cover.jpg"
+        "ID9A1A_cover.jpg",
+        "ID9A1A_slide_spec.jpg"
       ]
     },
     "ID9AFD": {
@@ -13041,7 +13142,8 @@
         "ID9AFD_cover.webp"
       ],
       "auxiliary_files": [
-        "ID9AFD_cover.jpg"
+        "ID9AFD_cover.jpg",
+        "ID9AFD_slide_spec.jpg"
       ]
     },
     "ID9B34": {
@@ -13220,7 +13322,8 @@
         "ID9E00_cover.webp"
       ],
       "auxiliary_files": [
-        "ID9E00_cover.jpg"
+        "ID9E00_cover.jpg",
+        "ID9E00_slide_spec.jpg"
       ]
     },
     "ID9E76": {
@@ -13260,7 +13363,8 @@
         "ID9EAB_cover.webp"
       ],
       "auxiliary_files": [
-        "ID9EAB_cover.jpg"
+        "ID9EAB_cover.jpg",
+        "ID9EAB_slide_spec.jpg"
       ]
     },
     "ID9EDC": {
@@ -13284,7 +13388,8 @@
         "ID9F93_cover.webp"
       ],
       "auxiliary_files": [
-        "ID9F93_cover.jpg"
+        "ID9F93_cover.jpg",
+        "ID9F93_slide_spec.jpg"
       ]
     },
     "ID9FC2": {
@@ -13324,7 +13429,8 @@
         "ID9FC3_cover.webp"
       ],
       "auxiliary_files": [
-        "ID9FC3_cover.jpg"
+        "ID9FC3_cover.jpg",
+        "ID9FC3_slide_spec.jpg"
       ]
     },
     "ID9FE2": {
@@ -13335,7 +13441,8 @@
         "ID9FE2_cover.webp"
       ],
       "auxiliary_files": [
-        "ID9FE2_cover.jpg"
+        "ID9FE2_cover.jpg",
+        "ID9FE2_slide_spec.jpg"
       ]
     },
     "IDA002": {
@@ -13358,7 +13465,8 @@
         "IDA123_cover.webp"
       ],
       "auxiliary_files": [
-        "IDA123_cover.jpg"
+        "IDA123_cover.jpg",
+        "IDA123_slide_spec.jpg"
       ]
     },
     "IDA136": {
@@ -13369,7 +13477,8 @@
         "IDA136_cover.webp"
       ],
       "auxiliary_files": [
-        "IDA136_cover.jpg"
+        "IDA136_cover.jpg",
+        "IDA136_slide_spec.jpg"
       ]
     },
     "IDA182": {
@@ -13392,7 +13501,8 @@
         "IDA199_cover.webp"
       ],
       "auxiliary_files": [
-        "IDA199_cover.jpg"
+        "IDA199_cover.jpg",
+        "IDA199_slide_spec.jpg"
       ]
     },
     "IDA1F2": {
@@ -13588,7 +13698,8 @@
         "IDA4FD_cover.webp"
       ],
       "auxiliary_files": [
-        "IDA4FD_cover.jpg"
+        "IDA4FD_cover.jpg",
+        "IDA4FD_slide_spec.jpg"
       ]
     },
     "IDA4FF": {
@@ -13655,7 +13766,8 @@
         "IDA68B_cover.webp"
       ],
       "auxiliary_files": [
-        "IDA68B_cover.jpg"
+        "IDA68B_cover.jpg",
+        "IDA68B_slide_spec.jpg"
       ]
     },
     "IDA6BD": {
@@ -13705,7 +13817,8 @@
         "IDA76A_cover.webp"
       ],
       "auxiliary_files": [
-        "IDA76A_cover.jpg"
+        "IDA76A_cover.jpg",
+        "IDA76A_slide_spec.jpg"
       ]
     },
     "IDA792": {
@@ -13827,7 +13940,8 @@
         "IDA84C_cover.webp"
       ],
       "auxiliary_files": [
-        "IDA84C_cover.jpg"
+        "IDA84C_cover.jpg",
+        "IDA84C_slide_spec.jpg"
       ]
     },
     "IDA910": {
@@ -13862,7 +13976,8 @@
         "IDA9A6_cover.webp"
       ],
       "auxiliary_files": [
-        "IDA9A6_cover.jpg"
+        "IDA9A6_cover.jpg",
+        "IDA9A6_slide_spec.jpg"
       ]
     },
     "IDA9D5": {
@@ -13873,7 +13988,8 @@
         "IDA9D5_cover.webp"
       ],
       "auxiliary_files": [
-        "IDA9D5_cover.jpg"
+        "IDA9D5_cover.jpg",
+        "IDA9D5_slide_spec.jpg"
       ]
     },
     "IDAA0E": {
@@ -13919,7 +14035,8 @@
         "IDAA7C_cover.webp"
       ],
       "auxiliary_files": [
-        "IDAA7C_cover.jpg"
+        "IDAA7C_cover.jpg",
+        "IDAA7C_slide_spec.jpg"
       ]
     },
     "IDAA8D": {
@@ -13953,7 +14070,8 @@
         "IDAAF9_cover.webp"
       ],
       "auxiliary_files": [
-        "IDAAF9_cover.jpg"
+        "IDAAF9_cover.jpg",
+        "IDAAF9_slide_spec.jpg"
       ]
     },
     "IDAB21": {
@@ -14064,7 +14182,8 @@
         "IDAC67_cover.webp"
       ],
       "auxiliary_files": [
-        "IDAC67_cover.jpg"
+        "IDAC67_cover.jpg",
+        "IDAC67_slide_spec.jpg"
       ]
     },
     "IDACB2": {
@@ -14075,7 +14194,8 @@
         "IDACB2_cover.webp"
       ],
       "auxiliary_files": [
-        "IDACB2_cover.jpg"
+        "IDACB2_cover.jpg",
+        "IDACB2_slide_spec.jpg"
       ]
     },
     "IDAD3E": {
@@ -14086,7 +14206,8 @@
         "IDAD3E_cover.webp"
       ],
       "auxiliary_files": [
-        "IDAD3E_cover.jpg"
+        "IDAD3E_cover.jpg",
+        "IDAD3E_slide_spec.jpg"
       ]
     },
     "IDAD70": {
@@ -14317,7 +14438,8 @@
         "IDB084_cover.webp"
       ],
       "auxiliary_files": [
-        "IDB084_cover.jpg"
+        "IDB084_cover.jpg",
+        "IDB084_slide_spec.jpg"
       ]
     },
     "IDB087": {
@@ -14389,7 +14511,8 @@
         "IDB203_cover.webp"
       ],
       "auxiliary_files": [
-        "IDB203_cover.jpg"
+        "IDB203_cover.jpg",
+        "IDB203_slide_spec.jpg"
       ]
     },
     "IDB21E": {
@@ -14465,7 +14588,8 @@
         "IDB2AB_cover.webp"
       ],
       "auxiliary_files": [
-        "IDB2AB_cover.jpg"
+        "IDB2AB_cover.jpg",
+        "IDB2AB_slide_spec.jpg"
       ]
     },
     "IDB2FD": {
@@ -14511,7 +14635,8 @@
         "IDB398_cover.webp"
       ],
       "auxiliary_files": [
-        "IDB398_cover.jpg"
+        "IDB398_cover.jpg",
+        "IDB398_slide_spec.jpg"
       ]
     },
     "IDB3B4": {
@@ -14660,7 +14785,8 @@
         "IDB70A_cover.webp"
       ],
       "auxiliary_files": [
-        "IDB70A_cover.jpg"
+        "IDB70A_cover.jpg",
+        "IDB70A_slide_spec.jpg"
       ]
     },
     "IDB741": {
@@ -14847,7 +14973,8 @@
         "IDB9E4_cover.webp"
       ],
       "auxiliary_files": [
-        "IDB9E4_cover.jpg"
+        "IDB9E4_cover.jpg",
+        "IDB9E4_slide_spec.jpg"
       ]
     },
     "IDBABD": {
@@ -14926,7 +15053,8 @@
         "IDBB5F_cover.webp"
       ],
       "auxiliary_files": [
-        "IDBB5F_cover.jpg"
+        "IDBB5F_cover.jpg",
+        "IDBB5F_slide_spec.jpg"
       ]
     },
     "IDBBB1": {
@@ -15017,7 +15145,8 @@
         "IDBBF6_cover.webp"
       ],
       "auxiliary_files": [
-        "IDBBF6_cover.jpg"
+        "IDBBF6_cover.jpg",
+        "IDBBF6_slide_spec.jpg"
       ]
     },
     "IDBBFC": {
@@ -15089,7 +15218,8 @@
         "IDBC62_cover.webp"
       ],
       "auxiliary_files": [
-        "IDBC62_cover.jpg"
+        "IDBC62_cover.jpg",
+        "IDBC62_slide_spec.jpg"
       ]
     },
     "IDBC75": {
@@ -15206,7 +15336,8 @@
         "IDBD3F_cover.webp"
       ],
       "auxiliary_files": [
-        "IDBD3F_cover.jpg"
+        "IDBD3F_cover.jpg",
+        "IDBD3F_slide_spec.jpg"
       ]
     },
     "IDBD41": {
@@ -15269,7 +15400,8 @@
         "IDBD58_cover.webp"
       ],
       "auxiliary_files": [
-        "IDBD58_cover.jpg"
+        "IDBD58_cover.jpg",
+        "IDBD58_slide_spec.jpg"
       ]
     },
     "IDBD76": {
@@ -15515,7 +15647,8 @@
         "IDBFC7_cover.webp"
       ],
       "auxiliary_files": [
-        "IDBFC7_cover.jpg"
+        "IDBFC7_cover.jpg",
+        "IDBFC7_slide_spec.jpg"
       ]
     },
     "IDC019": {
@@ -15549,7 +15682,8 @@
         "IDC026_cover.webp"
       ],
       "auxiliary_files": [
-        "IDC026_cover.jpg"
+        "IDC026_cover.jpg",
+        "IDC026_slide_spec.jpg"
       ]
     },
     "IDC060": {
@@ -15933,7 +16067,8 @@
         "IDC55B_cover.webp"
       ],
       "auxiliary_files": [
-        "IDC55B_cover.jpg"
+        "IDC55B_cover.jpg",
+        "IDC55B_slide_spec.jpg"
       ]
     },
     "IDC58C": {
@@ -15964,7 +16099,8 @@
         "IDC613_cover.webp"
       ],
       "auxiliary_files": [
-        "IDC613_cover.jpg"
+        "IDC613_cover.jpg",
+        "IDC613_slide_spec.jpg"
       ]
     },
     "IDC665": {
@@ -16048,7 +16184,8 @@
         "IDC79A_cover.webp"
       ],
       "auxiliary_files": [
-        "IDC79A_cover.jpg"
+        "IDC79A_cover.jpg",
+        "IDC79A_slide_spec.jpg"
       ]
     },
     "IDC7C4": {
@@ -16112,7 +16249,8 @@
         "IDC893_cover.webp"
       ],
       "auxiliary_files": [
-        "IDC893_cover.jpg"
+        "IDC893_cover.jpg",
+        "IDC893_slide_spec.jpg"
       ]
     },
     "IDC8D3": {
@@ -16244,7 +16382,8 @@
         "IDCA4D_cover.webp"
       ],
       "auxiliary_files": [
-        "IDCA4D_cover.jpg"
+        "IDCA4D_cover.jpg",
+        "IDCA4D_slide_spec.jpg"
       ]
     },
     "IDCA6E": {
@@ -16317,7 +16456,8 @@
         "IDCAD2_cover.webp"
       ],
       "auxiliary_files": [
-        "IDCAD2_cover.jpg"
+        "IDCAD2_cover.jpg",
+        "IDCAD2_slide_spec.jpg"
       ]
     },
     "IDCB24": {
@@ -16746,7 +16886,8 @@
         "IDCF3A_cover.webp"
       ],
       "auxiliary_files": [
-        "IDCF3A_cover.jpg"
+        "IDCF3A_cover.jpg",
+        "IDCF3A_slide_spec.jpg"
       ]
     },
     "IDCFFD": {
@@ -16793,7 +16934,8 @@
         "IDD109_cover.webp"
       ],
       "auxiliary_files": [
-        "IDD109_cover.jpg"
+        "IDD109_cover.jpg",
+        "IDD109_slide_spec.jpg"
       ]
     },
     "IDD142": {
@@ -16879,7 +17021,8 @@
         "IDD3C2_cover.webp"
       ],
       "auxiliary_files": [
-        "IDD3C2_cover.jpg"
+        "IDD3C2_cover.jpg",
+        "IDD3C2_slide_spec.jpg"
       ]
     },
     "IDD479": {
@@ -17003,7 +17146,8 @@
         "IDD654_cover.webp"
       ],
       "auxiliary_files": [
-        "IDD654_cover.jpg"
+        "IDD654_cover.jpg",
+        "IDD654_slide_spec.jpg"
       ]
     },
     "IDD657": {
@@ -17248,7 +17392,8 @@
         "IDD8E8_cover.webp"
       ],
       "auxiliary_files": [
-        "IDD8E8_cover.jpg"
+        "IDD8E8_cover.jpg",
+        "IDD8E8_slide_spec.jpg"
       ]
     },
     "IDD915": {
@@ -17451,7 +17596,8 @@
         "IDDB1E_cover.webp"
       ],
       "auxiliary_files": [
-        "IDDB1E_cover.jpg"
+        "IDDB1E_cover.jpg",
+        "IDDB1E_slide_spec.jpg"
       ]
     },
     "IDDB40": {
@@ -17547,7 +17693,8 @@
         "IDDCA4_cover.webp"
       ],
       "auxiliary_files": [
-        "IDDCA4_cover.jpg"
+        "IDDCA4_cover.jpg",
+        "IDDCA4_slide_spec.jpg"
       ]
     },
     "IDDCC8": {
@@ -17593,7 +17740,8 @@
         "IDDD20_cover.webp"
       ],
       "auxiliary_files": [
-        "IDDD20_cover.jpg"
+        "IDDD20_cover.jpg",
+        "IDDD20_slide_spec.jpg"
       ]
     },
     "IDDD2B": {
@@ -17827,7 +17975,8 @@
         "IDDEEE_cover.webp"
       ],
       "auxiliary_files": [
-        "IDDEEE_cover.jpg"
+        "IDDEEE_cover.jpg",
+        "IDDEEE_slide_spec.jpg"
       ]
     },
     "IDDEFF": {
@@ -17889,7 +18038,8 @@
         "IDDF16_cover.webp"
       ],
       "auxiliary_files": [
-        "IDDF16_cover.jpg"
+        "IDDF16_cover.jpg",
+        "IDDF16_slide_spec.jpg"
       ]
     },
     "IDDF2E": {
@@ -17900,7 +18050,8 @@
         "IDDF2E_cover.webp"
       ],
       "auxiliary_files": [
-        "IDDF2E_cover.jpg"
+        "IDDF2E_cover.jpg",
+        "IDDF2E_slide_spec.jpg"
       ]
     },
     "IDDF44": {
@@ -18162,7 +18313,8 @@
         "IDE2D5_cover.webp"
       ],
       "auxiliary_files": [
-        "IDE2D5_cover.jpg"
+        "IDE2D5_cover.jpg",
+        "IDE2D5_slide_spec.jpg"
       ]
     },
     "IDE319": {
@@ -18219,7 +18371,8 @@
         "IDE356_cover.webp"
       ],
       "auxiliary_files": [
-        "IDE356_cover.jpg"
+        "IDE356_cover.jpg",
+        "IDE356_slide_spec.jpg"
       ]
     },
     "IDE379": {
@@ -18301,7 +18454,8 @@
         "IDE460_cover.webp"
       ],
       "auxiliary_files": [
-        "IDE460_cover.jpg"
+        "IDE460_cover.jpg",
+        "IDE460_slide_spec.jpg"
       ]
     },
     "IDE47E": {
@@ -18360,7 +18514,8 @@
         "IDE523_cover.webp"
       ],
       "auxiliary_files": [
-        "IDE523_cover.jpg"
+        "IDE523_cover.jpg",
+        "IDE523_slide_spec.jpg"
       ]
     },
     "IDE527": {
@@ -18452,7 +18607,8 @@
         "IDE62B_cover.webp"
       ],
       "auxiliary_files": [
-        "IDE62B_cover.jpg"
+        "IDE62B_cover.jpg",
+        "IDE62B_slide_spec.jpg"
       ]
     },
     "IDE65B": {
@@ -18489,7 +18645,8 @@
         "IDE714_cover.webp"
       ],
       "auxiliary_files": [
-        "IDE714_cover.jpg"
+        "IDE714_cover.jpg",
+        "IDE714_slide_spec.jpg"
       ]
     },
     "IDE71F": {
@@ -18619,7 +18776,8 @@
         "IDE783_cover.webp"
       ],
       "auxiliary_files": [
-        "IDE783_cover.jpg"
+        "IDE783_cover.jpg",
+        "IDE783_slide_spec.jpg"
       ]
     },
     "IDE830": {
@@ -18776,7 +18934,8 @@
         "IDE93B_cover.webp"
       ],
       "auxiliary_files": [
-        "IDE93B_cover.jpg"
+        "IDE93B_cover.jpg",
+        "IDE93B_slide_spec.jpg"
       ]
     },
     "IDE96D": {
@@ -18909,7 +19068,8 @@
         "IDEA01_cover.webp"
       ],
       "auxiliary_files": [
-        "IDEA01_cover.jpg"
+        "IDEA01_cover.jpg",
+        "IDEA01_slide_spec.jpg"
       ]
     },
     "IDEA5A": {
@@ -19042,7 +19202,8 @@
         "IDEB3D_cover.webp"
       ],
       "auxiliary_files": [
-        "IDEB3D_cover.jpg"
+        "IDEB3D_cover.jpg",
+        "IDEB3D_slide_spec.jpg"
       ]
     },
     "IDEB71": {
@@ -19053,7 +19214,8 @@
         "IDEB71_cover.webp"
       ],
       "auxiliary_files": [
-        "IDEB71_cover.jpg"
+        "IDEB71_cover.jpg",
+        "IDEB71_slide_spec.jpg"
       ]
     },
     "IDEBCB": {
@@ -19090,7 +19252,8 @@
         "IDEC01_cover.webp"
       ],
       "auxiliary_files": [
-        "IDEC01_cover.jpg"
+        "IDEC01_cover.jpg",
+        "IDEC01_slide_spec.jpg"
       ]
     },
     "IDEC0A": {
@@ -19101,7 +19264,8 @@
         "IDEC0A_cover.webp"
       ],
       "auxiliary_files": [
-        "IDEC0A_cover.jpg"
+        "IDEC0A_cover.jpg",
+        "IDEC0A_slide_spec.jpg"
       ]
     },
     "IDEC22": {
@@ -19226,7 +19390,8 @@
         "IDED8A_cover.webp"
       ],
       "auxiliary_files": [
-        "IDED8A_cover.jpg"
+        "IDED8A_cover.jpg",
+        "IDED8A_slide_spec.jpg"
       ]
     },
     "IDEE25": {
@@ -19237,7 +19402,8 @@
         "IDEE25_cover.webp"
       ],
       "auxiliary_files": [
-        "IDEE25_cover.jpg"
+        "IDEE25_cover.jpg",
+        "IDEE25_slide_spec.jpg"
       ]
     },
     "IDEE2D": {
@@ -19261,7 +19427,8 @@
         "IDEEAD_cover.webp"
       ],
       "auxiliary_files": [
-        "IDEEAD_cover.jpg"
+        "IDEEAD_cover.jpg",
+        "IDEEAD_slide_spec.jpg"
       ]
     },
     "IDEF05": {
@@ -19289,7 +19456,8 @@
         "IDEF2E_cover.webp"
       ],
       "auxiliary_files": [
-        "IDEF2E_cover.jpg"
+        "IDEF2E_cover.jpg",
+        "IDEF2E_slide_spec.jpg"
       ]
     },
     "IDEF34": {
@@ -19365,7 +19533,8 @@
         "IDEF92_cover.webp"
       ],
       "auxiliary_files": [
-        "IDEF92_cover.jpg"
+        "IDEF92_cover.jpg",
+        "IDEF92_slide_spec.jpg"
       ]
     },
     "IDF06C": {
@@ -19376,7 +19545,8 @@
         "IDF06C_cover.webp"
       ],
       "auxiliary_files": [
-        "IDF06C_cover.jpg"
+        "IDF06C_cover.jpg",
+        "IDF06C_slide_spec.jpg"
       ]
     },
     "IDF0BA": {
@@ -19684,7 +19854,8 @@
         "IDF3F3_cover.webp"
       ],
       "auxiliary_files": [
-        "IDF3F3_cover.jpg"
+        "IDF3F3_cover.jpg",
+        "IDF3F3_slide_spec.jpg"
       ]
     },
     "IDF3FC": {
@@ -19730,7 +19901,8 @@
         "IDF405_cover.webp"
       ],
       "auxiliary_files": [
-        "IDF405_cover.jpg"
+        "IDF405_cover.jpg",
+        "IDF405_slide_spec.jpg"
       ]
     },
     "IDF525": {
@@ -19806,7 +19978,8 @@
         "IDF542_cover.webp"
       ],
       "auxiliary_files": [
-        "IDF542_cover.jpg"
+        "IDF542_cover.jpg",
+        "IDF542_slide_spec.jpg"
       ]
     },
     "IDF557": {
@@ -19829,7 +20002,8 @@
         "IDF5CF_cover.webp"
       ],
       "auxiliary_files": [
-        "IDF5CF_cover.jpg"
+        "IDF5CF_cover.jpg",
+        "IDF5CF_slide_spec.jpg"
       ]
     },
     "IDF605": {
@@ -19860,7 +20034,8 @@
         "IDF627_cover.webp"
       ],
       "auxiliary_files": [
-        "IDF627_cover.jpg"
+        "IDF627_cover.jpg",
+        "IDF627_slide_spec.jpg"
       ]
     },
     "IDF62F": {
@@ -19993,7 +20168,8 @@
         "IDF715_cover.webp"
       ],
       "auxiliary_files": [
-        "IDF715_cover.jpg"
+        "IDF715_cover.jpg",
+        "IDF715_slide_spec.jpg"
       ]
     },
     "IDF784": {
@@ -20128,7 +20304,8 @@
         "IDF91B_cover.webp"
       ],
       "auxiliary_files": [
-        "IDF91B_cover.jpg"
+        "IDF91B_cover.jpg",
+        "IDF91B_slide_spec.jpg"
       ]
     },
     "IDF923": {
@@ -20159,7 +20336,8 @@
         "IDF9EC_cover.webp"
       ],
       "auxiliary_files": [
-        "IDF9EC_cover.jpg"
+        "IDF9EC_cover.jpg",
+        "IDF9EC_slide_spec.jpg"
       ]
     },
     "IDFA21": {
@@ -20245,7 +20423,8 @@
         "IDFC4A_cover.webp"
       ],
       "auxiliary_files": [
-        "IDFC4A_cover.jpg"
+        "IDFC4A_cover.jpg",
+        "IDFC4A_slide_spec.jpg"
       ]
     },
     "IDFCA5": {
@@ -20256,7 +20435,8 @@
         "IDFCA5_cover.webp"
       ],
       "auxiliary_files": [
-        "IDFCA5_cover.jpg"
+        "IDFCA5_cover.jpg",
+        "IDFCA5_slide_spec.jpg"
       ]
     },
     "IDFCAD": {
@@ -20370,7 +20550,8 @@
         "IDFEB2_cover.webp"
       ],
       "auxiliary_files": [
-        "IDFEB2_cover.jpg"
+        "IDFEB2_cover.jpg",
+        "IDFEB2_slide_spec.jpg"
       ]
     },
     "IDFEC3": {
