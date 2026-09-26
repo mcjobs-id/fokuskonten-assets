@@ -1,13 +1,13 @@
 {
   "metadata": {
     "title": "FokusKonten Asset CDN — Toko Digital Product Covers & Slides Index",
-    "version": "1.2.0",
-    "total_skus": 989,
-    "total_visual_files": 3598,
+    "version": "1.1.0",
+    "total_skus": 1049,
+    "total_visual_files": 3600,
     "total_covers": 989,
-    "total_slides": 2610,
-    "total_all_files": 8620,
-    "generated_at": "2026-09-25T12:03:41.662Z",
+    "total_slides": 2611,
+    "total_all_files": 8621,
+    "generated_at": "2026-09-26T10:58:21.329Z",
     "cdn_base_urls": {
       "tier1_jsdelivr": "https://cdn.jsdelivr.net/gh/mcjobs-id/fokuskonten-assets@main/toko-digital",
       "tier2_raw_github": "https://raw.githubusercontent.com/mcjobs-id/fokuskonten-assets/main/toko-digital",
@@ -17,9 +17,11 @@
   "by_sku": {
     "ID-TEK-MEGA": {
       "sku": "ID-TEK-MEGA",
-      "cover": "ID-TEK-MEGA_cover.jpg",
+      "cover": "ID-TEK-MEGA_cover.webp",
       "slides": [],
-      "files": [],
+      "files": [
+        "ID-TEK-MEGA_cover.webp"
+      ],
       "auxiliary_files": [
         "ID-TEK-MEGA_cover.jpg",
         "ID-TEK-MEGA_slide_spec.jpg"
@@ -869,6 +871,7 @@
       "auxiliary_files": [
         "ID0D76_cover.jpg",
         "ID0D76_cover.png",
+        "ID0D76_data.json",
         "ID0D76_slide_01.jpg",
         "ID0D76_slide_02.jpg",
         "ID0D76_slide_03.jpg",
@@ -3583,6 +3586,7 @@
       "auxiliary_files": [
         "ID1301_cover.jpg",
         "ID1301_cover.png",
+        "ID1301_data.json",
         "ID1301_slide_01.jpg",
         "ID1301_slide_02.jpg",
         "ID1301_slide_03.jpg",
@@ -3923,6 +3927,7 @@
       "auxiliary_files": [
         "ID19F7_cover.jpg",
         "ID19F7_cover.png",
+        "ID19F7_data.json",
         "ID19F7_slide_01.jpg",
         "ID19F7_slide_02.jpg",
         "ID19F7_slide_03.jpg",
@@ -3990,6 +3995,7 @@
       "auxiliary_files": [
         "ID1A65_cover.jpg",
         "ID1A65_cover.png",
+        "ID1A65_data.json",
         "ID1A65_slide_01.jpg",
         "ID1A65_slide_02.jpg",
         "ID1A65_slide_03.jpg",
@@ -4316,6 +4322,7 @@
       "auxiliary_files": [
         "ID1F68_cover.jpg",
         "ID1F68_cover.png",
+        "ID1F68_data.json",
         "ID1F68_slide_01.jpg",
         "ID1F68_slide_02.jpg",
         "ID1F68_slide_03.jpg",
@@ -4753,6 +4760,7 @@
       "auxiliary_files": [
         "ID2642_cover.jpg",
         "ID2642_cover.png",
+        "ID2642_data.json",
         "ID2642_slide_01.jpg",
         "ID2642_slide_02.jpg",
         "ID2642_slide_03.jpg",
@@ -4976,6 +4984,7 @@
       "auxiliary_files": [
         "ID27F6_cover.jpg",
         "ID27F6_cover.png",
+        "ID27F6_data.json",
         "ID27F6_slide_01.jpg",
         "ID27F6_slide_02.jpg",
         "ID27F6_slide_03.jpg",
@@ -5279,6 +5288,7 @@
       "auxiliary_files": [
         "ID2B2A_cover.jpg",
         "ID2B2A_cover.png",
+        "ID2B2A_data.json",
         "ID2B2A_slide_01.jpg",
         "ID2B2A_slide_02.jpg",
         "ID2B2A_slide_03.jpg",
@@ -5405,6 +5415,7 @@
       "auxiliary_files": [
         "ID2D35_cover.jpg",
         "ID2D35_cover.png",
+        "ID2D35_data.json",
         "ID2D35_slide_01.jpg",
         "ID2D35_slide_02.jpg",
         "ID2D35_slide_03.jpg",
@@ -5865,6 +5876,7 @@
       "auxiliary_files": [
         "ID32F0_cover.jpg",
         "ID32F0_cover.png",
+        "ID32F0_data.json",
         "ID32F0_slide_01.jpg",
         "ID32F0_slide_02.jpg",
         "ID32F0_slide_03.jpg",
@@ -6023,6 +6035,7 @@
       "auxiliary_files": [
         "ID35EF_cover.jpg",
         "ID35EF_cover.png",
+        "ID35EF_data.json",
         "ID35EF_slide_01.jpg",
         "ID35EF_slide_02.jpg",
         "ID35EF_slide_03.jpg",
@@ -7112,6 +7125,7 @@
       "auxiliary_files": [
         "ID42ED_cover.jpg",
         "ID42ED_cover.png",
+        "ID42ED_data.json",
         "ID42ED_slide_01.jpg",
         "ID42ED_slide_02.jpg",
         "ID42ED_slide_03.jpg",
@@ -7996,6 +8010,7 @@
       "auxiliary_files": [
         "ID520B_cover.jpg",
         "ID520B_cover.png",
+        "ID520B_data.json",
         "ID520B_slide_01.jpg",
         "ID520B_slide_02.jpg",
         "ID520B_slide_03.jpg",
@@ -8397,6 +8412,7 @@
       "auxiliary_files": [
         "ID593A_cover.jpg",
         "ID593A_cover.png",
+        "ID593A_data.json",
         "ID593A_slide_01.jpg",
         "ID593A_slide_02.jpg",
         "ID593A_slide_03.jpg",
@@ -8580,6 +8596,7 @@
       "auxiliary_files": [
         "ID5A48_cover.jpg",
         "ID5A48_cover.png",
+        "ID5A48_data.json",
         "ID5A48_slide_02.jpg",
         "ID5A48_slide_03.jpg",
         "ID5A48_slide_04.jpg",
@@ -8736,6 +8753,7 @@
       "auxiliary_files": [
         "ID5CCE_cover.jpg",
         "ID5CCE_cover.png",
+        "ID5CCE_data.json",
         "ID5CCE_slide_01.jpg",
         "ID5CCE_slide_02.jpg",
         "ID5CCE_slide_03.jpg",
@@ -9129,6 +9147,7 @@
       "auxiliary_files": [
         "ID6406_cover.jpg",
         "ID6406_cover.png",
+        "ID6406_data.json",
         "ID6406_slide_01.jpg",
         "ID6406_slide_02.jpg",
         "ID6406_slide_03.jpg",
@@ -10636,6 +10655,7 @@
       "auxiliary_files": [
         "ID7BCD_cover.jpg",
         "ID7BCD_cover.png",
+        "ID7BCD_data.json",
         "ID7BCD_slide_01.jpg",
         "ID7BCD_slide_02.jpg",
         "ID7BCD_slide_03.jpg",
@@ -11317,6 +11337,7 @@
       "auxiliary_files": [
         "ID850C_cover.jpg",
         "ID850C_cover.png",
+        "ID850C_data.json",
         "ID850C_slide_01.jpg",
         "ID850C_slide_02.jpg",
         "ID850C_slide_03.jpg",
@@ -11542,6 +11563,7 @@
       "auxiliary_files": [
         "ID8727_cover.jpg",
         "ID8727_cover.png",
+        "ID8727_data.json",
         "ID8727_slide_01.jpg",
         "ID8727_slide_02.jpg",
         "ID8727_slide_03.jpg",
@@ -12414,6 +12436,7 @@
       "auxiliary_files": [
         "ID91E9_cover.jpg",
         "ID91E9_cover.png",
+        "ID91E9_data.json",
         "ID91E9_slide_01.jpg",
         "ID91E9_slide_02.jpg",
         "ID91E9_slide_03.jpg",
@@ -12656,6 +12679,7 @@
       "auxiliary_files": [
         "ID9476_cover.jpg",
         "ID9476_cover.png",
+        "ID9476_data.json",
         "ID9476_slide_01.jpg",
         "ID9476_slide_02.jpg",
         "ID9476_slide_03.jpg",
@@ -14009,6 +14033,7 @@
       "auxiliary_files": [
         "IDAA0E_cover.jpg",
         "IDAA0E_cover.png",
+        "IDAA0E_data.json",
         "IDAA0E_slide_01.jpg",
         "IDAA0E_slide_02.jpg",
         "IDAA0E_slide_03.jpg",
@@ -14666,6 +14691,7 @@
       "auxiliary_files": [
         "IDB3B4_cover.jpg",
         "IDB3B4_cover.png",
+        "IDB3B4_data.json",
         "IDB3B4_slide_01.jpg",
         "IDB3B4_slide_02.jpg",
         "IDB3B4_slide_03.jpg",
@@ -14941,6 +14967,7 @@
       "auxiliary_files": [
         "IDB963_cover.jpg",
         "IDB963_cover.png",
+        "IDB963_data.json",
         "IDB963_slide_01.jpg",
         "IDB963_slide_02.jpg",
         "IDB963_slide_03.jpg",
@@ -16052,6 +16079,7 @@
       "auxiliary_files": [
         "IDC53E_cover.jpg",
         "IDC53E_cover.png",
+        "IDC53E_data.json",
         "IDC53E_slide_01.jpg",
         "IDC53E_slide_02.jpg",
         "IDC53E_slide_03.jpg",
@@ -16209,6 +16237,7 @@
       "auxiliary_files": [
         "IDC7C4_cover.jpg",
         "IDC7C4_cover.png",
+        "IDC7C4_data.json",
         "IDC7C4_slide_01.jpg",
         "IDC7C4_slide_02.jpg",
         "IDC7C4_slide_03.jpg",
@@ -16569,6 +16598,7 @@
       "auxiliary_files": [
         "IDCC7D_cover.jpg",
         "IDCC7D_cover.png",
+        "IDCC7D_data.json",
         "IDCC7D_slide_01.jpg",
         "IDCC7D_slide_02.jpg",
         "IDCC7D_slide_03.jpg",
@@ -16868,6 +16898,7 @@
       "auxiliary_files": [
         "IDCEFB_cover.jpg",
         "IDCEFB_cover.png",
+        "IDCEFB_data.json",
         "IDCEFB_slide_01.jpg",
         "IDCEFB_slide_02.jpg",
         "IDCEFB_slide_03.jpg",
@@ -18283,6 +18314,7 @@
       "auxiliary_files": [
         "IDE22D_cover.jpg",
         "IDE22D_cover.png",
+        "IDE22D_data.json",
         "IDE22D_slide_01.jpg",
         "IDE22D_slide_02.jpg",
         "IDE22D_slide_03.jpg",
@@ -18483,6 +18515,7 @@
       "auxiliary_files": [
         "IDE47E_cover.jpg",
         "IDE47E_cover.png",
+        "IDE47E_data.json",
         "IDE47E_slide_01.jpg",
         "IDE47E_slide_02.jpg",
         "IDE47E_slide_03.jpg",
@@ -19173,9 +19206,12 @@
     "IDEB00": {
       "sku": "IDEB00",
       "cover": "IDEB00_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDEB00_slide1.webp"
+      ],
       "files": [
-        "IDEB00_cover.webp"
+        "IDEB00_cover.webp",
+        "IDEB00_slide1.webp"
       ],
       "auxiliary_files": [
         "IDEB00_cover.jpg"
@@ -19720,6 +19756,7 @@
       "auxiliary_files": [
         "IDF31A_cover.jpg",
         "IDF31A_cover.png",
+        "IDF31A_data.json",
         "IDF31A_slide_01.jpg",
         "IDF31A_slide_02.jpg",
         "IDF31A_slide_03.jpg",
@@ -19757,6 +19794,7 @@
       "auxiliary_files": [
         "IDF333_cover.jpg",
         "IDF333_cover.png",
+        "IDF333_data.json",
         "IDF333_slide_01.jpg",
         "IDF333_slide_02.jpg",
         "IDF333_slide_03.jpg",
@@ -19791,6 +19829,7 @@
       "auxiliary_files": [
         "IDF352_cover.jpg",
         "IDF352_cover.png",
+        "IDF352_data.json",
         "IDF352_slide_01.jpg",
         "IDF352_slide_02.jpg",
         "IDF352_slide_03.jpg",
@@ -19942,6 +19981,7 @@
       "auxiliary_files": [
         "IDF525_cover.jpg",
         "IDF525_cover.png",
+        "IDF525_data.json",
         "IDF525_slide_01.jpg",
         "IDF525_slide_02.jpg",
         "IDF525_slide_03.jpg",
@@ -20607,6 +20647,726 @@
         "IDFFAF_cover.jpg",
         "IDFFAF_cover.png",
         "IDFFAF_slide_spec.jpg"
+      ]
+    },
+    "ID09A0": {
+      "sku": "ID09A0",
+      "cover": "ID09A0_cover.webp",
+      "slides": [],
+      "files": [
+        "ID09A0_cover.webp"
+      ],
+      "auxiliary_files": [
+        "ID09A0_cover.jpg",
+        "ID09A0_slide_spec.jpg"
+      ]
+    },
+    "ID0C1B": {
+      "sku": "ID0C1B",
+      "cover": "ID0C1B_cover.webp",
+      "slides": [],
+      "files": [
+        "ID0C1B_cover.webp"
+      ],
+      "auxiliary_files": [
+        "ID0C1B_cover.jpg",
+        "ID0C1B_slide_spec.jpg"
+      ]
+    },
+    "ID0FED": {
+      "sku": "ID0FED",
+      "cover": "ID0FED_cover.webp",
+      "slides": [],
+      "files": [
+        "ID0FED_cover.webp"
+      ],
+      "auxiliary_files": [
+        "ID0FED_cover.jpg",
+        "ID0FED_slide_spec.jpg"
+      ]
+    },
+    "ID14D7": {
+      "sku": "ID14D7",
+      "cover": "ID14D7_cover.webp",
+      "slides": [],
+      "files": [
+        "ID14D7_cover.webp"
+      ],
+      "auxiliary_files": [
+        "ID14D7_cover.jpg",
+        "ID14D7_slide_spec.jpg"
+      ]
+    },
+    "ID1E7D": {
+      "sku": "ID1E7D",
+      "cover": "ID1E7D_cover.webp",
+      "slides": [],
+      "files": [
+        "ID1E7D_cover.webp"
+      ],
+      "auxiliary_files": [
+        "ID1E7D_cover.jpg",
+        "ID1E7D_slide_spec.jpg"
+      ]
+    },
+    "ID2461": {
+      "sku": "ID2461",
+      "cover": "ID2461_cover.webp",
+      "slides": [],
+      "files": [
+        "ID2461_cover.webp"
+      ],
+      "auxiliary_files": [
+        "ID2461_cover.jpg",
+        "ID2461_slide_spec.jpg"
+      ]
+    },
+    "ID29DE": {
+      "sku": "ID29DE",
+      "cover": "ID29DE_cover.webp",
+      "slides": [],
+      "files": [
+        "ID29DE_cover.webp"
+      ],
+      "auxiliary_files": [
+        "ID29DE_cover.jpg",
+        "ID29DE_slide_spec.jpg"
+      ]
+    },
+    "ID367F": {
+      "sku": "ID367F",
+      "cover": "ID367F_cover.webp",
+      "slides": [],
+      "files": [
+        "ID367F_cover.webp"
+      ],
+      "auxiliary_files": [
+        "ID367F_cover.jpg",
+        "ID367F_slide_spec.jpg"
+      ]
+    },
+    "ID459B": {
+      "sku": "ID459B",
+      "cover": "ID459B_cover.webp",
+      "slides": [],
+      "files": [
+        "ID459B_cover.webp"
+      ],
+      "auxiliary_files": [
+        "ID459B_cover.jpg",
+        "ID459B_slide_spec.jpg"
+      ]
+    },
+    "ID4862": {
+      "sku": "ID4862",
+      "cover": "ID4862_cover.webp",
+      "slides": [],
+      "files": [
+        "ID4862_cover.webp"
+      ],
+      "auxiliary_files": [
+        "ID4862_cover.jpg",
+        "ID4862_slide_spec.jpg"
+      ]
+    },
+    "ID4CE5": {
+      "sku": "ID4CE5",
+      "cover": "ID4CE5_cover.webp",
+      "slides": [],
+      "files": [
+        "ID4CE5_cover.webp"
+      ],
+      "auxiliary_files": [
+        "ID4CE5_cover.jpg",
+        "ID4CE5_slide_spec.jpg"
+      ]
+    },
+    "ID51B8": {
+      "sku": "ID51B8",
+      "cover": "ID51B8_cover.webp",
+      "slides": [],
+      "files": [
+        "ID51B8_cover.webp"
+      ],
+      "auxiliary_files": [
+        "ID51B8_cover.jpg",
+        "ID51B8_slide_spec.jpg"
+      ]
+    },
+    "ID5478": {
+      "sku": "ID5478",
+      "cover": "ID5478_cover.webp",
+      "slides": [],
+      "files": [
+        "ID5478_cover.webp"
+      ],
+      "auxiliary_files": [
+        "ID5478_cover.jpg",
+        "ID5478_slide_spec.jpg"
+      ]
+    },
+    "ID54E0": {
+      "sku": "ID54E0",
+      "cover": "ID54E0_cover.webp",
+      "slides": [],
+      "files": [
+        "ID54E0_cover.webp"
+      ],
+      "auxiliary_files": [
+        "ID54E0_cover.jpg",
+        "ID54E0_slide_spec.jpg"
+      ]
+    },
+    "ID5C80": {
+      "sku": "ID5C80",
+      "cover": "ID5C80_cover.webp",
+      "slides": [],
+      "files": [
+        "ID5C80_cover.webp"
+      ],
+      "auxiliary_files": [
+        "ID5C80_cover.jpg",
+        "ID5C80_slide_spec.jpg"
+      ]
+    },
+    "ID5FE2": {
+      "sku": "ID5FE2",
+      "cover": "ID5FE2_cover.webp",
+      "slides": [],
+      "files": [
+        "ID5FE2_cover.webp"
+      ],
+      "auxiliary_files": [
+        "ID5FE2_cover.jpg",
+        "ID5FE2_slide_spec.jpg"
+      ]
+    },
+    "ID6615": {
+      "sku": "ID6615",
+      "cover": "ID6615_cover.webp",
+      "slides": [],
+      "files": [
+        "ID6615_cover.webp"
+      ],
+      "auxiliary_files": [
+        "ID6615_cover.jpg",
+        "ID6615_slide_spec.jpg"
+      ]
+    },
+    "ID66C8": {
+      "sku": "ID66C8",
+      "cover": "ID66C8_cover.webp",
+      "slides": [],
+      "files": [
+        "ID66C8_cover.webp"
+      ],
+      "auxiliary_files": [
+        "ID66C8_cover.jpg",
+        "ID66C8_slide_spec.jpg"
+      ]
+    },
+    "ID6B66": {
+      "sku": "ID6B66",
+      "cover": "ID6B66_cover.webp",
+      "slides": [],
+      "files": [
+        "ID6B66_cover.webp"
+      ],
+      "auxiliary_files": [
+        "ID6B66_cover.jpg",
+        "ID6B66_slide_spec.jpg"
+      ]
+    },
+    "ID7328": {
+      "sku": "ID7328",
+      "cover": "ID7328_cover.webp",
+      "slides": [],
+      "files": [
+        "ID7328_cover.webp"
+      ],
+      "auxiliary_files": [
+        "ID7328_cover.jpg",
+        "ID7328_slide_spec.jpg"
+      ]
+    },
+    "ID78C9": {
+      "sku": "ID78C9",
+      "cover": "ID78C9_cover.webp",
+      "slides": [],
+      "files": [
+        "ID78C9_cover.webp"
+      ],
+      "auxiliary_files": [
+        "ID78C9_cover.jpg",
+        "ID78C9_slide_spec.jpg"
+      ]
+    },
+    "ID7CD0": {
+      "sku": "ID7CD0",
+      "cover": "ID7CD0_cover.webp",
+      "slides": [],
+      "files": [
+        "ID7CD0_cover.webp"
+      ],
+      "auxiliary_files": [
+        "ID7CD0_cover.jpg",
+        "ID7CD0_slide_spec.jpg"
+      ]
+    },
+    "ID7D50": {
+      "sku": "ID7D50",
+      "cover": "ID7D50_cover.webp",
+      "slides": [],
+      "files": [
+        "ID7D50_cover.webp"
+      ],
+      "auxiliary_files": [
+        "ID7D50_cover.jpg",
+        "ID7D50_slide_spec.jpg"
+      ]
+    },
+    "ID80F0": {
+      "sku": "ID80F0",
+      "cover": "ID80F0_cover.webp",
+      "slides": [],
+      "files": [
+        "ID80F0_cover.webp"
+      ],
+      "auxiliary_files": [
+        "ID80F0_cover.jpg",
+        "ID80F0_slide_spec.jpg"
+      ]
+    },
+    "ID816D": {
+      "sku": "ID816D",
+      "cover": "ID816D_cover.webp",
+      "slides": [],
+      "files": [
+        "ID816D_cover.webp"
+      ],
+      "auxiliary_files": [
+        "ID816D_cover.jpg",
+        "ID816D_slide_spec.jpg"
+      ]
+    },
+    "ID878E": {
+      "sku": "ID878E",
+      "cover": "ID878E_cover.webp",
+      "slides": [],
+      "files": [
+        "ID878E_cover.webp"
+      ],
+      "auxiliary_files": [
+        "ID878E_cover.jpg",
+        "ID878E_slide_spec.jpg"
+      ]
+    },
+    "ID8D55": {
+      "sku": "ID8D55",
+      "cover": "ID8D55_cover.webp",
+      "slides": [],
+      "files": [
+        "ID8D55_cover.webp"
+      ],
+      "auxiliary_files": [
+        "ID8D55_cover.jpg",
+        "ID8D55_slide_spec.jpg"
+      ]
+    },
+    "ID8E2F": {
+      "sku": "ID8E2F",
+      "cover": "ID8E2F_cover.webp",
+      "slides": [],
+      "files": [
+        "ID8E2F_cover.webp"
+      ],
+      "auxiliary_files": [
+        "ID8E2F_cover.jpg",
+        "ID8E2F_slide_spec.jpg"
+      ]
+    },
+    "ID8F84": {
+      "sku": "ID8F84",
+      "cover": "ID8F84_cover.webp",
+      "slides": [],
+      "files": [
+        "ID8F84_cover.webp"
+      ],
+      "auxiliary_files": [
+        "ID8F84_cover.jpg",
+        "ID8F84_slide_spec.jpg"
+      ]
+    },
+    "ID90A4": {
+      "sku": "ID90A4",
+      "cover": "ID90A4_cover.webp",
+      "slides": [],
+      "files": [
+        "ID90A4_cover.webp"
+      ],
+      "auxiliary_files": [
+        "ID90A4_cover.jpg",
+        "ID90A4_slide_spec.jpg"
+      ]
+    },
+    "ID96B2": {
+      "sku": "ID96B2",
+      "cover": "ID96B2_cover.webp",
+      "slides": [],
+      "files": [
+        "ID96B2_cover.webp"
+      ],
+      "auxiliary_files": [
+        "ID96B2_cover.jpg",
+        "ID96B2_slide_spec.jpg"
+      ]
+    },
+    "ID96D4": {
+      "sku": "ID96D4",
+      "cover": "ID96D4_cover.webp",
+      "slides": [],
+      "files": [
+        "ID96D4_cover.webp"
+      ],
+      "auxiliary_files": [
+        "ID96D4_cover.jpg",
+        "ID96D4_slide_spec.jpg"
+      ]
+    },
+    "IDA172": {
+      "sku": "IDA172",
+      "cover": "IDA172_cover.webp",
+      "slides": [],
+      "files": [
+        "IDA172_cover.webp"
+      ],
+      "auxiliary_files": [
+        "IDA172_cover.jpg",
+        "IDA172_slide_spec.jpg"
+      ]
+    },
+    "IDA328": {
+      "sku": "IDA328",
+      "cover": "IDA328_cover.webp",
+      "slides": [],
+      "files": [
+        "IDA328_cover.webp"
+      ],
+      "auxiliary_files": [
+        "IDA328_cover.jpg",
+        "IDA328_slide_spec.jpg"
+      ]
+    },
+    "IDA57C": {
+      "sku": "IDA57C",
+      "cover": "IDA57C_cover.webp",
+      "slides": [],
+      "files": [
+        "IDA57C_cover.webp"
+      ],
+      "auxiliary_files": [
+        "IDA57C_cover.jpg",
+        "IDA57C_slide_spec.jpg"
+      ]
+    },
+    "IDA5A7": {
+      "sku": "IDA5A7",
+      "cover": "IDA5A7_cover.webp",
+      "slides": [],
+      "files": [
+        "IDA5A7_cover.webp"
+      ],
+      "auxiliary_files": [
+        "IDA5A7_cover.jpg",
+        "IDA5A7_slide_spec.jpg"
+      ]
+    },
+    "IDAA71": {
+      "sku": "IDAA71",
+      "cover": "IDAA71_cover.webp",
+      "slides": [],
+      "files": [
+        "IDAA71_cover.webp"
+      ],
+      "auxiliary_files": [
+        "IDAA71_cover.jpg",
+        "IDAA71_slide_spec.jpg"
+      ]
+    },
+    "IDB05D": {
+      "sku": "IDB05D",
+      "cover": "IDB05D_cover.webp",
+      "slides": [],
+      "files": [
+        "IDB05D_cover.webp"
+      ],
+      "auxiliary_files": [
+        "IDB05D_cover.jpg",
+        "IDB05D_slide_spec.jpg"
+      ]
+    },
+    "IDB279": {
+      "sku": "IDB279",
+      "cover": "IDB279_cover.webp",
+      "slides": [],
+      "files": [
+        "IDB279_cover.webp"
+      ],
+      "auxiliary_files": [
+        "IDB279_cover.jpg",
+        "IDB279_slide_spec.jpg"
+      ]
+    },
+    "IDC133": {
+      "sku": "IDC133",
+      "cover": "IDC133_cover.webp",
+      "slides": [],
+      "files": [
+        "IDC133_cover.webp"
+      ],
+      "auxiliary_files": [
+        "IDC133_cover.jpg",
+        "IDC133_slide_spec.jpg"
+      ]
+    },
+    "IDC212": {
+      "sku": "IDC212",
+      "cover": "IDC212_cover.webp",
+      "slides": [],
+      "files": [
+        "IDC212_cover.webp"
+      ],
+      "auxiliary_files": [
+        "IDC212_cover.jpg",
+        "IDC212_slide_spec.jpg"
+      ]
+    },
+    "IDC2AA": {
+      "sku": "IDC2AA",
+      "cover": "IDC2AA_cover.webp",
+      "slides": [],
+      "files": [
+        "IDC2AA_cover.webp"
+      ],
+      "auxiliary_files": [
+        "IDC2AA_cover.jpg",
+        "IDC2AA_slide_spec.jpg"
+      ]
+    },
+    "IDC5CD": {
+      "sku": "IDC5CD",
+      "cover": "IDC5CD_cover.webp",
+      "slides": [],
+      "files": [
+        "IDC5CD_cover.webp"
+      ],
+      "auxiliary_files": [
+        "IDC5CD_cover.jpg",
+        "IDC5CD_slide_spec.jpg"
+      ]
+    },
+    "IDC7AD": {
+      "sku": "IDC7AD",
+      "cover": "IDC7AD_cover.webp",
+      "slides": [],
+      "files": [
+        "IDC7AD_cover.webp"
+      ],
+      "auxiliary_files": [
+        "IDC7AD_cover.jpg",
+        "IDC7AD_slide_spec.jpg"
+      ]
+    },
+    "IDCA8F": {
+      "sku": "IDCA8F",
+      "cover": "IDCA8F_cover.webp",
+      "slides": [],
+      "files": [
+        "IDCA8F_cover.webp"
+      ],
+      "auxiliary_files": [
+        "IDCA8F_cover.jpg",
+        "IDCA8F_slide_spec.jpg"
+      ]
+    },
+    "IDCB4C": {
+      "sku": "IDCB4C",
+      "cover": "IDCB4C_cover.webp",
+      "slides": [],
+      "files": [
+        "IDCB4C_cover.webp"
+      ],
+      "auxiliary_files": [
+        "IDCB4C_cover.jpg",
+        "IDCB4C_slide_spec.jpg"
+      ]
+    },
+    "IDCBF2": {
+      "sku": "IDCBF2",
+      "cover": "IDCBF2_cover.webp",
+      "slides": [],
+      "files": [
+        "IDCBF2_cover.webp"
+      ],
+      "auxiliary_files": [
+        "IDCBF2_cover.jpg",
+        "IDCBF2_slide_spec.jpg"
+      ]
+    },
+    "IDD73F": {
+      "sku": "IDD73F",
+      "cover": "IDD73F_cover.webp",
+      "slides": [],
+      "files": [
+        "IDD73F_cover.webp"
+      ],
+      "auxiliary_files": [
+        "IDD73F_cover.jpg",
+        "IDD73F_slide_spec.jpg"
+      ]
+    },
+    "IDD743": {
+      "sku": "IDD743",
+      "cover": "IDD743_cover.webp",
+      "slides": [],
+      "files": [
+        "IDD743_cover.webp"
+      ],
+      "auxiliary_files": [
+        "IDD743_cover.jpg",
+        "IDD743_slide_spec.jpg"
+      ]
+    },
+    "IDD962": {
+      "sku": "IDD962",
+      "cover": "IDD962_cover.webp",
+      "slides": [],
+      "files": [
+        "IDD962_cover.webp"
+      ],
+      "auxiliary_files": [
+        "IDD962_cover.jpg",
+        "IDD962_slide_spec.jpg"
+      ]
+    },
+    "IDD9CA": {
+      "sku": "IDD9CA",
+      "cover": "IDD9CA_cover.webp",
+      "slides": [],
+      "files": [
+        "IDD9CA_cover.webp"
+      ],
+      "auxiliary_files": [
+        "IDD9CA_cover.jpg",
+        "IDD9CA_slide_spec.jpg"
+      ]
+    },
+    "IDDCC9": {
+      "sku": "IDDCC9",
+      "cover": "IDDCC9_cover.webp",
+      "slides": [],
+      "files": [
+        "IDDCC9_cover.webp"
+      ],
+      "auxiliary_files": [
+        "IDDCC9_cover.jpg",
+        "IDDCC9_slide_spec.jpg"
+      ]
+    },
+    "IDE42D": {
+      "sku": "IDE42D",
+      "cover": "IDE42D_cover.webp",
+      "slides": [],
+      "files": [
+        "IDE42D_cover.webp"
+      ],
+      "auxiliary_files": [
+        "IDE42D_cover.jpg",
+        "IDE42D_slide_spec.jpg"
+      ]
+    },
+    "IDE477": {
+      "sku": "IDE477",
+      "cover": "IDE477_cover.webp",
+      "slides": [],
+      "files": [
+        "IDE477_cover.webp"
+      ],
+      "auxiliary_files": [
+        "IDE477_cover.jpg",
+        "IDE477_slide_spec.jpg"
+      ]
+    },
+    "IDEBF0": {
+      "sku": "IDEBF0",
+      "cover": "IDEBF0_cover.webp",
+      "slides": [],
+      "files": [
+        "IDEBF0_cover.webp"
+      ],
+      "auxiliary_files": [
+        "IDEBF0_cover.jpg",
+        "IDEBF0_slide_spec.jpg"
+      ]
+    },
+    "IDEDDE": {
+      "sku": "IDEDDE",
+      "cover": "IDEDDE_cover.webp",
+      "slides": [],
+      "files": [
+        "IDEDDE_cover.webp"
+      ],
+      "auxiliary_files": [
+        "IDEDDE_cover.jpg",
+        "IDEDDE_slide_spec.jpg"
+      ]
+    },
+    "IDF0EE": {
+      "sku": "IDF0EE",
+      "cover": "IDF0EE_cover.webp",
+      "slides": [],
+      "files": [
+        "IDF0EE_cover.webp"
+      ],
+      "auxiliary_files": [
+        "IDF0EE_cover.jpg",
+        "IDF0EE_slide_spec.jpg"
+      ]
+    },
+    "IDF359": {
+      "sku": "IDF359",
+      "cover": "IDF359_cover.webp",
+      "slides": [],
+      "files": [
+        "IDF359_cover.webp"
+      ],
+      "auxiliary_files": [
+        "IDF359_cover.jpg",
+        "IDF359_slide_spec.jpg"
+      ]
+    },
+    "IDF874": {
+      "sku": "IDF874",
+      "cover": "IDF874_cover.webp",
+      "slides": [],
+      "files": [
+        "IDF874_cover.webp"
+      ],
+      "auxiliary_files": [
+        "IDF874_cover.jpg",
+        "IDF874_slide_spec.jpg"
+      ]
+    },
+    "IDFE6F": {
+      "sku": "IDFE6F",
+      "cover": "IDFE6F_cover.webp",
+      "slides": [],
+      "files": [
+        "IDFE6F_cover.webp"
+      ],
+      "auxiliary_files": [
+        "IDFE6F_cover.jpg",
+        "IDFE6F_slide_spec.jpg"
       ]
     }
   }
