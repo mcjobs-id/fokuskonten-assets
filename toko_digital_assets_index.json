@@ -30,12 +30,19 @@
     "ID007B": {
       "sku": "ID007B",
       "cover": "ID007B_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID007B_cover_old.webp",
+        "ID007B_slide_spec.jpg"
+      ],
       "files": [
-        "ID007B_cover.webp"
+        "ID007B_cover.webp",
+        "ID007B_cover_old.webp",
+        "ID007B_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID007B_cover.jpg",
+        "ID007B_cover_old.jpg",
+        "ID007B_cover.png",
         "ID007B_slide_spec.jpg"
       ]
     },
@@ -55,12 +62,19 @@
     "ID00D9": {
       "sku": "ID00D9",
       "cover": "ID00D9_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID00D9_cover_old.webp",
+        "ID00D9_slide_spec.jpg"
+      ],
       "files": [
-        "ID00D9_cover.webp"
+        "ID00D9_cover.webp",
+        "ID00D9_cover_old.webp",
+        "ID00D9_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID00D9_cover.jpg",
+        "ID00D9_cover_old.jpg",
+        "ID00D9_cover.png",
         "ID00D9_slide_spec.jpg"
       ]
     },
@@ -125,12 +139,19 @@
     "ID0243": {
       "sku": "ID0243",
       "cover": "ID0243_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID0243_cover_old.webp",
+        "ID0243_slide_spec.jpg"
+      ],
       "files": [
-        "ID0243_cover.webp"
+        "ID0243_cover.webp",
+        "ID0243_cover_old.webp",
+        "ID0243_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID0243_cover.jpg",
+        "ID0243_cover_old.jpg",
+        "ID0243_cover.png",
         "ID0243_slide_spec.jpg"
       ]
     },
@@ -166,12 +187,19 @@
     "ID0323": {
       "sku": "ID0323",
       "cover": "ID0323_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID0323_cover_old.webp",
+        "ID0323_slide_spec.jpg"
+      ],
       "files": [
-        "ID0323_cover.webp"
+        "ID0323_cover.webp",
+        "ID0323_cover_old.webp",
+        "ID0323_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID0323_cover.jpg",
+        "ID0323_cover_old.jpg",
+        "ID0323_cover.png",
         "ID0323_slide_spec.jpg"
       ]
     },
@@ -342,12 +370,19 @@
     "ID05B0": {
       "sku": "ID05B0",
       "cover": "ID05B0_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID05B0_cover_old.webp",
+        "ID05B0_slide_spec.jpg"
+      ],
       "files": [
-        "ID05B0_cover.webp"
+        "ID05B0_cover.webp",
+        "ID05B0_cover_old.webp",
+        "ID05B0_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID05B0_cover.jpg",
+        "ID05B0_cover_old.jpg",
+        "ID05B0_cover.png",
         "ID05B0_slide_spec.jpg"
       ]
     },
@@ -598,64 +633,17 @@
       "sku": "ID0B06",
       "cover": "ID0B06_cover.webp",
       "slides": [
-        "ID0B06_slide_01.webp",
-        "ID0B06_slide_02.webp",
-        "ID0B06_slide_03.webp",
-        "ID0B06_slide_04.webp",
-        "ID0B06_slide_05.webp",
-        "ID0B06_slide_06.webp",
-        "ID0B06_slide_07.webp",
-        "ID0B06_slide_08.webp",
-        "ID0B06_slide_09.webp",
-        "ID0B06_slide_10.webp",
-        "ID0B06_slide_11.webp",
-        "ID0B06_slide_12.webp",
-        "ID0B06_slide_13.webp",
-        "ID0B06_slide_14.webp",
-        "ID0B06_slide_15.webp",
-        "ID0B06_slide_16.webp",
-        "ID0B06_slide_17.webp",
-        "ID0B06_slide_18.webp",
-        "ID0B06_slide_19.webp",
-        "ID0B06_slide_20.webp",
-        "ID0B06_slide_21.webp",
-        "ID0B06_slide_22.webp",
-        "ID0B06_slide_23.webp",
-        "ID0B06_slide_24.webp",
-        "ID0B06_slide_25.webp",
-        "ID0B06_slide_26.webp"
+        "ID0B06_cover_old.webp",
+        "ID0B06_slide_spec.jpg"
       ],
       "files": [
         "ID0B06_cover.webp",
-        "ID0B06_slide_01.webp",
-        "ID0B06_slide_02.webp",
-        "ID0B06_slide_03.webp",
-        "ID0B06_slide_04.webp",
-        "ID0B06_slide_05.webp",
-        "ID0B06_slide_06.webp",
-        "ID0B06_slide_07.webp",
-        "ID0B06_slide_08.webp",
-        "ID0B06_slide_09.webp",
-        "ID0B06_slide_10.webp",
-        "ID0B06_slide_11.webp",
-        "ID0B06_slide_12.webp",
-        "ID0B06_slide_13.webp",
-        "ID0B06_slide_14.webp",
-        "ID0B06_slide_15.webp",
-        "ID0B06_slide_16.webp",
-        "ID0B06_slide_17.webp",
-        "ID0B06_slide_18.webp",
-        "ID0B06_slide_19.webp",
-        "ID0B06_slide_20.webp",
-        "ID0B06_slide_21.webp",
-        "ID0B06_slide_22.webp",
-        "ID0B06_slide_23.webp",
-        "ID0B06_slide_24.webp",
-        "ID0B06_slide_25.webp",
-        "ID0B06_slide_26.webp"
+        "ID0B06_cover_old.webp",
+        "ID0B06_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID0B06_cover.jpg",
+        "ID0B06_cover_old.jpg",
         "ID0B06_cover.png",
         "ID0B06_slide_spec.jpg"
       ]
@@ -664,22 +652,17 @@
       "sku": "ID0B07",
       "cover": "ID0B07_cover.webp",
       "slides": [
-        "ID0B07_slide_01.webp",
-        "ID0B07_slide_02.webp",
-        "ID0B07_slide_03.webp",
-        "ID0B07_slide_04.webp",
-        "ID0B07_slide_05.webp"
+        "ID0B07_cover_old.webp",
+        "ID0B07_slide_spec.jpg"
       ],
       "files": [
         "ID0B07_cover.webp",
-        "ID0B07_slide_01.webp",
-        "ID0B07_slide_02.webp",
-        "ID0B07_slide_03.webp",
-        "ID0B07_slide_04.webp",
-        "ID0B07_slide_05.webp"
+        "ID0B07_cover_old.webp",
+        "ID0B07_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID0B07_cover.jpg",
+        "ID0B07_cover_old.jpg",
         "ID0B07_cover.png",
         "ID0B07_slide_spec.jpg"
       ]
@@ -3241,84 +3224,18 @@
       "sku": "ID0FFF",
       "cover": "ID0FFF_cover.webp",
       "slides": [
-        "ID0FFF_slide_01.webp",
-        "ID0FFF_slide_02.webp",
-        "ID0FFF_slide_03.webp",
-        "ID0FFF_slide_04.webp",
-        "ID0FFF_slide_05.webp",
-        "ID0FFF_slide_06.webp",
-        "ID0FFF_slide_07.webp",
-        "ID0FFF_slide_08.webp",
-        "ID0FFF_slide_09.webp",
-        "ID0FFF_slide_10.webp",
-        "ID0FFF_slide_11.webp",
-        "ID0FFF_slide_12.webp",
-        "ID0FFF_slide_13.webp",
-        "ID0FFF_slide_14.webp",
-        "ID0FFF_slide_15.webp",
-        "ID0FFF_slide_16.webp",
-        "ID0FFF_slide_17.webp",
-        "ID0FFF_slide_18.webp",
-        "ID0FFF_slide_19.webp",
-        "ID0FFF_slide_20.webp",
-        "ID0FFF_slide_21.webp",
-        "ID0FFF_slide_22.webp",
-        "ID0FFF_slide_23.webp",
-        "ID0FFF_slide_24.webp"
+        "ID0FFF_cover_old.webp",
+        "ID0FFF_slide_spec.jpg"
       ],
       "files": [
         "ID0FFF_cover.webp",
-        "ID0FFF_slide_01.webp",
-        "ID0FFF_slide_02.webp",
-        "ID0FFF_slide_03.webp",
-        "ID0FFF_slide_04.webp",
-        "ID0FFF_slide_05.webp",
-        "ID0FFF_slide_06.webp",
-        "ID0FFF_slide_07.webp",
-        "ID0FFF_slide_08.webp",
-        "ID0FFF_slide_09.webp",
-        "ID0FFF_slide_10.webp",
-        "ID0FFF_slide_11.webp",
-        "ID0FFF_slide_12.webp",
-        "ID0FFF_slide_13.webp",
-        "ID0FFF_slide_14.webp",
-        "ID0FFF_slide_15.webp",
-        "ID0FFF_slide_16.webp",
-        "ID0FFF_slide_17.webp",
-        "ID0FFF_slide_18.webp",
-        "ID0FFF_slide_19.webp",
-        "ID0FFF_slide_20.webp",
-        "ID0FFF_slide_21.webp",
-        "ID0FFF_slide_22.webp",
-        "ID0FFF_slide_23.webp",
-        "ID0FFF_slide_24.webp"
+        "ID0FFF_cover_old.webp",
+        "ID0FFF_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID0FFF_cover.jpg",
-        "ID0FFF_slide_01.jpg",
-        "ID0FFF_slide_02.jpg",
-        "ID0FFF_slide_03.jpg",
-        "ID0FFF_slide_04.jpg",
-        "ID0FFF_slide_05.jpg",
-        "ID0FFF_slide_06.jpg",
-        "ID0FFF_slide_07.jpg",
-        "ID0FFF_slide_08.jpg",
-        "ID0FFF_slide_09.jpg",
-        "ID0FFF_slide_10.jpg",
-        "ID0FFF_slide_11.jpg",
-        "ID0FFF_slide_12.jpg",
-        "ID0FFF_slide_13.jpg",
-        "ID0FFF_slide_14.jpg",
-        "ID0FFF_slide_15.jpg",
-        "ID0FFF_slide_16.jpg",
-        "ID0FFF_slide_17.jpg",
-        "ID0FFF_slide_18.jpg",
-        "ID0FFF_slide_19.jpg",
-        "ID0FFF_slide_20.jpg",
-        "ID0FFF_slide_21.jpg",
-        "ID0FFF_slide_22.jpg",
-        "ID0FFF_slide_23.jpg",
-        "ID0FFF_slide_24.jpg",
+        "ID0FFF_cover_old.jpg",
+        "ID0FFF_cover.png",
         "ID0FFF_slide_spec.jpg"
       ]
     },
@@ -3382,12 +3299,19 @@
     "ID1108": {
       "sku": "ID1108",
       "cover": "ID1108_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID1108_cover_old.webp",
+        "ID1108_slide_spec.jpg"
+      ],
       "files": [
-        "ID1108_cover.webp"
+        "ID1108_cover.webp",
+        "ID1108_cover_old.webp",
+        "ID1108_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID1108_cover.jpg",
+        "ID1108_cover_old.jpg",
+        "ID1108_cover.png",
         "ID1108_slide_spec.jpg"
       ]
     },
@@ -3395,50 +3319,17 @@
       "sku": "ID110C",
       "cover": "ID110C_cover.webp",
       "slides": [
-        "ID110C_slide_01.webp",
-        "ID110C_slide_02.webp",
-        "ID110C_slide_03.webp",
-        "ID110C_slide_04.webp",
-        "ID110C_slide_05.webp",
-        "ID110C_slide_06.webp",
-        "ID110C_slide_07.webp",
-        "ID110C_slide_08.webp",
-        "ID110C_slide_09.webp",
-        "ID110C_slide_10.webp",
-        "ID110C_slide_11.webp",
-        "ID110C_slide_12.webp",
-        "ID110C_slide_13.webp",
-        "ID110C_slide_14.webp",
-        "ID110C_slide_15.webp",
-        "ID110C_slide_16.webp",
-        "ID110C_slide_17.webp",
-        "ID110C_slide_18.webp",
-        "ID110C_slide_19.webp"
+        "ID110C_cover_old.webp",
+        "ID110C_slide_spec.jpg"
       ],
       "files": [
         "ID110C_cover.webp",
-        "ID110C_slide_01.webp",
-        "ID110C_slide_02.webp",
-        "ID110C_slide_03.webp",
-        "ID110C_slide_04.webp",
-        "ID110C_slide_05.webp",
-        "ID110C_slide_06.webp",
-        "ID110C_slide_07.webp",
-        "ID110C_slide_08.webp",
-        "ID110C_slide_09.webp",
-        "ID110C_slide_10.webp",
-        "ID110C_slide_11.webp",
-        "ID110C_slide_12.webp",
-        "ID110C_slide_13.webp",
-        "ID110C_slide_14.webp",
-        "ID110C_slide_15.webp",
-        "ID110C_slide_16.webp",
-        "ID110C_slide_17.webp",
-        "ID110C_slide_18.webp",
-        "ID110C_slide_19.webp"
+        "ID110C_cover_old.webp",
+        "ID110C_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID110C_cover.jpg",
+        "ID110C_cover_old.jpg",
         "ID110C_cover.png",
         "ID110C_slide_spec.jpg"
       ]
@@ -3469,12 +3360,19 @@
     "ID1292": {
       "sku": "ID1292",
       "cover": "ID1292_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID1292_cover_old.webp",
+        "ID1292_slide_spec.jpg"
+      ],
       "files": [
-        "ID1292_cover.webp"
+        "ID1292_cover.webp",
+        "ID1292_cover_old.webp",
+        "ID1292_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID1292_cover.jpg",
+        "ID1292_cover_old.jpg",
+        "ID1292_cover.png",
         "ID1292_slide_spec.jpg"
       ]
     },
@@ -3833,12 +3731,19 @@
     "ID17E5": {
       "sku": "ID17E5",
       "cover": "ID17E5_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID17E5_cover_old.webp",
+        "ID17E5_slide_spec.jpg"
+      ],
       "files": [
-        "ID17E5_cover.webp"
+        "ID17E5_cover.webp",
+        "ID17E5_cover_old.webp",
+        "ID17E5_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID17E5_cover.jpg",
+        "ID17E5_cover_old.jpg",
+        "ID17E5_cover.png",
         "ID17E5_slide_spec.jpg"
       ]
     },
@@ -4023,12 +3928,18 @@
     "ID1A98": {
       "sku": "ID1A98",
       "cover": "ID1A98_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID1A98_cover_old.webp",
+        "ID1A98_slide_spec.jpg"
+      ],
       "files": [
-        "ID1A98_cover.webp"
+        "ID1A98_cover.webp",
+        "ID1A98_cover_old.webp",
+        "ID1A98_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID1A98_cover.jpg",
+        "ID1A98_cover_old.jpg",
         "ID1A98_cover.png",
         "ID1A98_slide_spec.jpg"
       ]
@@ -4255,12 +4166,19 @@
     "ID1E53": {
       "sku": "ID1E53",
       "cover": "ID1E53_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID1E53_cover_old.webp",
+        "ID1E53_slide_spec.jpg"
+      ],
       "files": [
-        "ID1E53_cover.webp"
+        "ID1E53_cover.webp",
+        "ID1E53_cover_old.webp",
+        "ID1E53_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID1E53_cover.jpg",
+        "ID1E53_cover_old.jpg",
+        "ID1E53_cover.png",
         "ID1E53_slide_spec.jpg"
       ]
     },
@@ -4528,12 +4446,19 @@
     "ID23B4": {
       "sku": "ID23B4",
       "cover": "ID23B4_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID23B4_cover_old.webp",
+        "ID23B4_slide_spec.jpg"
+      ],
       "files": [
-        "ID23B4_cover.webp"
+        "ID23B4_cover.webp",
+        "ID23B4_cover_old.webp",
+        "ID23B4_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID23B4_cover.jpg",
+        "ID23B4_cover_old.jpg",
+        "ID23B4_cover.png",
         "ID23B4_slide_spec.jpg"
       ]
     },
@@ -4793,12 +4718,19 @@
     "ID270F": {
       "sku": "ID270F",
       "cover": "ID270F_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID270F_cover_old.webp",
+        "ID270F_slide_spec.jpg"
+      ],
       "files": [
-        "ID270F_cover.webp"
+        "ID270F_cover.webp",
+        "ID270F_cover_old.webp",
+        "ID270F_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID270F_cover.jpg",
+        "ID270F_cover_old.jpg",
+        "ID270F_cover.png",
         "ID270F_slide_spec.jpg"
       ]
     },
@@ -4831,30 +4763,18 @@
       "sku": "ID278001",
       "cover": "ID278001_cover.webp",
       "slides": [
-        "ID278001_slide_01.webp",
-        "ID278001_slide_02.webp",
-        "ID278001_slide_03.webp",
-        "ID278001_slide_04.webp",
-        "ID278001_slide_05.webp",
-        "ID278001_slide_06.webp"
+        "ID278001_cover_old.webp",
+        "ID278001_slide_spec.jpg"
       ],
       "files": [
         "ID278001_cover.webp",
-        "ID278001_slide_01.webp",
-        "ID278001_slide_02.webp",
-        "ID278001_slide_03.webp",
-        "ID278001_slide_04.webp",
-        "ID278001_slide_05.webp",
-        "ID278001_slide_06.webp"
+        "ID278001_cover_old.webp",
+        "ID278001_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID278001_cover.jpg",
-        "ID278001_slide_01.jpg",
-        "ID278001_slide_02.jpg",
-        "ID278001_slide_03.jpg",
-        "ID278001_slide_04.jpg",
-        "ID278001_slide_05.jpg",
-        "ID278001_slide_06.jpg",
+        "ID278001_cover_old.jpg",
+        "ID278001_cover.png",
         "ID278001_slide_spec.jpg"
       ]
     },
@@ -5153,12 +5073,19 @@
     "ID2A41": {
       "sku": "ID2A41",
       "cover": "ID2A41_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID2A41_cover_old.webp",
+        "ID2A41_slide_spec.jpg"
+      ],
       "files": [
-        "ID2A41_cover.webp"
+        "ID2A41_cover.webp",
+        "ID2A41_cover_old.webp",
+        "ID2A41_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID2A41_cover.jpg",
+        "ID2A41_cover_old.jpg",
+        "ID2A41_cover.png",
         "ID2A41_slide_spec.jpg"
       ]
     },
@@ -5326,12 +5253,19 @@
     "ID2BDE": {
       "sku": "ID2BDE",
       "cover": "ID2BDE_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID2BDE_cover_old.webp",
+        "ID2BDE_slide_spec.jpg"
+      ],
       "files": [
-        "ID2BDE_cover.webp"
+        "ID2BDE_cover.webp",
+        "ID2BDE_cover_old.webp",
+        "ID2BDE_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID2BDE_cover.jpg",
+        "ID2BDE_cover_old.jpg",
+        "ID2BDE_cover.png",
         "ID2BDE_slide_spec.jpg"
       ]
     },
@@ -5479,12 +5413,19 @@
     "ID2DF7": {
       "sku": "ID2DF7",
       "cover": "ID2DF7_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID2DF7_cover_old.webp",
+        "ID2DF7_slide_spec.jpg"
+      ],
       "files": [
-        "ID2DF7_cover.webp"
+        "ID2DF7_cover.webp",
+        "ID2DF7_cover_old.webp",
+        "ID2DF7_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID2DF7_cover.jpg",
+        "ID2DF7_cover_old.jpg",
+        "ID2DF7_cover.png",
         "ID2DF7_slide_spec.jpg"
       ]
     },
@@ -5589,12 +5530,19 @@
     "ID2FE6": {
       "sku": "ID2FE6",
       "cover": "ID2FE6_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID2FE6_cover_old.webp",
+        "ID2FE6_slide_spec.jpg"
+      ],
       "files": [
-        "ID2FE6_cover.webp"
+        "ID2FE6_cover.webp",
+        "ID2FE6_cover_old.webp",
+        "ID2FE6_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID2FE6_cover.jpg",
+        "ID2FE6_cover_old.jpg",
+        "ID2FE6_cover.png",
         "ID2FE6_slide_spec.jpg"
       ]
     },
@@ -5614,45 +5562,18 @@
       "sku": "ID3121",
       "cover": "ID3121_cover.webp",
       "slides": [
-        "ID3121_slide_01.webp",
-        "ID3121_slide_02.webp",
-        "ID3121_slide_03.webp",
-        "ID3121_slide_04.webp",
-        "ID3121_slide_05.webp",
-        "ID3121_slide_06.webp",
-        "ID3121_slide_07.webp",
-        "ID3121_slide_08.webp",
-        "ID3121_slide_09.webp",
-        "ID3121_slide_10.webp",
-        "ID3121_slide_11.webp"
+        "ID3121_cover_old.webp",
+        "ID3121_slide_spec.jpg"
       ],
       "files": [
         "ID3121_cover.webp",
-        "ID3121_slide_01.webp",
-        "ID3121_slide_02.webp",
-        "ID3121_slide_03.webp",
-        "ID3121_slide_04.webp",
-        "ID3121_slide_05.webp",
-        "ID3121_slide_06.webp",
-        "ID3121_slide_07.webp",
-        "ID3121_slide_08.webp",
-        "ID3121_slide_09.webp",
-        "ID3121_slide_10.webp",
-        "ID3121_slide_11.webp"
+        "ID3121_cover_old.webp",
+        "ID3121_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID3121_cover.jpg",
-        "ID3121_slide_01.jpg",
-        "ID3121_slide_02.jpg",
-        "ID3121_slide_03.jpg",
-        "ID3121_slide_04.jpg",
-        "ID3121_slide_05.jpg",
-        "ID3121_slide_06.jpg",
-        "ID3121_slide_07.jpg",
-        "ID3121_slide_08.jpg",
-        "ID3121_slide_09.jpg",
-        "ID3121_slide_10.jpg",
-        "ID3121_slide_11.jpg",
+        "ID3121_cover_old.jpg",
+        "ID3121_cover.png",
         "ID3121_slide_spec.jpg"
       ]
     },
@@ -5981,12 +5902,19 @@
     "ID3497": {
       "sku": "ID3497",
       "cover": "ID3497_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID3497_cover_old.webp",
+        "ID3497_slide_spec.jpg"
+      ],
       "files": [
-        "ID3497_cover.webp"
+        "ID3497_cover.webp",
+        "ID3497_cover_old.webp",
+        "ID3497_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID3497_cover.jpg",
+        "ID3497_cover_old.jpg",
+        "ID3497_cover.png",
         "ID3497_slide_spec.jpg"
       ]
     },
@@ -6453,12 +6381,19 @@
     "ID3A31": {
       "sku": "ID3A31",
       "cover": "ID3A31_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID3A31_cover_old.webp",
+        "ID3A31_slide_spec.jpg"
+      ],
       "files": [
-        "ID3A31_cover.webp"
+        "ID3A31_cover.webp",
+        "ID3A31_cover_old.webp",
+        "ID3A31_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID3A31_cover.jpg",
+        "ID3A31_cover_old.jpg",
+        "ID3A31_cover.png",
         "ID3A31_slide_spec.jpg"
       ]
     },
@@ -6821,12 +6756,19 @@
     "ID3F58": {
       "sku": "ID3F58",
       "cover": "ID3F58_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID3F58_cover_old.webp",
+        "ID3F58_slide_spec.jpg"
+      ],
       "files": [
-        "ID3F58_cover.webp"
+        "ID3F58_cover.webp",
+        "ID3F58_cover_old.webp",
+        "ID3F58_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID3F58_cover.jpg",
+        "ID3F58_cover_old.jpg",
+        "ID3F58_cover.png",
         "ID3F58_slide_spec.jpg"
       ]
     },
@@ -6988,12 +6930,19 @@
     "ID4196": {
       "sku": "ID4196",
       "cover": "ID4196_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID4196_cover_old.webp",
+        "ID4196_slide_spec.jpg"
+      ],
       "files": [
-        "ID4196_cover.webp"
+        "ID4196_cover.webp",
+        "ID4196_cover_old.webp",
+        "ID4196_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID4196_cover.jpg",
+        "ID4196_cover_old.jpg",
+        "ID4196_cover.png",
         "ID4196_slide_spec.jpg"
       ]
     },
@@ -7097,12 +7046,19 @@
     "ID42E3": {
       "sku": "ID42E3",
       "cover": "ID42E3_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID42E3_cover_old.webp",
+        "ID42E3_slide_spec.jpg"
+      ],
       "files": [
-        "ID42E3_cover.webp"
+        "ID42E3_cover.webp",
+        "ID42E3_cover_old.webp",
+        "ID42E3_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID42E3_cover.jpg",
+        "ID42E3_cover_old.jpg",
+        "ID42E3_cover.png",
         "ID42E3_slide_spec.jpg"
       ]
     },
@@ -7165,12 +7121,19 @@
     "ID44A4": {
       "sku": "ID44A4",
       "cover": "ID44A4_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID44A4_cover_old.webp",
+        "ID44A4_slide_spec.jpg"
+      ],
       "files": [
-        "ID44A4_cover.webp"
+        "ID44A4_cover.webp",
+        "ID44A4_cover_old.webp",
+        "ID44A4_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID44A4_cover.jpg",
+        "ID44A4_cover_old.jpg",
+        "ID44A4_cover.png",
         "ID44A4_slide_spec.jpg"
       ]
     },
@@ -7203,12 +7166,19 @@
     "ID4517": {
       "sku": "ID4517",
       "cover": "ID4517_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID4517_cover_old.webp",
+        "ID4517_slide_spec.jpg"
+      ],
       "files": [
-        "ID4517_cover.webp"
+        "ID4517_cover.webp",
+        "ID4517_cover_old.webp",
+        "ID4517_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID4517_cover.jpg",
+        "ID4517_cover_old.jpg",
+        "ID4517_cover.png",
         "ID4517_slide_spec.jpg"
       ]
     },
@@ -7238,12 +7208,18 @@
     "ID4587": {
       "sku": "ID4587",
       "cover": "ID4587_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID4587_cover_old.webp",
+        "ID4587_slide_spec.jpg"
+      ],
       "files": [
-        "ID4587_cover.webp"
+        "ID4587_cover.webp",
+        "ID4587_cover_old.webp",
+        "ID4587_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID4587_cover.jpg",
+        "ID4587_cover_old.jpg",
         "ID4587_cover.png",
         "ID4587_slide_spec.jpg"
       ]
@@ -7264,24 +7240,38 @@
     "ID45D8": {
       "sku": "ID45D8",
       "cover": "ID45D8_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID45D8_cover_old.webp",
+        "ID45D8_slide_spec.jpg"
+      ],
       "files": [
-        "ID45D8_cover.webp"
+        "ID45D8_cover.webp",
+        "ID45D8_cover_old.webp",
+        "ID45D8_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID45D8_cover.jpg",
+        "ID45D8_cover_old.jpg",
+        "ID45D8_cover.png",
         "ID45D8_slide_spec.jpg"
       ]
     },
     "ID461D": {
       "sku": "ID461D",
       "cover": "ID461D_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID461D_cover_old.webp",
+        "ID461D_slide_spec.jpg"
+      ],
       "files": [
-        "ID461D_cover.webp"
+        "ID461D_cover.webp",
+        "ID461D_cover_old.webp",
+        "ID461D_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID461D_cover.jpg",
+        "ID461D_cover_old.jpg",
+        "ID461D_cover.png",
         "ID461D_slide_spec.jpg"
       ]
     },
@@ -7523,22 +7513,17 @@
       "sku": "ID4B23",
       "cover": "ID4B23_cover.webp",
       "slides": [
-        "ID4B23_slide_01.webp",
-        "ID4B23_slide_02.webp",
-        "ID4B23_slide_03.webp",
-        "ID4B23_slide_04.webp",
-        "ID4B23_slide_05.webp"
+        "ID4B23_cover_old.webp",
+        "ID4B23_slide_spec.jpg"
       ],
       "files": [
         "ID4B23_cover.webp",
-        "ID4B23_slide_01.webp",
-        "ID4B23_slide_02.webp",
-        "ID4B23_slide_03.webp",
-        "ID4B23_slide_04.webp",
-        "ID4B23_slide_05.webp"
+        "ID4B23_cover_old.webp",
+        "ID4B23_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID4B23_cover.jpg",
+        "ID4B23_cover_old.jpg",
         "ID4B23_cover.png",
         "ID4B23_slide_spec.jpg"
       ]
@@ -7572,24 +7557,38 @@
     "ID4B85": {
       "sku": "ID4B85",
       "cover": "ID4B85_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID4B85_cover_old.webp",
+        "ID4B85_slide_spec.jpg"
+      ],
       "files": [
-        "ID4B85_cover.webp"
+        "ID4B85_cover.webp",
+        "ID4B85_cover_old.webp",
+        "ID4B85_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID4B85_cover.jpg",
+        "ID4B85_cover_old.jpg",
+        "ID4B85_cover.png",
         "ID4B85_slide_spec.jpg"
       ]
     },
     "ID4BC3": {
       "sku": "ID4BC3",
       "cover": "ID4BC3_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID4BC3_cover_old.webp",
+        "ID4BC3_slide_spec.jpg"
+      ],
       "files": [
-        "ID4BC3_cover.webp"
+        "ID4BC3_cover.webp",
+        "ID4BC3_cover_old.webp",
+        "ID4BC3_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID4BC3_cover.jpg",
+        "ID4BC3_cover_old.jpg",
+        "ID4BC3_cover.png",
         "ID4BC3_slide_spec.jpg"
       ]
     },
@@ -7629,24 +7628,38 @@
     "ID4D03": {
       "sku": "ID4D03",
       "cover": "ID4D03_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID4D03_cover_old.webp",
+        "ID4D03_slide_spec.jpg"
+      ],
       "files": [
-        "ID4D03_cover.webp"
+        "ID4D03_cover.webp",
+        "ID4D03_cover_old.webp",
+        "ID4D03_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID4D03_cover.jpg",
+        "ID4D03_cover_old.jpg",
+        "ID4D03_cover.png",
         "ID4D03_slide_spec.jpg"
       ]
     },
     "ID4D1D": {
       "sku": "ID4D1D",
       "cover": "ID4D1D_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID4D1D_cover_old.webp",
+        "ID4D1D_slide_spec.jpg"
+      ],
       "files": [
-        "ID4D1D_cover.webp"
+        "ID4D1D_cover.webp",
+        "ID4D1D_cover_old.webp",
+        "ID4D1D_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID4D1D_cover.jpg",
+        "ID4D1D_cover_old.jpg",
+        "ID4D1D_cover.png",
         "ID4D1D_slide_spec.jpg"
       ]
     },
@@ -7688,12 +7701,19 @@
     "ID4E92": {
       "sku": "ID4E92",
       "cover": "ID4E92_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID4E92_cover_old.webp",
+        "ID4E92_slide_spec.jpg"
+      ],
       "files": [
-        "ID4E92_cover.webp"
+        "ID4E92_cover.webp",
+        "ID4E92_cover_old.webp",
+        "ID4E92_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID4E92_cover.jpg",
+        "ID4E92_cover_old.jpg",
+        "ID4E92_cover.png",
         "ID4E92_slide_spec.jpg"
       ]
     },
@@ -8703,12 +8723,19 @@
     "ID5C8D": {
       "sku": "ID5C8D",
       "cover": "ID5C8D_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID5C8D_cover_old.webp",
+        "ID5C8D_slide_spec.jpg"
+      ],
       "files": [
-        "ID5C8D_cover.webp"
+        "ID5C8D_cover.webp",
+        "ID5C8D_cover_old.webp",
+        "ID5C8D_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID5C8D_cover.jpg",
+        "ID5C8D_cover_old.jpg",
+        "ID5C8D_cover.png",
         "ID5C8D_slide_spec.jpg"
       ]
     },
@@ -8769,12 +8796,19 @@
     "ID5D1D": {
       "sku": "ID5D1D",
       "cover": "ID5D1D_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID5D1D_cover_old.webp",
+        "ID5D1D_slide_spec.jpg"
+      ],
       "files": [
-        "ID5D1D_cover.webp"
+        "ID5D1D_cover.webp",
+        "ID5D1D_cover_old.webp",
+        "ID5D1D_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID5D1D_cover.jpg",
+        "ID5D1D_cover_old.jpg",
+        "ID5D1D_cover.png",
         "ID5D1D_slide_spec.jpg"
       ]
     },
@@ -8810,12 +8844,19 @@
     "ID5DB8": {
       "sku": "ID5DB8",
       "cover": "ID5DB8_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID5DB8_cover_old.webp",
+        "ID5DB8_slide_spec.jpg"
+      ],
       "files": [
-        "ID5DB8_cover.webp"
+        "ID5DB8_cover.webp",
+        "ID5DB8_cover_old.webp",
+        "ID5DB8_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID5DB8_cover.jpg",
+        "ID5DB8_cover_old.jpg",
+        "ID5DB8_cover.png",
         "ID5DB8_slide_spec.jpg"
       ]
     },
@@ -8945,12 +8986,19 @@
     "ID605E": {
       "sku": "ID605E",
       "cover": "ID605E_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID605E_cover_old.webp",
+        "ID605E_slide_spec.jpg"
+      ],
       "files": [
-        "ID605E_cover.webp"
+        "ID605E_cover.webp",
+        "ID605E_cover_old.webp",
+        "ID605E_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID605E_cover.jpg",
+        "ID605E_cover_old.jpg",
+        "ID605E_cover.png",
         "ID605E_slide_spec.jpg"
       ]
     },
@@ -8970,12 +9018,19 @@
     "ID6104": {
       "sku": "ID6104",
       "cover": "ID6104_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID6104_cover_old.webp",
+        "ID6104_slide_spec.jpg"
+      ],
       "files": [
-        "ID6104_cover.webp"
+        "ID6104_cover.webp",
+        "ID6104_cover_old.webp",
+        "ID6104_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID6104_cover.jpg",
+        "ID6104_cover_old.jpg",
+        "ID6104_cover.png",
         "ID6104_slide_spec.jpg"
       ]
     },
@@ -9101,24 +9156,38 @@
     "ID63B4": {
       "sku": "ID63B4",
       "cover": "ID63B4_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID63B4_cover_old.webp",
+        "ID63B4_slide_spec.jpg"
+      ],
       "files": [
-        "ID63B4_cover.webp"
+        "ID63B4_cover.webp",
+        "ID63B4_cover_old.webp",
+        "ID63B4_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID63B4_cover.jpg",
+        "ID63B4_cover_old.jpg",
+        "ID63B4_cover.png",
         "ID63B4_slide_spec.jpg"
       ]
     },
     "ID63DC": {
       "sku": "ID63DC",
       "cover": "ID63DC_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID63DC_cover_old.webp",
+        "ID63DC_slide_spec.jpg"
+      ],
       "files": [
-        "ID63DC_cover.webp"
+        "ID63DC_cover.webp",
+        "ID63DC_cover_old.webp",
+        "ID63DC_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID63DC_cover.jpg",
+        "ID63DC_cover_old.jpg",
+        "ID63DC_cover.png",
         "ID63DC_slide_spec.jpg"
       ]
     },
@@ -9308,24 +9377,37 @@
     "ID670A": {
       "sku": "ID670A",
       "cover": "ID670A_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID670A_cover_old.webp",
+        "ID670A_slide_spec.jpg"
+      ],
       "files": [
-        "ID670A_cover.webp"
+        "ID670A_cover.webp",
+        "ID670A_cover_old.webp",
+        "ID670A_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID670A_cover.jpg",
+        "ID670A_cover_old.jpg",
+        "ID670A_cover.png",
         "ID670A_slide_spec.jpg"
       ]
     },
     "ID6811": {
       "sku": "ID6811",
       "cover": "ID6811_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID6811_cover_old.webp",
+        "ID6811_slide_spec.jpg"
+      ],
       "files": [
-        "ID6811_cover.webp"
+        "ID6811_cover.webp",
+        "ID6811_cover_old.webp",
+        "ID6811_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID6811_cover.jpg",
+        "ID6811_cover_old.jpg",
         "ID6811_cover.png",
         "ID6811_slide_spec.jpg"
       ]
@@ -9382,12 +9464,19 @@
     "ID68A2": {
       "sku": "ID68A2",
       "cover": "ID68A2_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID68A2_cover_old.webp",
+        "ID68A2_slide_spec.jpg"
+      ],
       "files": [
-        "ID68A2_cover.webp"
+        "ID68A2_cover.webp",
+        "ID68A2_cover_old.webp",
+        "ID68A2_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID68A2_cover.jpg",
+        "ID68A2_cover_old.jpg",
+        "ID68A2_cover.png",
         "ID68A2_slide_spec.jpg"
       ]
     },
@@ -9431,24 +9520,38 @@
     "ID6A15": {
       "sku": "ID6A15",
       "cover": "ID6A15_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID6A15_cover_old.webp",
+        "ID6A15_slide_spec.jpg"
+      ],
       "files": [
-        "ID6A15_cover.webp"
+        "ID6A15_cover.webp",
+        "ID6A15_cover_old.webp",
+        "ID6A15_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID6A15_cover.jpg",
+        "ID6A15_cover_old.jpg",
+        "ID6A15_cover.png",
         "ID6A15_slide_spec.jpg"
       ]
     },
     "ID6A48": {
       "sku": "ID6A48",
       "cover": "ID6A48_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID6A48_cover_old.webp",
+        "ID6A48_slide_spec.jpg"
+      ],
       "files": [
-        "ID6A48_cover.webp"
+        "ID6A48_cover.webp",
+        "ID6A48_cover_old.webp",
+        "ID6A48_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID6A48_cover.jpg",
+        "ID6A48_cover_old.jpg",
+        "ID6A48_cover.png",
         "ID6A48_slide_spec.jpg"
       ]
     },
@@ -9548,12 +9651,18 @@
     "ID6B31": {
       "sku": "ID6B31",
       "cover": "ID6B31_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID6B31_cover_old.webp",
+        "ID6B31_slide_spec.jpg"
+      ],
       "files": [
-        "ID6B31_cover.webp"
+        "ID6B31_cover.webp",
+        "ID6B31_cover_old.webp",
+        "ID6B31_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID6B31_cover.jpg",
+        "ID6B31_cover_old.jpg",
         "ID6B31_cover.png",
         "ID6B31_slide_spec.jpg"
       ]
@@ -9717,12 +9826,19 @@
     "ID6D10": {
       "sku": "ID6D10",
       "cover": "ID6D10_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID6D10_cover_old.webp",
+        "ID6D10_slide_spec.jpg"
+      ],
       "files": [
-        "ID6D10_cover.webp"
+        "ID6D10_cover.webp",
+        "ID6D10_cover_old.webp",
+        "ID6D10_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID6D10_cover.jpg",
+        "ID6D10_cover_old.jpg",
+        "ID6D10_cover.png",
         "ID6D10_slide_spec.jpg"
       ]
     },
@@ -9803,33 +9919,18 @@
       "sku": "ID6DB1",
       "cover": "ID6DB1_cover.webp",
       "slides": [
-        "ID6DB1_slide_01.webp",
-        "ID6DB1_slide_02.webp",
-        "ID6DB1_slide_03.webp",
-        "ID6DB1_slide_04.webp",
-        "ID6DB1_slide_05.webp",
-        "ID6DB1_slide_06.webp",
-        "ID6DB1_slide_07.webp"
+        "ID6DB1_cover_old.webp",
+        "ID6DB1_slide_spec.jpg"
       ],
       "files": [
         "ID6DB1_cover.webp",
-        "ID6DB1_slide_01.webp",
-        "ID6DB1_slide_02.webp",
-        "ID6DB1_slide_03.webp",
-        "ID6DB1_slide_04.webp",
-        "ID6DB1_slide_05.webp",
-        "ID6DB1_slide_06.webp",
-        "ID6DB1_slide_07.webp"
+        "ID6DB1_cover_old.webp",
+        "ID6DB1_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID6DB1_cover.jpg",
-        "ID6DB1_slide_01.jpg",
-        "ID6DB1_slide_02.jpg",
-        "ID6DB1_slide_03.jpg",
-        "ID6DB1_slide_04.jpg",
-        "ID6DB1_slide_05.jpg",
-        "ID6DB1_slide_06.jpg",
-        "ID6DB1_slide_07.jpg",
+        "ID6DB1_cover_old.jpg",
+        "ID6DB1_cover.png",
         "ID6DB1_slide_spec.jpg"
       ]
     },
@@ -9884,12 +9985,18 @@
     "ID718E": {
       "sku": "ID718E",
       "cover": "ID718E_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID718E_cover_old.webp",
+        "ID718E_slide_spec.jpg"
+      ],
       "files": [
-        "ID718E_cover.webp"
+        "ID718E_cover.webp",
+        "ID718E_cover_old.webp",
+        "ID718E_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID718E_cover.jpg",
+        "ID718E_cover_old.jpg",
         "ID718E_cover.png",
         "ID718E_slide_spec.jpg"
       ]
@@ -9963,12 +10070,19 @@
     "ID7266": {
       "sku": "ID7266",
       "cover": "ID7266_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID7266_cover_old.webp",
+        "ID7266_slide_spec.jpg"
+      ],
       "files": [
-        "ID7266_cover.webp"
+        "ID7266_cover.webp",
+        "ID7266_cover_old.webp",
+        "ID7266_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID7266_cover.jpg",
+        "ID7266_cover_old.jpg",
+        "ID7266_cover.png",
         "ID7266_slide_spec.jpg"
       ]
     },
@@ -9999,12 +10113,18 @@
     "ID730C": {
       "sku": "ID730C",
       "cover": "ID730C_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID730C_cover_old.webp",
+        "ID730C_slide_spec.jpg"
+      ],
       "files": [
-        "ID730C_cover.webp"
+        "ID730C_cover.webp",
+        "ID730C_cover_old.webp",
+        "ID730C_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID730C_cover.jpg",
+        "ID730C_cover_old.jpg",
         "ID730C_cover.png",
         "ID730C_slide_spec.jpg"
       ]
@@ -10104,12 +10224,19 @@
     "ID757A": {
       "sku": "ID757A",
       "cover": "ID757A_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID757A_cover_old.webp",
+        "ID757A_slide_spec.jpg"
+      ],
       "files": [
-        "ID757A_cover.webp"
+        "ID757A_cover.webp",
+        "ID757A_cover_old.webp",
+        "ID757A_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID757A_cover.jpg",
+        "ID757A_cover_old.jpg",
+        "ID757A_cover.png",
         "ID757A_slide_spec.jpg"
       ]
     },
@@ -10379,12 +10506,19 @@
     "ID78A4": {
       "sku": "ID78A4",
       "cover": "ID78A4_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID78A4_cover_old.webp",
+        "ID78A4_slide_spec.jpg"
+      ],
       "files": [
-        "ID78A4_cover.webp"
+        "ID78A4_cover.webp",
+        "ID78A4_cover_old.webp",
+        "ID78A4_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID78A4_cover.jpg",
+        "ID78A4_cover_old.jpg",
+        "ID78A4_cover.png",
         "ID78A4_slide_spec.jpg"
       ]
     },
@@ -10494,12 +10628,19 @@
     "ID79C0": {
       "sku": "ID79C0",
       "cover": "ID79C0_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID79C0_cover_old.webp",
+        "ID79C0_slide_spec.jpg"
+      ],
       "files": [
-        "ID79C0_cover.webp"
+        "ID79C0_cover.webp",
+        "ID79C0_cover_old.webp",
+        "ID79C0_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID79C0_cover.jpg",
+        "ID79C0_cover_old.jpg",
+        "ID79C0_cover.png",
         "ID79C0_slide_spec.jpg"
       ]
     },
@@ -10565,12 +10706,19 @@
     "ID7B6F": {
       "sku": "ID7B6F",
       "cover": "ID7B6F_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID7B6F_cover_old.webp",
+        "ID7B6F_slide_spec.jpg"
+      ],
       "files": [
-        "ID7B6F_cover.webp"
+        "ID7B6F_cover.webp",
+        "ID7B6F_cover_old.webp",
+        "ID7B6F_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID7B6F_cover.jpg",
+        "ID7B6F_cover_old.jpg",
+        "ID7B6F_cover.png",
         "ID7B6F_slide_spec.jpg"
       ]
     },
@@ -10733,12 +10881,19 @@
     "ID7C75": {
       "sku": "ID7C75",
       "cover": "ID7C75_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID7C75_cover_old.webp",
+        "ID7C75_slide_spec.jpg"
+      ],
       "files": [
-        "ID7C75_cover.webp"
+        "ID7C75_cover.webp",
+        "ID7C75_cover_old.webp",
+        "ID7C75_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID7C75_cover.jpg",
+        "ID7C75_cover_old.jpg",
+        "ID7C75_cover.png",
         "ID7C75_slide_spec.jpg"
       ]
     },
@@ -11082,24 +11237,38 @@
     "ID823B": {
       "sku": "ID823B",
       "cover": "ID823B_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID823B_cover_old.webp",
+        "ID823B_slide_spec.jpg"
+      ],
       "files": [
-        "ID823B_cover.webp"
+        "ID823B_cover.webp",
+        "ID823B_cover_old.webp",
+        "ID823B_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID823B_cover.jpg",
+        "ID823B_cover_old.jpg",
+        "ID823B_cover.png",
         "ID823B_slide_spec.jpg"
       ]
     },
     "ID82BF": {
       "sku": "ID82BF",
       "cover": "ID82BF_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID82BF_cover_old.webp",
+        "ID82BF_slide_spec.jpg"
+      ],
       "files": [
-        "ID82BF_cover.webp"
+        "ID82BF_cover.webp",
+        "ID82BF_cover_old.webp",
+        "ID82BF_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID82BF_cover.jpg",
+        "ID82BF_cover_old.jpg",
+        "ID82BF_cover.png",
         "ID82BF_slide_spec.jpg"
       ]
     },
@@ -11163,12 +11332,19 @@
     "ID835D": {
       "sku": "ID835D",
       "cover": "ID835D_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID835D_cover_old.webp",
+        "ID835D_slide_spec.jpg"
+      ],
       "files": [
-        "ID835D_cover.webp"
+        "ID835D_cover.webp",
+        "ID835D_cover_old.webp",
+        "ID835D_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID835D_cover.jpg",
+        "ID835D_cover_old.jpg",
+        "ID835D_cover.png",
         "ID835D_slide_spec.jpg"
       ]
     },
@@ -11204,12 +11380,19 @@
     "ID8397": {
       "sku": "ID8397",
       "cover": "ID8397_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID8397_cover_old.webp",
+        "ID8397_slide_spec.jpg"
+      ],
       "files": [
-        "ID8397_cover.webp"
+        "ID8397_cover.webp",
+        "ID8397_cover_old.webp",
+        "ID8397_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID8397_cover.jpg",
+        "ID8397_cover_old.jpg",
+        "ID8397_cover.png",
         "ID8397_slide_spec.jpg"
       ]
     },
@@ -11450,12 +11633,19 @@
     "ID85AC": {
       "sku": "ID85AC",
       "cover": "ID85AC_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID85AC_cover_old.webp",
+        "ID85AC_slide_spec.jpg"
+      ],
       "files": [
-        "ID85AC_cover.webp"
+        "ID85AC_cover.webp",
+        "ID85AC_cover_old.webp",
+        "ID85AC_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID85AC_cover.jpg",
+        "ID85AC_cover_old.jpg",
+        "ID85AC_cover.png",
         "ID85AC_slide_spec.jpg"
       ]
     },
@@ -11474,12 +11664,18 @@
     "ID8688": {
       "sku": "ID8688",
       "cover": "ID8688_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID8688_cover_old.webp",
+        "ID8688_slide_spec.jpg"
+      ],
       "files": [
-        "ID8688_cover.webp"
+        "ID8688_cover.webp",
+        "ID8688_cover_old.webp",
+        "ID8688_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID8688_cover.jpg",
+        "ID8688_cover_old.jpg",
         "ID8688_cover.png",
         "ID8688_slide_spec.jpg"
       ]
@@ -11525,12 +11721,19 @@
     "ID8724": {
       "sku": "ID8724",
       "cover": "ID8724_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID8724_cover_old.webp",
+        "ID8724_slide_spec.jpg"
+      ],
       "files": [
-        "ID8724_cover.webp"
+        "ID8724_cover.webp",
+        "ID8724_cover_old.webp",
+        "ID8724_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID8724_cover.jpg",
+        "ID8724_cover_old.jpg",
+        "ID8724_cover.png",
         "ID8724_slide_spec.jpg"
       ]
     },
@@ -11736,12 +11939,18 @@
     "ID895E": {
       "sku": "ID895E",
       "cover": "ID895E_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID895E_cover_old.webp",
+        "ID895E_slide_spec.jpg"
+      ],
       "files": [
-        "ID895E_cover.webp"
+        "ID895E_cover.webp",
+        "ID895E_cover_old.webp",
+        "ID895E_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID895E_cover.jpg",
+        "ID895E_cover_old.jpg",
         "ID895E_cover.png",
         "ID895E_slide_spec.jpg"
       ]
@@ -11899,138 +12108,55 @@
       "sku": "ID8B25",
       "cover": "ID8B25_cover.webp",
       "slides": [
-        "ID8B25_slide_01.webp",
-        "ID8B25_slide_02.webp",
-        "ID8B25_slide_03.webp",
-        "ID8B25_slide_04.webp",
-        "ID8B25_slide_05.webp",
-        "ID8B25_slide_06.webp",
-        "ID8B25_slide_07.webp",
-        "ID8B25_slide_08.webp",
-        "ID8B25_slide_09.webp",
-        "ID8B25_slide_10.webp",
-        "ID8B25_slide_11.webp",
-        "ID8B25_slide_12.webp",
-        "ID8B25_slide_13.webp",
-        "ID8B25_slide_14.webp",
-        "ID8B25_slide_15.webp",
-        "ID8B25_slide_16.webp",
-        "ID8B25_slide_17.webp",
-        "ID8B25_slide_18.webp",
-        "ID8B25_slide_19.webp",
-        "ID8B25_slide_20.webp",
-        "ID8B25_slide_21.webp",
-        "ID8B25_slide_22.webp",
-        "ID8B25_slide_23.webp",
-        "ID8B25_slide_24.webp",
-        "ID8B25_slide_25.webp",
-        "ID8B25_slide_26.webp",
-        "ID8B25_slide_27.webp",
-        "ID8B25_slide_28.webp",
-        "ID8B25_slide_29.webp",
-        "ID8B25_slide_30.webp",
-        "ID8B25_slide_31.webp",
-        "ID8B25_slide_32.webp",
-        "ID8B25_slide_33.webp",
-        "ID8B25_slide_34.webp"
+        "ID8B25_cover_old.webp",
+        "ID8B25_slide_spec.jpg"
       ],
       "files": [
         "ID8B25_cover.webp",
-        "ID8B25_slide_01.webp",
-        "ID8B25_slide_02.webp",
-        "ID8B25_slide_03.webp",
-        "ID8B25_slide_04.webp",
-        "ID8B25_slide_05.webp",
-        "ID8B25_slide_06.webp",
-        "ID8B25_slide_07.webp",
-        "ID8B25_slide_08.webp",
-        "ID8B25_slide_09.webp",
-        "ID8B25_slide_10.webp",
-        "ID8B25_slide_11.webp",
-        "ID8B25_slide_12.webp",
-        "ID8B25_slide_13.webp",
-        "ID8B25_slide_14.webp",
-        "ID8B25_slide_15.webp",
-        "ID8B25_slide_16.webp",
-        "ID8B25_slide_17.webp",
-        "ID8B25_slide_18.webp",
-        "ID8B25_slide_19.webp",
-        "ID8B25_slide_20.webp",
-        "ID8B25_slide_21.webp",
-        "ID8B25_slide_22.webp",
-        "ID8B25_slide_23.webp",
-        "ID8B25_slide_24.webp",
-        "ID8B25_slide_25.webp",
-        "ID8B25_slide_26.webp",
-        "ID8B25_slide_27.webp",
-        "ID8B25_slide_28.webp",
-        "ID8B25_slide_29.webp",
-        "ID8B25_slide_30.webp",
-        "ID8B25_slide_31.webp",
-        "ID8B25_slide_32.webp",
-        "ID8B25_slide_33.webp",
-        "ID8B25_slide_34.webp"
+        "ID8B25_cover_old.webp",
+        "ID8B25_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID8B25_cover.jpg",
-        "ID8B25_slide_01.jpg",
-        "ID8B25_slide_02.jpg",
-        "ID8B25_slide_03.jpg",
-        "ID8B25_slide_04.jpg",
-        "ID8B25_slide_05.jpg",
-        "ID8B25_slide_06.jpg",
-        "ID8B25_slide_07.jpg",
-        "ID8B25_slide_08.jpg",
-        "ID8B25_slide_09.jpg",
-        "ID8B25_slide_10.jpg",
-        "ID8B25_slide_11.jpg",
-        "ID8B25_slide_12.jpg",
-        "ID8B25_slide_13.jpg",
-        "ID8B25_slide_14.jpg",
-        "ID8B25_slide_15.jpg",
-        "ID8B25_slide_16.jpg",
-        "ID8B25_slide_17.jpg",
-        "ID8B25_slide_18.jpg",
-        "ID8B25_slide_19.jpg",
-        "ID8B25_slide_20.jpg",
-        "ID8B25_slide_21.jpg",
-        "ID8B25_slide_22.jpg",
-        "ID8B25_slide_23.jpg",
-        "ID8B25_slide_24.jpg",
-        "ID8B25_slide_25.jpg",
-        "ID8B25_slide_26.jpg",
-        "ID8B25_slide_27.jpg",
-        "ID8B25_slide_28.jpg",
-        "ID8B25_slide_29.jpg",
-        "ID8B25_slide_30.jpg",
-        "ID8B25_slide_31.jpg",
-        "ID8B25_slide_32.jpg",
-        "ID8B25_slide_33.jpg",
-        "ID8B25_slide_34.jpg",
+        "ID8B25_cover_old.jpg",
+        "ID8B25_cover.png",
         "ID8B25_slide_spec.jpg"
       ]
     },
     "ID8BD7": {
       "sku": "ID8BD7",
       "cover": "ID8BD7_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID8BD7_cover_old.webp",
+        "ID8BD7_slide_spec.jpg"
+      ],
       "files": [
-        "ID8BD7_cover.webp"
+        "ID8BD7_cover.webp",
+        "ID8BD7_cover_old.webp",
+        "ID8BD7_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID8BD7_cover.jpg",
+        "ID8BD7_cover_old.jpg",
+        "ID8BD7_cover.png",
         "ID8BD7_slide_spec.jpg"
       ]
     },
     "ID8D8A": {
       "sku": "ID8D8A",
       "cover": "ID8D8A_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID8D8A_cover_old.webp",
+        "ID8D8A_slide_spec.jpg"
+      ],
       "files": [
-        "ID8D8A_cover.webp"
+        "ID8D8A_cover.webp",
+        "ID8D8A_cover_old.webp",
+        "ID8D8A_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID8D8A_cover.jpg",
+        "ID8D8A_cover_old.jpg",
         "ID8D8A_cover.png",
         "ID8D8A_slide_spec.jpg"
       ]
@@ -12132,33 +12258,18 @@
       "sku": "ID8E26",
       "cover": "ID8E26_cover.webp",
       "slides": [
-        "ID8E26_slide_01.webp",
-        "ID8E26_slide_02.webp",
-        "ID8E26_slide_03.webp",
-        "ID8E26_slide_04.webp",
-        "ID8E26_slide_05.webp",
-        "ID8E26_slide_06.webp",
-        "ID8E26_slide_07.webp"
+        "ID8E26_cover_old.webp",
+        "ID8E26_slide_spec.jpg"
       ],
       "files": [
         "ID8E26_cover.webp",
-        "ID8E26_slide_01.webp",
-        "ID8E26_slide_02.webp",
-        "ID8E26_slide_03.webp",
-        "ID8E26_slide_04.webp",
-        "ID8E26_slide_05.webp",
-        "ID8E26_slide_06.webp",
-        "ID8E26_slide_07.webp"
+        "ID8E26_cover_old.webp",
+        "ID8E26_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID8E26_cover.jpg",
-        "ID8E26_slide_01.jpg",
-        "ID8E26_slide_02.jpg",
-        "ID8E26_slide_03.jpg",
-        "ID8E26_slide_04.jpg",
-        "ID8E26_slide_05.jpg",
-        "ID8E26_slide_06.jpg",
-        "ID8E26_slide_07.jpg",
+        "ID8E26_cover_old.jpg",
+        "ID8E26_cover.png",
         "ID8E26_slide_spec.jpg"
       ]
     },
@@ -12577,12 +12688,19 @@
     "ID93BE": {
       "sku": "ID93BE",
       "cover": "ID93BE_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID93BE_cover_old.webp",
+        "ID93BE_slide_spec.jpg"
+      ],
       "files": [
-        "ID93BE_cover.webp"
+        "ID93BE_cover.webp",
+        "ID93BE_cover_old.webp",
+        "ID93BE_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID93BE_cover.jpg",
+        "ID93BE_cover_old.jpg",
+        "ID93BE_cover.png",
         "ID93BE_slide_spec.jpg"
       ]
     },
@@ -12693,12 +12811,18 @@
     "ID9557": {
       "sku": "ID9557",
       "cover": "ID9557_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID9557_cover_old.webp",
+        "ID9557_slide_spec.jpg"
+      ],
       "files": [
-        "ID9557_cover.webp"
+        "ID9557_cover.webp",
+        "ID9557_cover_old.webp",
+        "ID9557_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID9557_cover.jpg",
+        "ID9557_cover_old.jpg",
         "ID9557_cover.png",
         "ID9557_slide_spec.jpg"
       ]
@@ -12718,12 +12842,19 @@
     "ID95A6": {
       "sku": "ID95A6",
       "cover": "ID95A6_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID95A6_cover_old.webp",
+        "ID95A6_slide_spec.jpg"
+      ],
       "files": [
-        "ID95A6_cover.webp"
+        "ID95A6_cover.webp",
+        "ID95A6_cover_old.webp",
+        "ID95A6_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID95A6_cover.jpg",
+        "ID95A6_cover_old.jpg",
+        "ID95A6_cover.png",
         "ID95A6_slide_spec.jpg"
       ]
     },
@@ -12768,12 +12899,18 @@
     "ID963A": {
       "sku": "ID963A",
       "cover": "ID963A_cover.webp",
-      "slides": [],
+      "slides": [
+        "ID963A_cover_old.webp",
+        "ID963A_slide_spec.jpg"
+      ],
       "files": [
-        "ID963A_cover.webp"
+        "ID963A_cover.webp",
+        "ID963A_cover_old.webp",
+        "ID963A_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "ID963A_cover.jpg",
+        "ID963A_cover_old.jpg",
         "ID963A_cover.png",
         "ID963A_slide_spec.jpg"
       ]
@@ -13472,12 +13609,19 @@
     "IDA002": {
       "sku": "IDA002",
       "cover": "IDA002_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDA002_cover_old.webp",
+        "IDA002_slide_spec.jpg"
+      ],
       "files": [
-        "IDA002_cover.webp"
+        "IDA002_cover.webp",
+        "IDA002_cover_old.webp",
+        "IDA002_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDA002_cover.jpg",
+        "IDA002_cover_old.jpg",
+        "IDA002_cover.png",
         "IDA002_slide_spec.jpg"
       ]
     },
@@ -13508,12 +13652,19 @@
     "IDA182": {
       "sku": "IDA182",
       "cover": "IDA182_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDA182_cover_old.webp",
+        "IDA182_slide_spec.jpg"
+      ],
       "files": [
-        "IDA182_cover.webp"
+        "IDA182_cover.webp",
+        "IDA182_cover_old.webp",
+        "IDA182_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDA182_cover.jpg",
+        "IDA182_cover_old.jpg",
+        "IDA182_cover.png",
         "IDA182_slide_spec.jpg"
       ]
     },
@@ -13575,12 +13726,19 @@
     "IDA307": {
       "sku": "IDA307",
       "cover": "IDA307_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDA307_cover_old.webp",
+        "IDA307_slide_spec.jpg"
+      ],
       "files": [
-        "IDA307_cover.webp"
+        "IDA307_cover.webp",
+        "IDA307_cover_old.webp",
+        "IDA307_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDA307_cover.jpg",
+        "IDA307_cover_old.jpg",
+        "IDA307_cover.png",
         "IDA307_slide_spec.jpg"
       ]
     },
@@ -13600,12 +13758,19 @@
     "IDA330": {
       "sku": "IDA330",
       "cover": "IDA330_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDA330_cover_old.webp",
+        "IDA330_slide_spec.jpg"
+      ],
       "files": [
-        "IDA330_cover.webp"
+        "IDA330_cover.webp",
+        "IDA330_cover_old.webp",
+        "IDA330_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDA330_cover.jpg",
+        "IDA330_cover_old.jpg",
+        "IDA330_cover.png",
         "IDA330_slide_spec.jpg"
       ]
     },
@@ -13729,12 +13894,19 @@
     "IDA4FF": {
       "sku": "IDA4FF",
       "cover": "IDA4FF_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDA4FF_cover_old.webp",
+        "IDA4FF_slide_spec.jpg"
+      ],
       "files": [
-        "IDA4FF_cover.webp"
+        "IDA4FF_cover.webp",
+        "IDA4FF_cover_old.webp",
+        "IDA4FF_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDA4FF_cover.jpg",
+        "IDA4FF_cover_old.jpg",
+        "IDA4FF_cover.png",
         "IDA4FF_slide_spec.jpg"
       ]
     },
@@ -13773,12 +13945,19 @@
     "IDA664": {
       "sku": "IDA664",
       "cover": "IDA664_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDA664_cover_old.webp",
+        "IDA664_slide_spec.jpg"
+      ],
       "files": [
-        "IDA664_cover.webp"
+        "IDA664_cover.webp",
+        "IDA664_cover_old.webp",
+        "IDA664_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDA664_cover.jpg",
+        "IDA664_cover_old.jpg",
+        "IDA664_cover.png",
         "IDA664_slide_spec.jpg"
       ]
     },
@@ -13929,12 +14108,18 @@
     "IDA816": {
       "sku": "IDA816",
       "cover": "IDA816_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDA816_cover_old.webp",
+        "IDA816_slide_spec.jpg"
+      ],
       "files": [
-        "IDA816_cover.webp"
+        "IDA816_cover.webp",
+        "IDA816_cover_old.webp",
+        "IDA816_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDA816_cover.jpg",
+        "IDA816_cover_old.jpg",
         "IDA816_cover.png",
         "IDA816_slide_spec.jpg"
       ]
@@ -13971,24 +14156,38 @@
     "IDA910": {
       "sku": "IDA910",
       "cover": "IDA910_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDA910_cover_old.webp",
+        "IDA910_slide_spec.jpg"
+      ],
       "files": [
-        "IDA910_cover.webp"
+        "IDA910_cover.webp",
+        "IDA910_cover_old.webp",
+        "IDA910_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDA910_cover.jpg",
+        "IDA910_cover_old.jpg",
+        "IDA910_cover.png",
         "IDA910_slide_spec.jpg"
       ]
     },
     "IDA938": {
       "sku": "IDA938",
       "cover": "IDA938_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDA938_cover_old.webp",
+        "IDA938_slide_spec.jpg"
+      ],
       "files": [
-        "IDA938_cover.webp"
+        "IDA938_cover.webp",
+        "IDA938_cover_old.webp",
+        "IDA938_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDA938_cover.jpg",
+        "IDA938_cover_old.jpg",
+        "IDA938_cover.png",
         "IDA938_slide_spec.jpg"
       ]
     },
@@ -14043,12 +14242,19 @@
     "IDAA25": {
       "sku": "IDAA25",
       "cover": "IDAA25_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDAA25_cover_old.webp",
+        "IDAA25_slide_spec.jpg"
+      ],
       "files": [
-        "IDAA25_cover.webp"
+        "IDAA25_cover.webp",
+        "IDAA25_cover_old.webp",
+        "IDAA25_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDAA25_cover.jpg",
+        "IDAA25_cover_old.jpg",
+        "IDAA25_cover.png",
         "IDAA25_slide_spec.jpg"
       ]
     },
@@ -14304,12 +14510,19 @@
     "IDAE7D": {
       "sku": "IDAE7D",
       "cover": "IDAE7D_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDAE7D_cover_old.webp",
+        "IDAE7D_slide_spec.jpg"
+      ],
       "files": [
-        "IDAE7D_cover.webp"
+        "IDAE7D_cover.webp",
+        "IDAE7D_cover_old.webp",
+        "IDAE7D_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDAE7D_cover.jpg",
+        "IDAE7D_cover_old.jpg",
+        "IDAE7D_cover.png",
         "IDAE7D_slide_spec.jpg"
       ]
     },
@@ -14400,12 +14613,19 @@
     "IDB045": {
       "sku": "IDB045",
       "cover": "IDB045_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDB045_cover_old.webp",
+        "IDB045_slide_spec.jpg"
+      ],
       "files": [
-        "IDB045_cover.webp"
+        "IDB045_cover.webp",
+        "IDB045_cover_old.webp",
+        "IDB045_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDB045_cover.jpg",
+        "IDB045_cover_old.jpg",
+        "IDB045_cover.png",
         "IDB045_slide_spec.jpg"
       ]
     },
@@ -14413,45 +14633,18 @@
       "sku": "IDB061",
       "cover": "IDB061_cover.webp",
       "slides": [
-        "IDB061_slide_01.webp",
-        "IDB061_slide_02.webp",
-        "IDB061_slide_03.webp",
-        "IDB061_slide_04.webp",
-        "IDB061_slide_05.webp",
-        "IDB061_slide_06.webp",
-        "IDB061_slide_07.webp",
-        "IDB061_slide_08.webp",
-        "IDB061_slide_09.webp",
-        "IDB061_slide_10.webp",
-        "IDB061_slide_11.webp"
+        "IDB061_cover_old.webp",
+        "IDB061_slide_spec.jpg"
       ],
       "files": [
         "IDB061_cover.webp",
-        "IDB061_slide_01.webp",
-        "IDB061_slide_02.webp",
-        "IDB061_slide_03.webp",
-        "IDB061_slide_04.webp",
-        "IDB061_slide_05.webp",
-        "IDB061_slide_06.webp",
-        "IDB061_slide_07.webp",
-        "IDB061_slide_08.webp",
-        "IDB061_slide_09.webp",
-        "IDB061_slide_10.webp",
-        "IDB061_slide_11.webp"
+        "IDB061_cover_old.webp",
+        "IDB061_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDB061_cover.jpg",
-        "IDB061_slide_01.jpg",
-        "IDB061_slide_02.jpg",
-        "IDB061_slide_03.jpg",
-        "IDB061_slide_04.jpg",
-        "IDB061_slide_05.jpg",
-        "IDB061_slide_06.jpg",
-        "IDB061_slide_07.jpg",
-        "IDB061_slide_08.jpg",
-        "IDB061_slide_09.jpg",
-        "IDB061_slide_10.jpg",
-        "IDB061_slide_11.jpg",
+        "IDB061_cover_old.jpg",
+        "IDB061_cover.png",
         "IDB061_slide_spec.jpg"
       ]
     },
@@ -14643,12 +14836,19 @@
     "IDB393": {
       "sku": "IDB393",
       "cover": "IDB393_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDB393_cover_old.webp",
+        "IDB393_slide_spec.jpg"
+      ],
       "files": [
-        "IDB393_cover.webp"
+        "IDB393_cover.webp",
+        "IDB393_cover_old.webp",
+        "IDB393_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDB393_cover.jpg",
+        "IDB393_cover_old.jpg",
+        "IDB393_cover.png",
         "IDB393_slide_spec.jpg"
       ]
     },
@@ -14706,12 +14906,18 @@
     "IDB3F0": {
       "sku": "IDB3F0",
       "cover": "IDB3F0_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDB3F0_cover_old.webp",
+        "IDB3F0_slide_spec.jpg"
+      ],
       "files": [
-        "IDB3F0_cover.webp"
+        "IDB3F0_cover.webp",
+        "IDB3F0_cover_old.webp",
+        "IDB3F0_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDB3F0_cover.jpg",
+        "IDB3F0_cover_old.jpg",
         "IDB3F0_cover.png",
         "IDB3F0_slide_spec.jpg"
       ]
@@ -14853,12 +15059,18 @@
     "IDB7AD": {
       "sku": "IDB7AD",
       "cover": "IDB7AD_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDB7AD_cover_old.webp",
+        "IDB7AD_slide_spec.jpg"
+      ],
       "files": [
-        "IDB7AD_cover.webp"
+        "IDB7AD_cover.webp",
+        "IDB7AD_cover_old.webp",
+        "IDB7AD_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDB7AD_cover.jpg",
+        "IDB7AD_cover_old.jpg",
         "IDB7AD_cover.png",
         "IDB7AD_slide_spec.jpg"
       ]
@@ -14931,12 +15143,19 @@
     "IDB935": {
       "sku": "IDB935",
       "cover": "IDB935_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDB935_cover_old.webp",
+        "IDB935_slide_spec.jpg"
+      ],
       "files": [
-        "IDB935_cover.webp"
+        "IDB935_cover.webp",
+        "IDB935_cover_old.webp",
+        "IDB935_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDB935_cover.jpg",
+        "IDB935_cover_old.jpg",
+        "IDB935_cover.png",
         "IDB935_slide_spec.jpg"
       ]
     },
@@ -15196,24 +15415,38 @@
     "IDBC16": {
       "sku": "IDBC16",
       "cover": "IDBC16_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDBC16_cover_old.webp",
+        "IDBC16_slide_spec.jpg"
+      ],
       "files": [
-        "IDBC16_cover.webp"
+        "IDBC16_cover.webp",
+        "IDBC16_cover_old.webp",
+        "IDBC16_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDBC16_cover.jpg",
+        "IDBC16_cover_old.jpg",
+        "IDBC16_cover.png",
         "IDBC16_slide_spec.jpg"
       ]
     },
     "IDBC18": {
       "sku": "IDBC18",
       "cover": "IDBC18_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDBC18_cover_old.webp",
+        "IDBC18_slide_spec.jpg"
+      ],
       "files": [
-        "IDBC18_cover.webp"
+        "IDBC18_cover.webp",
+        "IDBC18_cover_old.webp",
+        "IDBC18_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDBC18_cover.jpg",
+        "IDBC18_cover_old.jpg",
+        "IDBC18_cover.png",
         "IDBC18_slide_spec.jpg"
       ]
     },
@@ -15317,24 +15550,38 @@
     "IDBCE6": {
       "sku": "IDBCE6",
       "cover": "IDBCE6_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDBCE6_cover_old.webp",
+        "IDBCE6_slide_spec.jpg"
+      ],
       "files": [
-        "IDBCE6_cover.webp"
+        "IDBCE6_cover.webp",
+        "IDBCE6_cover_old.webp",
+        "IDBCE6_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDBCE6_cover.jpg",
+        "IDBCE6_cover_old.jpg",
+        "IDBCE6_cover.png",
         "IDBCE6_slide_spec.jpg"
       ]
     },
     "IDBD03": {
       "sku": "IDBD03",
       "cover": "IDBD03_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDBD03_cover_old.webp",
+        "IDBD03_slide_spec.jpg"
+      ],
       "files": [
-        "IDBD03_cover.webp"
+        "IDBD03_cover.webp",
+        "IDBD03_cover_old.webp",
+        "IDBD03_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDBD03_cover.jpg",
+        "IDBD03_cover_old.jpg",
+        "IDBD03_cover.png",
         "IDBD03_slide_spec.jpg"
       ]
     },
@@ -15530,12 +15777,19 @@
     "IDBE13": {
       "sku": "IDBE13",
       "cover": "IDBE13_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDBE13_cover_old.webp",
+        "IDBE13_slide_spec.jpg"
+      ],
       "files": [
-        "IDBE13_cover.webp"
+        "IDBE13_cover.webp",
+        "IDBE13_cover_old.webp",
+        "IDBE13_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDBE13_cover.jpg",
+        "IDBE13_cover_old.jpg",
+        "IDBE13_cover.png",
         "IDBE13_slide_spec.jpg"
       ]
     },
@@ -15797,12 +16051,19 @@
     "IDC0E6": {
       "sku": "IDC0E6",
       "cover": "IDC0E6_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDC0E6_cover_old.webp",
+        "IDC0E6_slide_spec.jpg"
+      ],
       "files": [
-        "IDC0E6_cover.webp"
+        "IDC0E6_cover.webp",
+        "IDC0E6_cover_old.webp",
+        "IDC0E6_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDC0E6_cover.jpg",
+        "IDC0E6_cover_old.jpg",
+        "IDC0E6_cover.png",
         "IDC0E6_slide_spec.jpg"
       ]
     },
@@ -15883,12 +16144,19 @@
     "IDC267": {
       "sku": "IDC267",
       "cover": "IDC267_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDC267_cover_old.webp",
+        "IDC267_slide_spec.jpg"
+      ],
       "files": [
-        "IDC267_cover.webp"
+        "IDC267_cover.webp",
+        "IDC267_cover_old.webp",
+        "IDC267_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDC267_cover.jpg",
+        "IDC267_cover_old.jpg",
+        "IDC267_cover.png",
         "IDC267_slide_spec.jpg"
       ]
     },
@@ -16249,24 +16517,38 @@
     "IDC838": {
       "sku": "IDC838",
       "cover": "IDC838_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDC838_cover_old.webp",
+        "IDC838_slide_spec.jpg"
+      ],
       "files": [
-        "IDC838_cover.webp"
+        "IDC838_cover.webp",
+        "IDC838_cover_old.webp",
+        "IDC838_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDC838_cover.jpg",
+        "IDC838_cover_old.jpg",
+        "IDC838_cover.png",
         "IDC838_slide_spec.jpg"
       ]
     },
     "IDC877": {
       "sku": "IDC877",
       "cover": "IDC877_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDC877_cover_old.webp",
+        "IDC877_slide_spec.jpg"
+      ],
       "files": [
-        "IDC877_cover.webp"
+        "IDC877_cover.webp",
+        "IDC877_cover_old.webp",
+        "IDC877_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDC877_cover.jpg",
+        "IDC877_cover_old.jpg",
+        "IDC877_cover.png",
         "IDC877_slide_spec.jpg"
       ]
     },
@@ -16418,12 +16700,19 @@
     "IDCA6E": {
       "sku": "IDCA6E",
       "cover": "IDCA6E_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDCA6E_cover_old.webp",
+        "IDCA6E_slide_spec.jpg"
+      ],
       "files": [
-        "IDCA6E_cover.webp"
+        "IDCA6E_cover.webp",
+        "IDCA6E_cover_old.webp",
+        "IDCA6E_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDCA6E_cover.jpg",
+        "IDCA6E_cover_old.jpg",
+        "IDCA6E_cover.png",
         "IDCA6E_slide_spec.jpg"
       ]
     },
@@ -16468,12 +16757,19 @@
     "IDCAC8": {
       "sku": "IDCAC8",
       "cover": "IDCAC8_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDCAC8_cover_old.webp",
+        "IDCAC8_slide_spec.jpg"
+      ],
       "files": [
-        "IDCAC8_cover.webp"
+        "IDCAC8_cover.webp",
+        "IDCAC8_cover_old.webp",
+        "IDCAC8_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDCAC8_cover.jpg",
+        "IDCAC8_cover_old.jpg",
+        "IDCAC8_cover.png",
         "IDCAC8_slide_spec.jpg"
       ]
     },
@@ -16557,26 +16853,17 @@
       "sku": "IDCBEA",
       "cover": "IDCBEA_cover.webp",
       "slides": [
-        "IDCBEA_slide_01.webp",
-        "IDCBEA_slide_02.webp",
-        "IDCBEA_slide_03.webp",
-        "IDCBEA_slide_04.webp",
-        "IDCBEA_slide_05.webp",
-        "IDCBEA_slide_06.webp",
-        "IDCBEA_slide_07.webp"
+        "IDCBEA_cover_old.webp",
+        "IDCBEA_slide_spec.jpg"
       ],
       "files": [
         "IDCBEA_cover.webp",
-        "IDCBEA_slide_01.webp",
-        "IDCBEA_slide_02.webp",
-        "IDCBEA_slide_03.webp",
-        "IDCBEA_slide_04.webp",
-        "IDCBEA_slide_05.webp",
-        "IDCBEA_slide_06.webp",
-        "IDCBEA_slide_07.webp"
+        "IDCBEA_cover_old.webp",
+        "IDCBEA_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDCBEA_cover.jpg",
+        "IDCBEA_cover_old.jpg",
         "IDCBEA_cover.png",
         "IDCBEA_slide_spec.jpg"
       ]
@@ -16625,12 +16912,18 @@
     "IDCCD5": {
       "sku": "IDCCD5",
       "cover": "IDCCD5_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDCCD5_cover_old.webp",
+        "IDCCD5_slide_spec.jpg"
+      ],
       "files": [
-        "IDCCD5_cover.webp"
+        "IDCCD5_cover.webp",
+        "IDCCD5_cover_old.webp",
+        "IDCCD5_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDCCD5_cover.jpg",
+        "IDCCD5_cover_old.jpg",
         "IDCCD5_cover.png",
         "IDCCD5_slide_spec.jpg"
       ]
@@ -17014,12 +17307,18 @@
     "IDD31C": {
       "sku": "IDD31C",
       "cover": "IDD31C_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDD31C_cover_old.webp",
+        "IDD31C_slide_spec.jpg"
+      ],
       "files": [
-        "IDD31C_cover.webp"
+        "IDD31C_cover.webp",
+        "IDD31C_cover_old.webp",
+        "IDD31C_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDD31C_cover.jpg",
+        "IDD31C_cover_old.jpg",
         "IDD31C_cover.png",
         "IDD31C_slide_spec.jpg"
       ]
@@ -17160,12 +17459,19 @@
     "IDD648": {
       "sku": "IDD648",
       "cover": "IDD648_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDD648_cover_old.webp",
+        "IDD648_slide_spec.jpg"
+      ],
       "files": [
-        "IDD648_cover.webp"
+        "IDD648_cover.webp",
+        "IDD648_cover_old.webp",
+        "IDD648_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDD648_cover.jpg",
+        "IDD648_cover_old.jpg",
+        "IDD648_cover.png",
         "IDD648_slide_spec.jpg"
       ]
     },
@@ -17328,33 +17634,18 @@
       "sku": "IDD858",
       "cover": "IDD858_cover.webp",
       "slides": [
-        "IDD858_slide_01.webp",
-        "IDD858_slide_02.webp",
-        "IDD858_slide_03.webp",
-        "IDD858_slide_04.webp",
-        "IDD858_slide_05.webp",
-        "IDD858_slide_06.webp",
-        "IDD858_slide_07.webp"
+        "IDD858_cover_old.webp",
+        "IDD858_slide_spec.jpg"
       ],
       "files": [
         "IDD858_cover.webp",
-        "IDD858_slide_01.webp",
-        "IDD858_slide_02.webp",
-        "IDD858_slide_03.webp",
-        "IDD858_slide_04.webp",
-        "IDD858_slide_05.webp",
-        "IDD858_slide_06.webp",
-        "IDD858_slide_07.webp"
+        "IDD858_cover_old.webp",
+        "IDD858_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDD858_cover.jpg",
-        "IDD858_slide_01.jpg",
-        "IDD858_slide_02.jpg",
-        "IDD858_slide_03.jpg",
-        "IDD858_slide_04.jpg",
-        "IDD858_slide_05.jpg",
-        "IDD858_slide_06.jpg",
-        "IDD858_slide_07.jpg",
+        "IDD858_cover_old.jpg",
+        "IDD858_cover.png",
         "IDD858_slide_spec.jpg"
       ]
     },
@@ -17406,12 +17697,19 @@
     "IDD8D5": {
       "sku": "IDD8D5",
       "cover": "IDD8D5_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDD8D5_cover_old.webp",
+        "IDD8D5_slide_spec.jpg"
+      ],
       "files": [
-        "IDD8D5_cover.webp"
+        "IDD8D5_cover.webp",
+        "IDD8D5_cover_old.webp",
+        "IDD8D5_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDD8D5_cover.jpg",
+        "IDD8D5_cover_old.jpg",
+        "IDD8D5_cover.png",
         "IDD8D5_slide_spec.jpg"
       ]
     },
@@ -17481,12 +17779,18 @@
     "IDD991": {
       "sku": "IDD991",
       "cover": "IDD991_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDD991_cover_old.webp",
+        "IDD991_slide_spec.jpg"
+      ],
       "files": [
-        "IDD991_cover.webp"
+        "IDD991_cover.webp",
+        "IDD991_cover_old.webp",
+        "IDD991_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDD991_cover.jpg",
+        "IDD991_cover_old.jpg",
         "IDD991_cover.png",
         "IDD991_slide_spec.jpg"
       ]
@@ -17589,12 +17893,18 @@
     "IDDB04": {
       "sku": "IDDB04",
       "cover": "IDDB04_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDDB04_cover_old.webp",
+        "IDDB04_slide_spec.jpg"
+      ],
       "files": [
-        "IDDB04_cover.webp"
+        "IDDB04_cover.webp",
+        "IDDB04_cover_old.webp",
+        "IDDB04_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDDB04_cover.jpg",
+        "IDDB04_cover_old.jpg",
         "IDDB04_cover.png",
         "IDDB04_slide_spec.jpg"
       ]
@@ -17682,36 +17992,56 @@
     "IDDC0D": {
       "sku": "IDDC0D",
       "cover": "IDDC0D_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDDC0D_cover_old.webp",
+        "IDDC0D_slide_spec.jpg"
+      ],
       "files": [
-        "IDDC0D_cover.webp"
+        "IDDC0D_cover.webp",
+        "IDDC0D_cover_old.webp",
+        "IDDC0D_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDDC0D_cover.jpg",
+        "IDDC0D_cover_old.jpg",
+        "IDDC0D_cover.png",
         "IDDC0D_slide_spec.jpg"
       ]
     },
     "IDDC10": {
       "sku": "IDDC10",
       "cover": "IDDC10_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDDC10_cover_old.webp",
+        "IDDC10_slide_spec.jpg"
+      ],
       "files": [
-        "IDDC10_cover.webp"
+        "IDDC10_cover.webp",
+        "IDDC10_cover_old.webp",
+        "IDDC10_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDDC10_cover.jpg",
+        "IDDC10_cover_old.jpg",
+        "IDDC10_cover.png",
         "IDDC10_slide_spec.jpg"
       ]
     },
     "IDDC75": {
       "sku": "IDDC75",
       "cover": "IDDC75_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDDC75_cover_old.webp",
+        "IDDC75_slide_spec.jpg"
+      ],
       "files": [
-        "IDDC75_cover.webp"
+        "IDDC75_cover.webp",
+        "IDDC75_cover_old.webp",
+        "IDDC75_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDDC75_cover.jpg",
+        "IDDC75_cover_old.jpg",
         "IDDC75_cover.png",
         "IDDC75_slide_spec.jpg"
       ]
@@ -17754,12 +18084,19 @@
     "IDDCCD": {
       "sku": "IDDCCD",
       "cover": "IDDCCD_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDDCCD_cover_old.webp",
+        "IDDCCD_slide_spec.jpg"
+      ],
       "files": [
-        "IDDCCD_cover.webp"
+        "IDDCCD_cover.webp",
+        "IDDCCD_cover_old.webp",
+        "IDDCCD_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDDCCD_cover.jpg",
+        "IDDCCD_cover_old.jpg",
+        "IDDCCD_cover.png",
         "IDDCCD_slide_spec.jpg"
       ]
     },
@@ -17791,12 +18128,19 @@
     "IDDD54": {
       "sku": "IDDD54",
       "cover": "IDDD54_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDDD54_cover_old.webp",
+        "IDDD54_slide_spec.jpg"
+      ],
       "files": [
-        "IDDD54_cover.webp"
+        "IDDD54_cover.webp",
+        "IDDD54_cover_old.webp",
+        "IDDD54_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDDD54_cover.jpg",
+        "IDDD54_cover_old.jpg",
+        "IDDD54_cover.png",
         "IDDD54_slide_spec.jpg"
       ]
     },
@@ -17816,24 +18160,38 @@
     "IDDD93": {
       "sku": "IDDD93",
       "cover": "IDDD93_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDDD93_cover_old.webp",
+        "IDDD93_slide_spec.jpg"
+      ],
       "files": [
-        "IDDD93_cover.webp"
+        "IDDD93_cover.webp",
+        "IDDD93_cover_old.webp",
+        "IDDD93_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDDD93_cover.jpg",
+        "IDDD93_cover_old.jpg",
+        "IDDD93_cover.png",
         "IDDD93_slide_spec.jpg"
       ]
     },
     "IDDDDB": {
       "sku": "IDDDDB",
       "cover": "IDDDDB_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDDDDB_cover_old.webp",
+        "IDDDDB_slide_spec.jpg"
+      ],
       "files": [
-        "IDDDDB_cover.webp"
+        "IDDDDB_cover.webp",
+        "IDDDDB_cover_old.webp",
+        "IDDDDB_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDDDDB_cover.jpg",
+        "IDDDDB_cover_old.jpg",
+        "IDDDDB_cover.png",
         "IDDDDB_slide_spec.jpg"
       ]
     },
@@ -17916,84 +18274,36 @@
       "sku": "IDDE48",
       "cover": "IDDE48_cover.webp",
       "slides": [
-        "IDDE48_slide_01.webp",
-        "IDDE48_slide_02.webp",
-        "IDDE48_slide_03.webp",
-        "IDDE48_slide_04.webp",
-        "IDDE48_slide_05.webp",
-        "IDDE48_slide_06.webp",
-        "IDDE48_slide_07.webp",
-        "IDDE48_slide_08.webp",
-        "IDDE48_slide_09.webp",
-        "IDDE48_slide_10.webp",
-        "IDDE48_slide_11.webp",
-        "IDDE48_slide_12.webp",
-        "IDDE48_slide_13.webp",
-        "IDDE48_slide_14.webp",
-        "IDDE48_slide_15.webp",
-        "IDDE48_slide_16.webp",
-        "IDDE48_slide_17.webp",
-        "IDDE48_slide_18.webp",
-        "IDDE48_slide_19.webp",
-        "IDDE48_slide_20.webp"
+        "IDDE48_cover_old.webp",
+        "IDDE48_slide_spec.jpg"
       ],
       "files": [
         "IDDE48_cover.webp",
-        "IDDE48_slide_01.webp",
-        "IDDE48_slide_02.webp",
-        "IDDE48_slide_03.webp",
-        "IDDE48_slide_04.webp",
-        "IDDE48_slide_05.webp",
-        "IDDE48_slide_06.webp",
-        "IDDE48_slide_07.webp",
-        "IDDE48_slide_08.webp",
-        "IDDE48_slide_09.webp",
-        "IDDE48_slide_10.webp",
-        "IDDE48_slide_11.webp",
-        "IDDE48_slide_12.webp",
-        "IDDE48_slide_13.webp",
-        "IDDE48_slide_14.webp",
-        "IDDE48_slide_15.webp",
-        "IDDE48_slide_16.webp",
-        "IDDE48_slide_17.webp",
-        "IDDE48_slide_18.webp",
-        "IDDE48_slide_19.webp",
-        "IDDE48_slide_20.webp"
+        "IDDE48_cover_old.webp",
+        "IDDE48_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDDE48_cover.jpg",
-        "IDDE48_slide_01.jpg",
-        "IDDE48_slide_02.jpg",
-        "IDDE48_slide_03.jpg",
-        "IDDE48_slide_04.jpg",
-        "IDDE48_slide_05.jpg",
-        "IDDE48_slide_06.jpg",
-        "IDDE48_slide_07.jpg",
-        "IDDE48_slide_08.jpg",
-        "IDDE48_slide_09.jpg",
-        "IDDE48_slide_10.jpg",
-        "IDDE48_slide_11.jpg",
-        "IDDE48_slide_12.jpg",
-        "IDDE48_slide_13.jpg",
-        "IDDE48_slide_14.jpg",
-        "IDDE48_slide_15.jpg",
-        "IDDE48_slide_16.jpg",
-        "IDDE48_slide_17.jpg",
-        "IDDE48_slide_18.jpg",
-        "IDDE48_slide_19.jpg",
-        "IDDE48_slide_20.jpg",
+        "IDDE48_cover_old.jpg",
+        "IDDE48_cover.png",
         "IDDE48_slide_spec.jpg"
       ]
     },
     "IDDE9B": {
       "sku": "IDDE9B",
       "cover": "IDDE9B_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDDE9B_cover_old.webp",
+        "IDDE9B_slide_spec.jpg"
+      ],
       "files": [
-        "IDDE9B_cover.webp"
+        "IDDE9B_cover.webp",
+        "IDDE9B_cover_old.webp",
+        "IDDE9B_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDDE9B_cover.jpg",
+        "IDDE9B_cover_old.jpg",
         "IDDE9B_cover.png",
         "IDDE9B_slide_spec.jpg"
       ]
@@ -18088,12 +18398,18 @@
     "IDDF44": {
       "sku": "IDDF44",
       "cover": "IDDF44_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDDF44_cover_old.webp",
+        "IDDF44_slide_spec.jpg"
+      ],
       "files": [
-        "IDDF44_cover.webp"
+        "IDDF44_cover.webp",
+        "IDDF44_cover_old.webp",
+        "IDDF44_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDDF44_cover.jpg",
+        "IDDF44_cover_old.jpg",
         "IDDF44_cover.png",
         "IDDF44_slide_spec.jpg"
       ]
@@ -18124,12 +18440,19 @@
     "IDDF7D": {
       "sku": "IDDF7D",
       "cover": "IDDF7D_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDDF7D_cover_old.webp",
+        "IDDF7D_slide_spec.jpg"
+      ],
       "files": [
-        "IDDF7D_cover.webp"
+        "IDDF7D_cover.webp",
+        "IDDF7D_cover_old.webp",
+        "IDDF7D_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDDF7D_cover.jpg",
+        "IDDF7D_cover_old.jpg",
+        "IDDF7D_cover.png",
         "IDDF7D_slide_spec.jpg"
       ]
     },
@@ -18215,12 +18538,19 @@
     "IDE11D": {
       "sku": "IDE11D",
       "cover": "IDE11D_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDE11D_cover_old.webp",
+        "IDE11D_slide_spec.jpg"
+      ],
       "files": [
-        "IDE11D_cover.webp"
+        "IDE11D_cover.webp",
+        "IDE11D_cover_old.webp",
+        "IDE11D_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDE11D_cover.jpg",
+        "IDE11D_cover_old.jpg",
+        "IDE11D_cover.png",
         "IDE11D_slide_spec.jpg"
       ]
     },
@@ -18269,12 +18599,19 @@
     "IDE1A7": {
       "sku": "IDE1A7",
       "cover": "IDE1A7_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDE1A7_cover_old.webp",
+        "IDE1A7_slide_spec.jpg"
+      ],
       "files": [
-        "IDE1A7_cover.webp"
+        "IDE1A7_cover.webp",
+        "IDE1A7_cover_old.webp",
+        "IDE1A7_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDE1A7_cover.jpg",
+        "IDE1A7_cover_old.jpg",
+        "IDE1A7_cover.png",
         "IDE1A7_slide_spec.jpg"
       ]
     },
@@ -18327,12 +18664,18 @@
     "IDE270": {
       "sku": "IDE270",
       "cover": "IDE270_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDE270_cover_old.webp",
+        "IDE270_slide_spec.jpg"
+      ],
       "files": [
-        "IDE270_cover.webp"
+        "IDE270_cover.webp",
+        "IDE270_cover_old.webp",
+        "IDE270_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDE270_cover.jpg",
+        "IDE270_cover_old.jpg",
         "IDE270_cover.png",
         "IDE270_slide_spec.jpg"
       ]
@@ -19071,24 +19414,37 @@
     "IDE9F0": {
       "sku": "IDE9F0",
       "cover": "IDE9F0_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDE9F0_cover_old.webp",
+        "IDE9F0_slide_spec.jpg"
+      ],
       "files": [
-        "IDE9F0_cover.webp"
+        "IDE9F0_cover.webp",
+        "IDE9F0_cover_old.webp",
+        "IDE9F0_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDE9F0_cover.jpg",
+        "IDE9F0_cover_old.jpg",
+        "IDE9F0_cover.png",
         "IDE9F0_slide_spec.jpg"
       ]
     },
     "IDE9F7": {
       "sku": "IDE9F7",
       "cover": "IDE9F7_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDE9F7_cover_old.webp",
+        "IDE9F7_slide_spec.jpg"
+      ],
       "files": [
-        "IDE9F7_cover.webp"
+        "IDE9F7_cover.webp",
+        "IDE9F7_cover_old.webp",
+        "IDE9F7_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDE9F7_cover.jpg",
+        "IDE9F7_cover_old.jpg",
         "IDE9F7_cover.png",
         "IDE9F7_slide_spec.jpg"
       ]
@@ -19146,12 +19502,19 @@
     "IDEA98": {
       "sku": "IDEA98",
       "cover": "IDEA98_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDEA98_cover_old.webp",
+        "IDEA98_slide_spec.jpg"
+      ],
       "files": [
-        "IDEA98_cover.webp"
+        "IDEA98_cover.webp",
+        "IDEA98_cover_old.webp",
+        "IDEA98_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDEA98_cover.jpg",
+        "IDEA98_cover_old.jpg",
+        "IDEA98_cover.png",
         "IDEA98_slide_spec.jpg"
       ]
     },
@@ -19307,24 +19670,37 @@
     "IDEC22": {
       "sku": "IDEC22",
       "cover": "IDEC22_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDEC22_cover_old.webp",
+        "IDEC22_slide_spec.jpg"
+      ],
       "files": [
-        "IDEC22_cover.webp"
+        "IDEC22_cover.webp",
+        "IDEC22_cover_old.webp",
+        "IDEC22_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDEC22_cover.jpg",
+        "IDEC22_cover_old.jpg",
+        "IDEC22_cover.png",
         "IDEC22_slide_spec.jpg"
       ]
     },
     "IDEC2C": {
       "sku": "IDEC2C",
       "cover": "IDEC2C_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDEC2C_cover_old.webp",
+        "IDEC2C_slide_spec.jpg"
+      ],
       "files": [
-        "IDEC2C_cover.webp"
+        "IDEC2C_cover.webp",
+        "IDEC2C_cover_old.webp",
+        "IDEC2C_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDEC2C_cover.jpg",
+        "IDEC2C_cover_old.jpg",
         "IDEC2C_cover.png",
         "IDEC2C_slide_spec.jpg"
       ]
@@ -19345,12 +19721,19 @@
     "IDEC5E": {
       "sku": "IDEC5E",
       "cover": "IDEC5E_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDEC5E_cover_old.webp",
+        "IDEC5E_slide_spec.jpg"
+      ],
       "files": [
-        "IDEC5E_cover.webp"
+        "IDEC5E_cover.webp",
+        "IDEC5E_cover_old.webp",
+        "IDEC5E_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDEC5E_cover.jpg",
+        "IDEC5E_cover_old.jpg",
+        "IDEC5E_cover.png",
         "IDEC5E_slide_spec.jpg"
       ]
     },
@@ -19409,12 +19792,19 @@
     "IDED71": {
       "sku": "IDED71",
       "cover": "IDED71_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDED71_cover_old.webp",
+        "IDED71_slide_spec.jpg"
+      ],
       "files": [
-        "IDED71_cover.webp"
+        "IDED71_cover.webp",
+        "IDED71_cover_old.webp",
+        "IDED71_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDED71_cover.jpg",
+        "IDED71_cover_old.jpg",
+        "IDED71_cover.png",
         "IDED71_slide_spec.jpg"
       ]
     },
@@ -19588,12 +19978,18 @@
     "IDF0BA": {
       "sku": "IDF0BA",
       "cover": "IDF0BA_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDF0BA_cover_old.webp",
+        "IDF0BA_slide_spec.jpg"
+      ],
       "files": [
-        "IDF0BA_cover.webp"
+        "IDF0BA_cover.webp",
+        "IDF0BA_cover_old.webp",
+        "IDF0BA_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDF0BA_cover.jpg",
+        "IDF0BA_cover_old.jpg",
         "IDF0BA_cover.png",
         "IDF0BA_slide_spec.jpg"
       ]
@@ -19601,12 +19997,19 @@
     "IDF0F3": {
       "sku": "IDF0F3",
       "cover": "IDF0F3_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDF0F3_cover_old.webp",
+        "IDF0F3_slide_spec.jpg"
+      ],
       "files": [
-        "IDF0F3_cover.webp"
+        "IDF0F3_cover.webp",
+        "IDF0F3_cover_old.webp",
+        "IDF0F3_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDF0F3_cover.jpg",
+        "IDF0F3_cover_old.jpg",
+        "IDF0F3_cover.png",
         "IDF0F3_slide_spec.jpg"
       ]
     },
@@ -19678,24 +20081,37 @@
     "IDF282": {
       "sku": "IDF282",
       "cover": "IDF282_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDF282_cover_old.webp",
+        "IDF282_slide_spec.jpg"
+      ],
       "files": [
-        "IDF282_cover.webp"
+        "IDF282_cover.webp",
+        "IDF282_cover_old.webp",
+        "IDF282_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDF282_cover.jpg",
+        "IDF282_cover_old.jpg",
+        "IDF282_cover.png",
         "IDF282_slide_spec.jpg"
       ]
     },
     "IDF2B9": {
       "sku": "IDF2B9",
       "cover": "IDF2B9_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDF2B9_cover_old.webp",
+        "IDF2B9_slide_spec.jpg"
+      ],
       "files": [
-        "IDF2B9_cover.webp"
+        "IDF2B9_cover.webp",
+        "IDF2B9_cover_old.webp",
+        "IDF2B9_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDF2B9_cover.jpg",
+        "IDF2B9_cover_old.jpg",
         "IDF2B9_cover.png",
         "IDF2B9_slide_spec.jpg"
       ]
@@ -20001,12 +20417,19 @@
     "IDF539": {
       "sku": "IDF539",
       "cover": "IDF539_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDF539_cover_old.webp",
+        "IDF539_slide_spec.jpg"
+      ],
       "files": [
-        "IDF539_cover.webp"
+        "IDF539_cover.webp",
+        "IDF539_cover_old.webp",
+        "IDF539_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDF539_cover.jpg",
+        "IDF539_cover_old.jpg",
+        "IDF539_cover.png",
         "IDF539_slide_spec.jpg"
       ]
     },
@@ -20025,12 +20448,19 @@
     "IDF557": {
       "sku": "IDF557",
       "cover": "IDF557_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDF557_cover_old.webp",
+        "IDF557_slide_spec.jpg"
+      ],
       "files": [
-        "IDF557_cover.webp"
+        "IDF557_cover.webp",
+        "IDF557_cover_old.webp",
+        "IDF557_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDF557_cover.jpg",
+        "IDF557_cover_old.jpg",
+        "IDF557_cover.png",
         "IDF557_slide_spec.jpg"
       ]
     },
@@ -20326,12 +20756,18 @@
     "IDF914": {
       "sku": "IDF914",
       "cover": "IDF914_cover.webp",
-      "slides": [],
+      "slides": [
+        "IDF914_cover_old.webp",
+        "IDF914_slide_spec.jpg"
+      ],
       "files": [
-        "IDF914_cover.webp"
+        "IDF914_cover.webp",
+        "IDF914_cover_old.webp",
+        "IDF914_slide_spec.jpg"
       ],
       "auxiliary_files": [
         "IDF914_cover.jpg",
+        "IDF914_cover_old.jpg",
         "IDF914_cover.png",
         "IDF914_slide_spec.jpg"
       ]
@@ -21367,6 +21803,82 @@
       "auxiliary_files": [
         "IDFE6F_cover.jpg",
         "IDFE6F_slide_spec.jpg"
+      ]
+    },
+    "ID22D5": {
+      "sku": "ID22D5",
+      "cover": "ID22D5_cover.webp",
+      "slides": [
+        "ID22D5_cover_old.webp",
+        "ID22D5_slide_spec.jpg"
+      ],
+      "files": [
+        "ID22D5_cover.webp",
+        "ID22D5_cover_old.webp",
+        "ID22D5_slide_spec.jpg"
+      ],
+      "auxiliary_files": [
+        "ID22D5_cover.jpg",
+        "ID22D5_cover_old.jpg",
+        "ID22D5_cover.png",
+        "ID22D5_slide_spec.jpg"
+      ]
+    },
+    "ID22D6": {
+      "sku": "ID22D6",
+      "cover": "ID22D6_cover.webp",
+      "slides": [
+        "ID22D6_cover_old.webp",
+        "ID22D6_slide_spec.jpg"
+      ],
+      "files": [
+        "ID22D6_cover.webp",
+        "ID22D6_cover_old.webp",
+        "ID22D6_slide_spec.jpg"
+      ],
+      "auxiliary_files": [
+        "ID22D6_cover.jpg",
+        "ID22D6_cover_old.jpg",
+        "ID22D6_cover.png",
+        "ID22D6_slide_spec.jpg"
+      ]
+    },
+    "ID22D7": {
+      "sku": "ID22D7",
+      "cover": "ID22D7_cover.webp",
+      "slides": [
+        "ID22D7_cover_old.webp",
+        "ID22D7_slide_spec.jpg"
+      ],
+      "files": [
+        "ID22D7_cover.webp",
+        "ID22D7_cover_old.webp",
+        "ID22D7_slide_spec.jpg"
+      ],
+      "auxiliary_files": [
+        "ID22D7_cover.jpg",
+        "ID22D7_cover_old.jpg",
+        "ID22D7_cover.png",
+        "ID22D7_slide_spec.jpg"
+      ]
+    },
+    "ID22D8": {
+      "sku": "ID22D8",
+      "cover": "ID22D8_cover.webp",
+      "slides": [
+        "ID22D8_cover_old.webp",
+        "ID22D8_slide_spec.jpg"
+      ],
+      "files": [
+        "ID22D8_cover.webp",
+        "ID22D8_cover_old.webp",
+        "ID22D8_slide_spec.jpg"
+      ],
+      "auxiliary_files": [
+        "ID22D8_cover.jpg",
+        "ID22D8_cover_old.jpg",
+        "ID22D8_cover.png",
+        "ID22D8_slide_spec.jpg"
       ]
     }
   }
