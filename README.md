@@ -9,15 +9,14 @@ Dirancang dengan arsitektur **Zero-Bloat Asset Delivery** menggunakan jsDelivr E
  
 ```text
 fokuskonten-assets/
-├── toko-digital/                 # 742 SKU Katalog Toko Digital (4.077 Berkas WebP: Cover & Preview Slides)
+├── toko-digital/                 # 1.729 SKU Katalog Toko Digital (Cover & Preview Slides)
 │   └── [SKU]/
 │       ├── [SKU]_cover.webp      # Cover Utama Resolusi Tinggi
 │       └── [SKU]_slide_[n].webp  # Preview Sheet Desain / Galeri
 ├── ebook/                        # 2.471 Cover WebP E-Book Digital & Buku Elektronik
-├── covers/                       # Banner & Cover Produk Digital Pelengkap
 ├── testpoint/                    # 1.042 Foto Diagram Motherboard & Titik Testpoint EDL 9008
 ├── isp/                          # 1.565 Diagram Skema Pinout Direct ISP eMMC/UFS
-├── toko_digital_assets_index.json # Indeks SSOT 742 SKU Toko Digital (O(1) CDN Lookup)
+├── toko_digital_assets_index.json # Indeks SSOT Toko Digital (O(1) CDN Lookup)
 ├── technician_assets_index.json  # Indeks Gabungan Testpoint & ISP Hardware
 └── testpoints_index.json         # Indeks Pemetaan Model & Slug Teknisi
 ```
